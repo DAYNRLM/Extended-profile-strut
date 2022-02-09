@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বিবরণী</string>
+    <!--do not change these strings used in programing conditions-->
+
+    <string name="server_error_invalid_userId">অবৈধ ইউসার নাম!!!</string>
+    <!--{"status":"Invalid Username!!!"}-->
+    <string name="android_api_version">অবৈধ অ্যানড্রয়েড এপিআই (api) ভার্সন!!!</string>
+    <!--{"status":"Invalid android_api_version!!!"}-->
+    <string name="server_error_invalid_userId_and_password" translatable="false">অবৈধ ইউসার নাম ও পাসওয়ার্ড!!!</string>
+    <!--{"status":"Invalid Username or Password!!!"}-->
+    <string name="server_error_invalid_AppVersion">অবৈধ অ্যাপ (APP) ভার্সন!!! </string>
+    <string name="server_error__AppVersion">অ্যাপ (App) ভার্সন!</string>
+    <string name="update">আপডেট </string>
+    <string name="block_not_assigned">Block is not assigned on this ID.</string>
+
+    <!-- created by lincon -->
+
+    <string name="openDrawer">ড্রয়ার খোলা আছে </string>
+    <string name="scan_aadharh">Scan Aadhar Card</string>
+    <string name="scan_bank">Bank Details</string>
+    <string name="closeDrawer">ড্রয়ার বন্ধ আছে </string>
+    <string name="selectGramPanchyt">গ্রাম পঞ্চায়েত  নির্বাচন করুন</string>
+    <string name="kyc_doc_type">পরিচয় পত্রের (কেওয়াইসি / KYC) নথিপত্র প্রকার বাছুন</string>
+    <string name="selectVillage">গ্রাম নির্বাচন করুন</string>
+    <string name="blockName">ব্লকের নাম</string>
+    <string name="enterAadharMsg">আপনার আধারের বিবরণ  দিন</string>
+    <string name="uploade_msg">Upload filled consent form (Only PDF)</string>
+    <string name="loading">লোড হচ্ছে…</string>
+    <string name="scan_brcd">বারকোড স্ক্যান করুন </string>
+    <string name="gpsMsg">বারকোড স্ক্যান করুন </string>
+    <string name="gotoSetting">সেটিংস এ যান</string>
+    <string name="enterValidAccMsg">বৈধ খাতা সংখ্যা  দিন </string>
+    <string name="enter">দিন</string>
+    <string name="enterDigitMsg">অঙ্কের খাতা সংখ্যা</string>
+    <string name="error_acc_length">Account Number length is too short.</string>
+    <string name="accountNoIsWrong">খাতা সংখ্যা মিলছেনা ! দয়া করে চেক আবার দিন </string>
+    <string name="scanBarCode">বারকোড স্ক্যান করুন, টর্চের জন্য আওয়াজ বাড়ানোর বোতাম টিপুন </string>
+    <string name="fillAddharDetail">প্রথমে আধার নম্বর ভর্তি করুন!!!</string>
+    <string name="fillAccountDetail">প্রথমে আধার নম্বর ভর্তি করুন!!!</string>
+    <string name="error_uploade_concent">Please uploade filled consent form!!!</string>
+    <string name="error_file_size">Please uploade concent form file with size upto 115KB!</string>
+    <string name="enterValidMobile">বৈধ মোবাইল নম্বর দিন!!!</string>
+    <string name="enter_postalcode">পোস্টাল কোড দিন </string>
+    <string name="enterErongAadhar">আপনার দেওয়া ইউআইডি (UID / আধার সংখ্যা) ভুল।</string>
+    <string name="takePassbookPhoto">প্রথমে পাসবইয়ের ফটো তুলুন !!!</string>
+    <string name="SERVER_ERROR_MESSAGE">অভ্যন্তরীণ সার্ভারের ভুল।</string>
+
+    <!--created by lincon for add member layout-->
+    <string name="aadhar_seeded_acc">আধার সীডেড আকাউন্ট </string>
+    <string name="insurance_coverage_pmjjy">পিএমজেজেওয়াই (PMJJBY) তে নথিভুক্ত </string>
+    <string name="insurance_coverage_pmsby">পিএমএসবিওয়াই (PMSBY) তে নথিভুক্ত </string>
+    <string name="insurance_coverage_life">জীবন বীমায় নথিভুক্ত </string>
+    <string name="insurance_coverage_pension">পেনশন স্কীমে (এপিওয়াই) (APY) নথিভুক্ত</string>
+    <string name="date_of_joining">যোগদানের তারিখ<font color='#FFFF1100'>*</font><i><font color='#FFFF1100' size='10'> (dd-mm-yyy)</font></i> </string>
+
+    <!--created by lincon NIC tag layout-->
+    <string name="personal_detail">নিজস্ব তথ্য </string>
+    <string name="bank_detail_member">ব্যাঙ্কের তথ্যাবলি </string>
+    <string name="insurance_coverage">বীমা কভারেজ </string>
+    <string name="bottom_text">এনআইসি (NIC) দ্বারা নকশা করা, চালিত ও সংরক্ষিত, কন্টেন্ট দিয়েছে এমওআরডি (MORD)</string>
+
+    <!--added by Abdul-->
+    <string name="user_id">ইউসার আইডি </string>
+    <string name="kyc_doc_id">ডকুমেন্ট আইডি দিন </string>
+    <string name="password">পাসওয়ার্ড </string>
+    <string name="login">লগইন </string>
+    <string name="logout">লগআউট </string>
+    <string name="server_error_dialog">সার্ভারের ভুল!</string>
+    <string name="NO_INTERNET_TITLE">ইন্টারনেট নেই!</string>
+    <string name="SERVER_ERROR_TITLE">সার্ভারের ত্রুটি!</string>
+    <string name="INTERNET_MESSAGE">দয়া করে আপনার ইন্টারনেট সংযোগটি চালু করুন </string>
+    <string name="server_error_msg">Server Error!!!</string>
+    <string name="slow_internet">ইন্টারনেট আসতে চলছে!!!</string>
+    <string name="no_internet_dialog">ইন্টারনেট নেই!</string>
+    <string name="goto_internet_setting">সেটিং </string>
+    <string name="aadhar_link_status">আধার সংযুক্ত (লিঙ্কড) আছে। </string>
+    <string name="kyc_heading">Upgrade SHG profile</string>
+    <string name="status">স্থিতি </string>
+    <string name="change_status">স্থিতি পরিবর্তন করুন </string>
+    <string name="status_active">সচল </string>
+    <string name="status_inactive">নিষ্ক্রিয় </string>
+    <string name="member_form">স্বনির্ভর গোষ্ঠী র সদস্যের ফর্ম </string>
+    <string name="KYC_Verified">পরিচয় পত্র (কেওয়াইসি  / KYC) ভেরিফাই করা হয়ে গেছে </string>
+    <string name="member_Verified">সদস্য যুক্ত করা হল </string>
+    <!--Text messages-->
+
+    <string name="unsync_details">UnSync Details:</string>
+    <string name="sync_data">সিঙ্কের ডেটা </string>
+    <string name="unsync_aadhar">আধারগুলো </string>
+    <string name="unsync_bankAcc">ব্যাঙ্ক খাতাগুলো  </string>
+    <string name="unsync_add_member">যোগ করা সদস্যগণ </string>
+    <string name="unsync_kyc_doc">পরিচয় পত্র (কেওয়াইসি/KYC) নথিপত্র </string>
+    <string name="unsynced_modified_member">সংশোধিত সদস্যগণ </string>
+    <string name="unsynced_modified_shg">সংশোধিত স্বনির্ভর গোষ্ঠী </string>
+    <string name="bank_details">ব্যাঙ্কের খাতা </string>
+    <string name="unsync_aadhar_count">unsync_account_count</string>
+    <string name="unsync_account_count">unsync_account_count</string>
+    <string name="unsync_member_count">""</string>
+    <string name="unsync_kycdoc_count">""</string>
+    <string name="unsyncedMembers">""</string>
+    <string name="unsyncedshgs">""</string>  <!--Unsync-->
+
+    <string name="title">আধার স্ক্যানারের ক্রিয়াকলাপ </string>
+    <string name="contact_us">আমাদের সঙ্গে যোগাযোগ করুন </string>
+    <string name="save">সেভ</string>
+    <string name="back">Back</string>
+    <string name="data_save_msg">ডেটা সেভ করা সফল হয়েছে।</string>
+    <string name="data_sync_msg">ডেটা সিঙ্ক করা সফল হয়েছে।</string>
+    <string name="syncing_data">ডেটা  সিঙ্ক করা হচ্ছে …</string>
+    <string name="bank_acc_link_status">ব্যাঙ্কের খাতার বিবরণ নেওয়া হয়েছে।</string>
+    <string name="info">তথ্য </string>
+    <string name="shg_is">নিশ্চিতকরণ স্থগিত </string>
+    <string name="member_is">নিশ্চিতকরণ স্থগিত </string>
+    <string name="shg_inactive_msg">এবং এর ভিত্তিতে কোনরকম ক্রিয়া সম্ভব না। </string>
+    <string name="login_attempts_msgS">আপনার কাছে শুধু </string>
+    <string name="login_attempts_msgE">লগ ইন প্রচেষ্টা অবশিষ্ট আছে।</string>
+    <string name="pending_status">নিষ্ক্রিয় হিসাবে চিহ্নিত </string>
+    <string name="rejected_status">Rejected</string>
+    <string name="accepted">গৃহীত </string>
+    <string name="no_data_found">No data found!!!</string>
+    <string name="communicate_to_server">প্রথমে অনলাইন মোডে সার্ভার থেকে ডেটা নিন।</string>
+
+
+    <!--error messages-->
+    <string name="error_status">সদস্য নিষ্ক্রিয়।</string>
+    <string name="error_userId">অবৈধ ইউসার আইডি!</string>
+    <string name="error_password">অবৈধ পাসওয়ার্ড!</string>
+    <string name="error_name">Invalid entered name!</string>
+    <string name="error_Fname">Invalid entered father name!</string>
+    <string name="error_yob">জন্মতারিখ লিখুন!</string>
+    <string name="error_address">আপনার আধার অনুসারে ঠিকানা দিন!</string>
+    <string name="error_doc_id">অবৈধ ডকুমেন্ট আইডি!</string>
+    <string name="error_bank_branch">Select bank branch</string>
+    <string name="error_aadhar_details_wrong">Entered aadhar details are wrong. </string>
+    <string name="error_uidai_id">ইউআইএডিআই (UIADI) নম্বর দিন </string>
+    <string name="error_mobile">দয়া করে বৈধ মোবাইল নম্বর দিন  </string>
+    <string name="error_gender">Enter only M->Male or F->Female or T->Transgender</string>
+    <string name="error_other_edu">দয়া করে অন্য শিক্ষা দিন </string>
+    <string name="server_error_device_info">মোবাইল ত্রুটি! </string>
+    <string name="error_secc_no">প্রথমে এসইসিসি (SECC) নম্বর বাছুন।</string>
+    <string name="server_error_device_info_massege">আপনি আপনার মোবাইল পরিবর্তন বা আপডেট করেছেন </string>
+    <string name="server_error_invalid_id_or_password_massege">অবৈধ ইউসার আইডি ও পাসওয়ার্ড!</string>
+    <string name="AADHAR_API_VOLLEY_ERROR">আধার সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="BANK_ACC_API_VOLLEY_ERROR">ব্যাঙ্কের খাতার সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="ADD_MEMBER_API_VOLLEY_ERROR">সদস্য যুক্ত করার সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="KYC_DOC_API_VOLLEY_ERROR">পরিচয় পত্র (কেওয়াইসি/KYC) নথিপত্র সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="KYC_DOC_sync">পরিচয় পত্র (কেওয়াইসি/KYC) নথিপত্র সিঙ্ক </string>
+    <string name="SHG_INACTIVE_API_VOLLEY_ERROR">স্বনির্ভর গোষ্ঠী র নিষ্ক্রিয় করবার  সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="Member_INACTIVE_API_VOLLEY_ERROR">সদস্য নিষ্ক্রিয় করবার সিঙ্ক ডেটা কার্যকরী হয়নি, পুনরায় চেষ্টা করুন!</string>
+    <string name="sync_data_failed">ডেটা সিঙ্ক কার্যকরী হয়নি, পুনরায় চেষ্টা করুন !</string>
+    <string name="error_cridential_block">দয়া করে আপনার ক্রেডেন্সিয়ালগুলির ব্লক খোলা অবধি অপেক্ষা করুন।</string>
+    <string name="error_add_member_limit_exceed">SHG add member limit exceeded, You can not add more member </string>
+
+
+    <!--Toast messages-->
+    <string name="toast_exit_app">বেরোনোর জন্য আরেকবার ব্যাকে চাপ দিন।</string>
+    <string name="toast_aadhar_bank_marked">আধার এবং ব্যাঙ্ক, দুটোই ভেরিফাই করা হয়েছে </string>
+    <string name="toast_aadhar_bank_linked">আধার এবং ব্যাঙ্ক, দুটোর বিবরণই সংযুক্ত (লিঙ্ক) করা হয়েছে </string>
+    <string name="toast_vill_not_assigned">গ্রামগুলিকে বরাদ্দ করা হয়নি।</string>
+    <string name="toast_gp_not_assigned">গ্রাম পঞ্চায়েতগুলিকে বরাদ্দ করা হয়নি।</string>
+    <string name="toast_block_not_assigned">ব্লকগুলিকে বরাদ্দ করা হয়নি।</string>
+    <string name="toast_error_member_photo">আগে সদস্যের ফটো তুলুন!!!</string>
+    <string name="toast_error_passbook_photo">আগে পাসবইয়ের ফটো তুলুন!!!</string>
+    <string name="toast_error_front_photo">সম্মুখের ছবির ফল বাতিল করা হয়েছে, পুনরায় চেষ্টা করুন!</string>
+    <string name="toast_error_back_photo">পিছনদিকের ছবির ফল বাতিল করা হয়েছে, পুনরায় চেষ্টা করুন!</string>
+    <string name="toast_document_exists">এই নথিপত্রটি আগে থেকেই আছে।</string>
+    <string name="toast_take_front_image">Please add document image.</string>
+    <string name="toast_take_back_image">Please add document back side image.</string>
+    <string name="no_village">এর নিম্নে কোনও গ্রামকে বরাদ্দ করা হয়নি </string>
+    <string name="gp">গ্রাম পঞ্চায়েত</string>
+    <string name="valid">বৈধ  </string>
+    <string name="not_valid">অবৈধ  </string>
+    <string name="toast_uploade_file">Upload the PDF file first. </string>
+
+    <string name="invalid_acc_no">দয়া করে বৈধ  খাতা সংখ্যা দিন।</string>
+    <string name="aadhar_exists">আধার কার্ড আগে থেকেই আছে।</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">হ্যালো ফাঁকা খণ্ড </string>
+
+
+    <!--added by Manish-->
+    <string name="enter_mpin">আপনার এম.পিন (Mpin) দিন </string>
+    <string name="confirm_mpin">আপনার এমপিন (Mpin) নিশ্চিত করুন </string>
+    <string name="create_mpin">Create 4 Digit Mpin</string>
+    <string name="forgotpin">এমপিন ভুলে গেছেন</string>
+    <string name="Proceed">এগিয়ে যান </string>
+    <string name="toast_FAIL">অসফল </string>
+    <string name="unlock_first">দয়া করে প্রথমে আনলক করুন </string>
+    <string name="faild_code">“ভুল এমপিন(Mpin), পুনরায় চেষ্টা করুন!” </string>
+    <string name="Mpin_ceated_successfully">“এমপিন (Mpin) সফল ভাবে তৈরি হয়েছে। "</string>
+    <string name="chnage_language">“ভাষা পরিবর্তন করুন” </string>
+    <string name="Enter_aadhar_number">আপনার ১২ সংখ্যার আধার নম্বরটি দিন </string>
+    <string name="other_education">দয়া করে নির্দিষ্ট করুন </string>
+    <string name="name_as_per_aadhar">আধার অনুসারে নাম </string>
+    <string name="gender">লিঙ্গ (পুং/ম/উ)</string>
+    <string name="father_name">পিতার নাম </string>
+    <string name="year_of_birth">জন্ম সাল /তারিখ</string>
+    <string name="postel_code">পোস্টাল কোড </string>
+    <string name="Address">ঠিকানা</string>
+    <string name="submit_aadhar_details">আধারের বিবরণ জমা দিন </string>
+    <string name="block_gp_name">ব্লকের নাম >>গ্রাম পঞ্চায়েতের নাম>>গ্রামের নাম </string>
+    <string name="shg_name">স্বনির্ভর গোষ্ঠী র নাম:-</string>
+    <string name="member_name">সদস্যের নাম :-</string>
+    <string name="shg_member_photo">স্বনির্ভর গোষ্ঠী র সদস্যের ফটো </string>
+    <string name="member_photo">সদস্যের ফটো </string>
+
+    <string name="enter_your_bank_account_details">আপনার ব্যাঙ্কের খাতার বিবরণ দিন </string>
+    <string name="select_bank_type">ব্যাঙ্কের প্রকার নির্বাচন করুন</string>
+    <string name="select_bank">ব্যাঙ্ক নির্বাচন করুন</string>
+    <string name="select_bank_branch">ব্যাঙ্কের শাখা  নির্বাচন করুন</string>
+    <string name="ifsc_code">আইএফএসসি (IFSC ) কোড </string>
+    <string name="account_number">খাতা সংখ্যা </string>
+    <string name="confirm_account_number">খাতা সংখ্যা নিশ্চিত করুন </string>
+    <string name="Take_passbook_photo">পাসবইয়ের ফটো তুলুন </string>
+    <string name="passbook_photo">পাসবইয়ের ফটো:-</string>
+    <string name="doc_image_title">ডকুমেন্টের ছবি </string>
+    <string name="doc_image_front_title">সামনের দিকের ছবি </string>
+    <string name="doc_image_back_title">পিছনের দিকের ছবি </string>
+    <string name="Take_again">আবার তুলুন </string>
+    <string name="submitDetails">বিবরণ  জমা দিন </string>
+    <string name="add_photo">ফটো যুক্ত করুন </string>
+    <string name="submit_account_details">খাতার বিবরণ  জমা দিন </string>
+
+    <string name="select_location">স্থান নির্বাচন করুন</string>
+    <string name="national_livelihood_mission">রাষ্ট্রীয় গ্রামীণ আজীবিকা মিশন </string>
+    <string name="hotel_address">৬ষ্ঠ তল, সম্রাট হোটেল, চানক্যপুরি \n নয়া দিল্লি-১১০০২১ \n ফোন নম্বর : ০১১২৪১২২৯৪৭</string>
+    <string name="name_abc">নাম এবিসি </string>
+    <string name="go_to_aadhar_details">আধার বিবরণে  যান</string>
+    <string name="go_to_account_details">খাতার বিবরণে যান</string>
+    <string name="cancel">বাতিল করুন </string>
+    <string name="qr_code_scanner">কিউ আর কোড (QR CODE) স্ক্যানার </string>
+    <string name="ok">ওকে (Ok) </string>
+    <string name="logedin_already">আগে থেকেই লগইন করা আছে।</string>
+    <string name="loading_heavy">দয়া করে অপেক্ষা করুন, অনেক পরিমাণ ডেটা লোড করা হচ্ছে </string>
+    <string name="title_name">নাম </string>
+    <string name="total_shgs_members">স্বনির্ভর গোষ্ঠীর মোট সদস্য সংখ্যা </string>
+    <string name="shg_member_name">স্বনির্ভর গোষ্ঠীর সদস্যের নাম </string>
+    <string name="aadhar_card_linked">আধার কার্ড </string>
+    <string name="aadhar_card_exist">আধার কার্ড আগে থেকেই আছে </string>
+
+    <string name="bank_account_linked">ব্যাঙ্কের খাতা </string>
+    <string name="kyc">পরিচয় পত্র (কেওয়াইসি/KYC) নথিপত্র </string>
+    <string name="digits_address">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="digits_name">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="pending">নিষ্ক্রিয় হিসাবে চিহ্নিত </string>
+    <string name="marked_as_verified">ভেরিফাই করা হয়েছে হিসাবে চিহ্নিত </string>
+    <string name="verified">ভেরিফাই করা হয়েছে </string>
+    <string name="unverified">ভেরিফাই করা হয়নি </string>
+    <string name="kyc_completed">Completed</string>
+    <string name="kyc_not_completed">Not Completed</string>
+    <string name="please_update_your_aadhar_bank">আপনার আধার/ব্যাঙ্ক দয়া করে আপডেট করুন </string>
+
+    <string name="duplicate_title">ডুপ্লিকেট ডেটা  </string>
+    <string name="duplicate_msg">এই তথ্য পরের লগইনের সময়ে নিজে থেকেই মুছে যাবে। </string>
+    <string name="duplicate_aadhar">আধার</string>
+
+
+    <string name="this_is_not_uidai_compliance_qr">এটি কোনও ইউআইডিএআই (UIDAI) অনুমোদিত কিউ আর কোড (QR code) নয় 	</string>
+
+    <string name="fill_your_aadhar_and_bank_account">আপনার আধার ও ব্যাঙ্কের খাতার বিবরণ পূরণ করুন </string>
+    <string name="do_you_want_to_change_the_language">আপনি কি ভাষা পরিবর্তন করতে চান? </string>
+    <string name="save_data_confirmation">আপনি কি ডেটাটা সেভ করতে চান?</string>
+    <string name="go_to_shg_list">স্বনির্ভর গোষ্ঠী তালিকায় যান </string>
+    <string name="scan_aadhar">আধার স্ক্যান করুন </string>
+    <string name="home">হোম </string>
+    <string name="change_language">ভাষা পরিবর্তন করুন </string>
+    <string name="details_on_this_selected_location">এই নির্বাচিত  স্থানের বিবরণ </string>
+    <string name="Number_of_total_shg">স্বনির্ভর গোষ্ঠীর মোট সংখ্যা </string>
+    <string name="total_number_of_shg_member">স্বনির্ভর গোষ্ঠী মোট সদস্য সংখ্যা </string>
+    <string name="total_number_of_member_linked_aadhar_card">আধার কার্ড সংযুক্ত করা সদস্যদের মোট সংখ্যা </string>
+    <string name="total_number_of_member_pending_for_aadhar_linked">আধার কার্ড সংযুক্ত করা (লিঙ্কড)বাকি এমন সদস্যদের মোট সংখ্যা </string>
+    <string name="total_number_of_pending_bank_account_linked">ব্যাঙ্কের খাতা সংযুক্ত করা (লিঙ্কড) বাকি এমন সদস্যদদের মোট সংখ্যা </string>
+    <string name="submit">সাবমিট </string>
+    <string name="invalid_user">অবৈধ ইউসার আইডি ও পাসওয়ার্ড </string>
+    <string name="wait_for_adding_location">স্থান পাওয়ার জন্য অপেক্ষা করুন!!!</string>
+    <string name="take_member_photo">সদস্যের ফটো তুলুন আগে!!!</string>
+    <string name="getting_location">স্থান খোঁজা হচ্ছে, দয়া করে অপেক্ষা করুন!!!</string>
+    <string name="canceld">বাতিল </string>
+    <string name="not_scaned">স্ক্যান করা হয়নি </string>
+    <string name="enter_education">অন্য শিক্ষা দিন </string>
+    <string name="select_pension">পেনশন নির্বাচন করুন হ্যাঁ /না !!</string>
+    <string name="select_life_insurance">জীবন বীমা নির্বাচন করুন হ্যাঁ/না !! </string>
+    <string name="select_pmsby">পিএমএসবিওয়াই (PMSBY) নির্বাচন করুন হ্যাঁ/না !!</string>
+    <string name="select_pmjjy">পিএমজেজেওয়াই (PMJJBY) নির্বাচন করুন হ্যাঁ/না !!</string>
+    <string name="select_dateofbirth">জন্মতারিখ নির্বাচন করুন ! </string>
+
+    <string name="select_bank_name">প্রথমে ব্যাঙ্কের নাম নির্বাচন করুন!!</string>
+
+    <string name="education">শিক্ষা </string>
+    <string name="leader">পদ বাছুন </string>
+    <string name="pip">পিআইপি (PIP) </string>
+    <string name="religion">ধর্ম </string>
+    <string name="disablity">শারীরিক প্রতিবন্ধকতা</string>
+    <string name="select_social_category">সামাজিক বিভাগ নির্বাচন করুন</string>
+    <string name="enter_mobile_number">মোবাইল নম্বর দিন </string>
+    <string name="error_pvgt">পিভিজিটি (PVGT) বাছুন </string>
+    <string name="fill_account_number">খাতার নম্বর দিন !!</string>
+
+    <string name="please_confirm_account_number">খাতার নম্বর নিশ্চিত করুন !!</string>
+    <string name="select_aadhar_seeded">আপনার খাতা আধার সীডেড আছে কিনা নির্বাচন করুন </string>
+    <string name="mpin_creation">এমপিন (MPIN) তৈরি অসফল হয়েছে </string>
+    <string name="please_allow_permission">দয়া করে অনুমতি প্রদান করুন </string>
+    <string name="done">হয়ে গেছে </string>
+    <string name="enter_aadhar_card_number_is_wrong">আপনার দেওয়া আধার কার্ড নম্বরটি ভুল </string>
+    <string name="please_select_the_location_first">দয়া করে প্রথমে স্থান বাছুন !!!</string>
+    <string name="do_you_want_to_inactivate_the_member">আপনি কি সদস্য কে নিষ্ক্রিয় করতে চান? </string>
+    <string name="gram_panchayat">গ্রাম পঞ্চায়েত </string>
+    <string name="village">গ্রাম</string>
+
+    <string name="shg_code">স্বনির্ভর গোষ্ঠীর  কোড  </string>
+    <string name="mobile_number">মোবাইল নম্বর </string>
+    <string name="social_category">সামাজিক বিভাগ </string>
+    <string name="pvgt_status">পিভিজিটি (PVTG) </string>
+
+
+    <string name="pip_category">পিআইপি (PIP)  বিভাগ </string>
+    <string name="education_standered">শিক্ষার মান </string>
+    <string name="is_she_book_keeper">উনি কি বুক কীপার</string>
+    <string name="select_member_name_from_secc">এসইসিসি (SECC) তালিকা থেকে সদস্যের নাম বাছুন </string>
+    <string name="data_saved_successfully">ডেটা সেভ করা সফল হয়েছে</string>
+    <string name="forgot_password">পাসওয়ার্ড ভুলে গেছেন </string>
+    <string name="otp_creation">ওটিপি(OTP) তৈরি করা </string>
+    <string name="enter_mobile">আপনার মোবাইল নম্বর দিন </string>
+    <string name="send_otp">ওটিপি (OTP) পাঠান </string>
+    <string name="enter_valid_mobile_number">দয়া করে বৈধ মোবাইল নম্বর দিন </string>
+    <string name="no_internet_connection">কোনও ইন্টারনেট পরিষেবা নেই </string>
+    <string name="please_open_your_internet_connection">দয়া করে, নিজের ইন্টারনেট সংযুক্ত করুন </string>
+
+    <string name="otp_massage">হল ওয়ান টাইম পাসওয়ার্ড (ওটিপি/ OTP) প্রসারিত প্রোফাইল অ্যাপ্লিকেশনের জন্য। এটি কারুর সঙ্গে ভাগ করবেন না। </string>
+    <string name="reset_pass_TV">পাসওয়ার্ড বদলান</string>
+    <string name="enter_otp">ওটিপি (OTP) দিন</string>
+    <string name="error_otp">আপনার দেওয়া ওটিপি (OTP) ভুল </string>
+    <string name="enter_pass">নতুন পাসওয়ার্ড </string>
+    <string name="confirm_pass">নতুন পাসওয়ার্ড নিশ্চিত করুন </string>
+    <string name="error_confirm_password">নিশ্চিত করা পাসওয়ার্ড এর দৈর্ঘ্য ৬ এর কম হয়না </string>
+    <string name="toast_otp_wrong">আপনার দেওয়া ওটিপি (OTP) ভুল </string>
+    <string name="error_confirm_password_not_matched">নিশ্চিত করা পাসওয়ার্ড মিলছেনা।</string>
+    <string name="error_invalid_aadhar">Invalid aadhar, do not use space</string>
+    <string name="error_invalid_pan">Invalid pan card</string>
+    <string name="error_invalid_dl">Invalid driving liecence, do not use hiphen(-) or space</string>
+    <string name="error_invalid_passport">Invalid passport,do not use space</string>
+    <string name="error_invalid_aadhar_enrollment">Invalid aadhar enrollment number</string>
+    =========================================================================================================================
+    <!--newly added string labels-->
+    <string name="toast_file_upload_error">Error in file, upload another. </string>
+    <string name="error_in_update_pass_response">Please try again with another userId and mobile number </string>
+    <string name="error_in_fill_mpin">Lock code is empty!</string>
+    <string name="KYC_complt">KYC is completed.</string>
+    <string name="no_shg">Shg Not Found !!!</string>
+    <string name="no_ops">You can not perform any operation on it.</string>
+
+    <string name="designation">Designation</string>
+    <string name="change_designation">Change Designation</string>
+    <string name="designation_current_status">Current Status</string>
+    <string name="changed">Updated</string>
+    <string name="requested">Requested</string>
+    <string name="max_update_done">All designation updated</string>
+    <string name="error_designation">(Designation) is already updated.So please select another designation.</string>
+    <string name="Member_UPDATE_API_VOLLEY_ERROR">Update designation sync data  failed, try again!</string>
+    <string name="Member_updated_msg">Updating designation is a one time process,means you can not assign this designation to other.</string>
+    <string name="invalid_reuest_msg">is invalid request.</string>
+    <string name="error_leadership">is already exist in the group.Please select another designation!</string>
+
+
+
+    <!--   newly added 26_10_21  -->
+    <string name="toast_face_msg">More than 1 face found.</string>
+    <string name="toast_no_face_msg">No face found.</string>
+    <string name="toast_images_msg">Uploaded images are wrong, Please upload another image</string>
+    <string name="error_in_image">Error in image.</string>
+</resources>

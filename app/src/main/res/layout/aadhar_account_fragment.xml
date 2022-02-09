@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorScreenBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/space5dp"
+            android:padding="@dimen/space2dp"
+            app:cardBackgroundColor="@color/colorWhite">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/OnScreenTitleTheme"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/enterAadharMsg" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/AadharTextinputLayout"
+                        android:layout_weight="0.6">
+
+                        <EditText
+                            android:id="@+id/enterAadharEt"
+                            style="@style/AadharcarEditTextStyle"
+                            android:hint="@string/Enter_aadhar_number"
+                            android:inputType="number"
+                            android:maxLength="12" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <ImageView
+                        android:id="@+id/aadharScannerIV"
+                        android:layout_marginTop="@dimen/space5dp"
+                        android:padding="@dimen/space2dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.4"
+                        android:src="@drawable/barcode" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/detailLinearLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="0.5">
+
+                            <EditText
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/name_as_per_aadhar" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="1.5">
+
+                            <EditText
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/gender"
+                                android:maxLength="7" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="0.7">
+
+                            <EditText
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/father_name" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="1.3">
+
+                            <EditText
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/year_of_birth"
+                                android:inputType="number"
+                                android:maxLength="4" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout">
+
+                            <EditText
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/Address" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/submitBtn"
+                        style="@style/CommonButton"
+                        android:text="@string/submit_aadhar_details" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</ScrollView>

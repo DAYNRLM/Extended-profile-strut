@@ -1,0 +1,328 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.aadharscanner"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:6:5-73
+8        android:minSdkVersion="21"
+8-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:6:5-73
+9        android:targetSdkVersion="29" />
+9-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:6:5-73
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:8:5-79
+11-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:8:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:9:5-67
+12-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:9:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:10:5-79
+13-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:10:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:11:5-81
+14-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.ACCESS_GPS" />
+15-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:12:5-69
+15-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:12:22-66
+16    <uses-permission android:name="android.permission.ACCESS_ASSISTED_GPS" />
+16-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:13:5-78
+16-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:13:22-75
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:14:5-75
+17-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:14:22-72
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:15:5-65
+18-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:15:22-62
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:16:5-80
+19-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:16:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:17:5-81
+20-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:17:22-78
+21    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE " />
+21-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:18:5-87
+21-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:18:22-84
+22
+23    <permission
+23-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:20:5-22:55
+24        android:name="android.permission.WRITE_SETTINGS"
+24-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:21:9-57
+25        android:protectionLevel="signatureOrSystem" />
+25-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:22:9-52
+26
+27    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:25:5-27:36
+29        android:name="android.hardware.camera"
+29-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:26:9-47
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:27:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:28:5-30:36
+32        android:name="android.hardware.camera.front"
+32-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:29:9-53
+33        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+33-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:30:9-33
+34    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:33:5-35:36
+36        android:name="android.hardware.camera.autofocus"
+36-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:34:9-57
+37        android:required="false" />
+37-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:35:9-33
+38    <uses-feature
+38-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:36:5-38:36
+39        android:name="android.hardware.camera.flash"
+39-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:37:9-53
+40        android:required="false" />
+40-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:38:9-33
+41    <uses-feature
+41-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:39:5-41:36
+42        android:name="android.hardware.screen.landscape"
+42-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:40:9-57
+43        android:required="false" />
+43-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:41:9-33
+44    <uses-feature
+44-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:42:5-44:36
+45        android:name="android.hardware.wifi"
+45-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:43:9-45
+46        android:required="false" />
+46-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:44:9-33
+47
+48    <application
+48-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:24:5-92:19
+49        android:allowBackup="false"
+49-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:25:9-36
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.2.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\aca3f2cb51401ca6b614c93b07002daf\core-1.2.0\AndroidManifest.xml:24:18-86
+51        android:debuggable="true"
+51-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:26:9-35
+52        android:icon="@mipmap/ic_launcher_foreground"
+52-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:27:9-54
+53        android:label="@string/app_name"
+53-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:29:9-41
+54        android:networkSecurityConfig="@xml/network_security_config"
+54-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:30:9-69
+55        android:requestLegacyExternalStorage="true"
+55-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:28:9-52
+56        android:roundIcon="@mipmap/ic_launcher_foreground"
+56-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:31:9-59
+57        android:supportsRtl="true"
+57-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:32:9-35
+58        android:theme="@style/AppTheme"
+58-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:33:9-40
+59        android:usesCleartextTraffic="true" >
+59-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:34:9-44
+60        <meta-data
+60-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:38:9-40:40
+61            android:name="com.google.mlkit.vision.DEPENDENCIES"
+61-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:39:13-64
+62            android:value="ocr|face" />
+62-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:40:13-37
+63
+64        <activity
+64-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:42:9-85
+65            android:name="com.example.aadharscanner.activites.KYC"
+65-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:42:19-48
+66            android:exported="false" />
+66-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:42:49-73
+67        <activity
+67-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:43:9-86
+68            android:name="com.example.aadharscanner.activites.DeleteVillage"
+68-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:43:19-58
+69            android:exported="false" />
+69-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:43:59-83
+70        <activity
+70-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:44:9-88
+71            android:name="com.example.aadharscanner.activites.OTPVerification"
+71-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:44:19-60
+72            android:exported="false" />
+72-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:44:61-85
+73        <activity
+73-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:45:9-49:56
+74            android:name="com.example.aadharscanner.activites.AddShgMemberActivity"
+74-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:46:13-59
+75            android:exported="false"
+75-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:47:13-37
+76            android:screenOrientation="portrait" />
+76-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:48:13-49
+77        <activity
+77-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:50:9-54:56
+78            android:name="com.example.aadharscanner.activites.ChangeMpinActivity"
+78-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:51:13-57
+79            android:exported="false"
+79-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:52:13-37
+80            android:screenOrientation="portrait" />
+80-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:53:13-49
+81        <activity
+81-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:55:9-59:56
+82            android:name="com.example.aadharscanner.activites.AadharAccountActivity"
+82-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:56:13-60
+83            android:exported="false"
+83-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:57:13-37
+84            android:screenOrientation="portrait" />
+84-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:58:13-49
+85        <activity android:name="com.example.aadharscanner.activites.SplashScreen" >
+85-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:60:9-66:20
+85-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:60:19-57
+86            <intent-filter>
+86-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:61:13-65:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:62:17-69
+87-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:62:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:64:17-77
+89-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:64:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:67:9-71:56
+93            android:name="com.example.aadharscanner.activites.VerifyMpinActivity"
+93-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:68:13-57
+94            android:exported="false"
+94-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:69:13-37
+95            android:screenOrientation="portrait" />
+95-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:70:13-49
+96        <activity
+96-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:72:9-76:56
+97            android:name="com.example.aadharscanner.activites.MpinActivity"
+97-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:73:13-51
+98            android:exported="false"
+98-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:74:13-37
+99            android:screenOrientation="portrait" />
+99-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:75:13-49
+100        <activity
+100-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:77:9-81:56
+101            android:name="com.example.aadharscanner.activites.LoginActivity"
+101-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:78:13-52
+102            android:exported="false"
+102-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:79:13-37
+103            android:screenOrientation="portrait" />
+103-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:80:13-49
+104        <activity
+104-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:82:9-86:56
+105            android:name="com.example.aadharscanner.activites.HomeActivity"
+105-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:83:13-51
+106            android:exported="false"
+106-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:84:13-37
+107            android:screenOrientation="portrait" />
+107-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:85:13-49
+108        <activity
+108-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:87:9-91:56
+109            android:name="com.example.aadharscanner.MainActivity"
+109-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:88:13-41
+110            android:exported="false"
+110-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:89:13-37
+111            android:screenOrientation="portrait" />
+111-->E:\Extended Nrlm Git\Extended Profile 09022022\app\src\main\AndroidManifest.xml:90:13-49
+112        <activity
+112-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:47:9-53:63
+113            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+113-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:48:13-74
+114            android:clearTaskOnLaunch="true"
+114-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:49:13-45
+115            android:screenOrientation="sensorLandscape"
+115-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:50:13-56
+116            android:stateNotNeeded="true"
+116-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:51:13-42
+117            android:theme="@style/zxing_CaptureTheme"
+117-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:52:13-54
+118            android:windowSoftInputMode="stateAlwaysHidden" />
+118-->[com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\1fd28a1c831fd5ba08c862545a0145a7\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:53:13-60
+119
+120        <service
+120-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:9:9-15:19
+121            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+121-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:10:13-91
+122            android:directBootAware="true"
+122-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:17:13-43
+123            android:exported="false" >
+123-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:11:13-37
+124            <meta-data
+124-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:12:13-14:85
+125                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+125-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:13:17-114
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.android.gms:play-services-mlkit-text-recognition-common:16.0.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\52e68d5aba70ffc2d17d2a902ee482d4\jetified-play-services-mlkit-text-recognition-common-16.0.0\AndroidManifest.xml:14:17-82
+127            <meta-data
+127-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\3fb6858132984a226024f78a76ee87e9\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:12:13-14:85
+128                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+128-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\3fb6858132984a226024f78a76ee87e9\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:13:17-114
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\3fb6858132984a226024f78a76ee87e9\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:14:17-82
+130            <meta-data
+130-->[com.google.mlkit:vision-common:16.5.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\fd56d7cbff9c84f35a931647abc63ef3\jetified-vision-common-16.5.0\AndroidManifest.xml:12:13-14:85
+131                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+131-->[com.google.mlkit:vision-common:16.5.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\fd56d7cbff9c84f35a931647abc63ef3\jetified-vision-common-16.5.0\AndroidManifest.xml:13:17-124
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.mlkit:vision-common:16.5.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\fd56d7cbff9c84f35a931647abc63ef3\jetified-vision-common-16.5.0\AndroidManifest.xml:14:17-82
+133            <meta-data
+133-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:20:13-22:85
+134                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+134-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:21:17-120
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:22:17-82
+136        </service>
+137
+138        <provider
+138-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:9:9-13:38
+139            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+139-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:10:13-78
+140            android:authorities="com.example.aadharscanner.mlkitinitprovider"
+140-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:11:13-69
+141            android:exported="false"
+141-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:12:13-37
+142            android:initOrder="99" />
+142-->[com.google.mlkit:common:17.3.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\10e943e9b9d42db736d6c33afccd075e\jetified-common-17.3.0\AndroidManifest.xml:13:13-35
+143
+144        <activity
+144-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\c4f18d06412368e1d9d6b64380ef2cd4\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
+145            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+145-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\c4f18d06412368e1d9d6b64380ef2cd4\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
+146            android:exported="false"
+146-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\c4f18d06412368e1d9d6b64380ef2cd4\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
+147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+147-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\c4f18d06412368e1d9d6b64380ef2cd4\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
+148
+149        <meta-data
+149-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\dd6256ab56aec7b0bd5442885b35484a\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+150            android:name="com.google.android.gms.version"
+150-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\dd6256ab56aec7b0bd5442885b35484a\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+151            android:value="@integer/google_play_services_version" />
+151-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\dd6256ab56aec7b0bd5442885b35484a\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+152
+153        <service
+153-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+154            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+154-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+155            android:exported="false" >
+155-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+156            <meta-data
+156-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+157                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+157-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+158                android:value="cct" />
+158-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\584e1d017cad1de6a7c1f5052ba581af\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+159        </service>
+160        <service
+160-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+161            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+161-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+162            android:exported="false"
+162-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+163            android:permission="android.permission.BIND_JOB_SERVICE" >
+163-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+164        </service>
+165
+166        <receiver
+166-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+167            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+167-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+168            android:exported="false" />
+168-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Sakshi\.gradle\caches\transforms-2\files-2.1\ba1f68d62ea7ff355ff8897e6b35f589\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+169    </application>
+170
+171</manifest>

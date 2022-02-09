@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorScreenBackground"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="@dimen/space10dp"
+        android:layout_width="match_parent"
+        android:id="@+id/cardview"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_5"
+            android:background="@color/colorWhite"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unsync_details"
+                android:textColor="@color/colorTextBlack" />
+
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="@dimen/dimen_2"
+                android:background="@color/colorTextBlack" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".8"
+                    android:text="@string/unsync_aadhar"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_aadharV"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_5"
+                    android:layout_weight="1.2"
+                    android:text="unsynced baseline data" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_5"
+                    android:layout_weight=".8"
+                    android:text="@string/unsync_bankAcc"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_bankV"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="unsynced baseline data" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_5"
+                    android:layout_weight=".8"
+                    android:text="@string/unsync_add_member"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_add_memberV"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="unsynced baseline data" />
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_5"
+                    android:layout_weight=".8"
+                    android:text="@string/unsync_kyc_doc"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_kyc_doc"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="unsynced baseline data" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_5"
+                    android:layout_weight=".8"
+                    android:text="@string/unsynced_modified_shg"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_modified_shg"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="unsynced modified data" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/dimen_5"
+                android:background="@color/cardview_dark_background" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_5"
+                    android:layout_weight=".8"
+                    android:text="@string/unsynced_modified_member"
+                    android:textColor="@color/colorTextBlack" />
+
+                <TextView
+                    android:id="@+id/unsynced_modified_memberV"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:text="unsynced modified data" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sync_dataTVV"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:text="@string/sync_data"
+        android:gravity="center"
+        android:layout_below="@+id/cardview"
+        android:textColor="@color/colorBlack"
+        android:background="@color/colorPrimary"
+        android:textSize="@dimen/dimen_25" />
+
+<!--    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/selectGpListBtnV"
+        style="@style/CommonButton"
+        android:text="@string/select_location"
+        android:layout_alignParentBottom="true" />-->
+</RelativeLayout>

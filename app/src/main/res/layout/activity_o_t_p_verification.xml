@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activites.OTPVerification">
+    <com.github.captain_miao.optroundcardview.OptRoundCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:optRoundCardCornerRadius="@dimen/dimen_50"
+        android:layout_margin="@dimen/dimen_5"
+        app:optRoundCardBackgroundColor="@color/colorScreenBackGround">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/dimen_20"
+            android:layout_marginRight="@dimen/dimen_13"
+            android:layout_marginLeft="@dimen/dimen_13"
+            android:gravity="center_horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/reset_pass_TV"
+                android:textSize="@dimen/dimen_25"
+                android:textColor="@color/colorTitleText"
+                android:gravity="center_horizontal"
+                android:background="@color/colorTitleBackground" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/dimen_20"
+    >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/enter_otp"
+                    android:layout_margin="@dimen/dimen_2"
+                    android:textSize="@dimen/dimen_20"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:gravity="center_horizontal"
+                    android:background="@color/colorPrimary" />
+
+
+</LinearLayout>
+
+
+
+            <com.alimuzaffar.lib.pin.PinEntryEditText
+                android:id="@+id/enter_otpPEET"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_20"
+                android:layout_marginLeft="@dimen/dimen_10"
+                android:layout_marginRight="@dimen/dimen_10"
+                android:background="@null"
+                android:cursorVisible="false"
+                android:digits="1234567890"
+                android:inputType="numberPassword"
+                android:maxLength="4"
+                android:textIsSelectable="false"
+                android:textSize="20sp"
+                android:textColor="@color/colorTextBlack"
+                android:visibility="visible" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/otp_errorTV"
+                android:text="@string/error_otp"
+                android:textSize="@dimen/dimen_20"
+                android:visibility="gone"
+                android:layout_marginTop="@dimen/dimen_10"
+                android:textColor="@color/color_red"
+                android:gravity="center"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/reset_passwordLL"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/space5dp"
+                    android:layout_marginTop="@dimen/dimen_50"
+                    android:layout_marginRight="@dimen/dimen_10"
+                    android:layout_marginLeft="@dimen/dimen_10"
+                    android:hint="Enter UserId">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/enter_UserIdEt"
+                        android:layout_margin="@dimen/dimen_2"
+                        android:lines="1"
+                        android:maxLength="25"
+                        android:textColor="@color/colorTextBlack"
+                        android:textColorHint="@color/colorHintDark"
+                        android:textSize="@dimen/textSize18"
+                        android:inputType="text"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/space5dp"
+                    android:layout_marginTop="@dimen/dimen_50"
+                    android:layout_marginRight="@dimen/dimen_10"
+                    android:layout_marginLeft="@dimen/dimen_10"
+                    app:passwordToggleEnabled="true"
+                    android:hint="@string/enter_pass">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/enter_passwordTIET"
+                        android:layout_margin="@dimen/dimen_2"
+                        android:lines="1"
+                        android:maxLength="15"
+                        android:textColor="@color/colorTextBlack"
+                        android:textColorHint="@color/colorHintDark"
+                        android:textSize="@dimen/textSize18"
+                        android:inputType="textPassword"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/space5dp"
+                    android:layout_marginTop="@dimen/dimen_30"
+                    android:layout_marginRight="@dimen/dimen_10"
+                    android:layout_marginLeft="@dimen/dimen_10"
+
+                    app:passwordToggleEnabled="true"
+                    android:hint="@string/confirm_pass">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/confirm_passwordTIET"
+                        android:layout_margin="@dimen/dimen_2"
+                        android:lines="1"
+                        android:maxLength="15"
+                        android:textColor="@color/colorTextBlack"
+                        android:textColorHint="@color/colorHintDark"
+                        android:textSize="@dimen/textSize18"
+                        android:inputType="textPassword"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+            </LinearLayout>
+
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+
+              android:orientation="vertical"
+              android:layout_marginTop="@dimen/dimen_50"
+              >
+
+              <Button
+                  android:id="@+id/reset_PassBTN"
+                  android:layout_width="match_parent"
+                  android:layout_height="52dp"
+                  android:layout_margin="@dimen/dimen_2"
+                  android:background="@color/colorPrimary"
+                  android:text="@string/submit"
+                  android:textColor="@color/colorTextButton"
+                  android:textSize="@dimen/dimen_20"
+                  android:textStyle="bold" />
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone"
+                    android:id="@+id/new_passwordBtn"
+                    android:text="@string/submit"
+                    android:layout_margin="@dimen/dimen_2"
+                    android:textColor="@color/colorTextButton"
+                    android:textSize="@dimen/dimen_20"
+                    android:textStyle="bold"
+                    android:background="@color/colorBoxLight"/>
+
+          </LinearLayout>
+
+        </LinearLayout>
+    </com.github.captain_miao.optroundcardview.OptRoundCardView>
+
+
+</RelativeLayout>

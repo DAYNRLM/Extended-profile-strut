@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimaryDark">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/colorWhite"
+            android:gravity="center_horizontal"
+            android:text="@string/qr_code_scanner"
+            android:textSize="@dimen/text_size_20SP"
+            android:textStyle="bold"/>
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/space16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/this_is_not_uidai_compliance_qr"
+            android:textSize="@dimen/space16dp"
+            android:textColor="@color/colorTextBlack"
+            android:gravity="center_horizontal"/>
+
+        <Button
+            android:id="@+id/buttonOk"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/button_background"
+            android:text="@string/ok"
+            android:textColor="@color/colorPrimaryDark" />
+    </LinearLayout>
+
+
+</LinearLayout>

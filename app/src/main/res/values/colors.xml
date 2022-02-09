@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#6200EE</color>
+    <color name="colorPrimaryDark1">#3700B3</color>
+    <color name="colorAccent1">#03DAC5</color>
+
+    <!--colour set by lincon-->
+
+    <color name="colorPrimary">#9effff</color>
+    <color name="colorPrimaryDark">#14cba8</color>
+    <color name="mpin">#E6F8E7</color>
+    <color name="colorAccent">#64ffda</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTextBlack">#263238</color>
+    <color name="colorScreenBackground">#e0e0e0</color>
+    <color name="colorButtonBlue">#651fff</color>
+    <color name="colorButtonLightBlue">#CFC0EF</color>
+    <color name="colorHintDark">#a4a4a4</color>
+    <color name="colorRed">#FFFF1100</color>
+    <color name="colorGreen">#03F60D</color>
+    <color name="colorTitleGreen">#73B625</color>
+    <color name="ff">#FFFFFF</color>
+    <color name="ColorFooterBackground">#707070</color>
+    <color name="ColorTextBlue">#039be5</color>
+    <color name="ColorTextbackground">#e0e0e0</color>
+    <color name="ColorTextbackgroundBorder">#494949</color>
+    <color name="colorlightorange">#FF9800</color>
+
+   <!-- end colour by lincon-->
+
+         <!--added by abdul-->
+    <color name="colorScreenBackGroundDark">#BDB3B3</color>
+    <color name="colourToolBarScreenLight">#FAF8F8</color>
+
+    <!-- color added by manish-->
+    <color name="colorBoxDark">#17375E</color>
+    <color name="colorViewLine">#243F60</color>
+    <color name="colorTitleText">#E2F8FB</color>
+    <color name="colorLightBlack">#696969</color>
+    <color name="colorScreenBackGround">#FFFFFF</color>
+    <color name="colorTitleBackground">#243F60</color>
+    <color name="colorBoxLight">#00B9F5</color>
+    <color name="color_red">#ff0000</color>
+    <color name="colorTextButton">#FFFFFF</color>
+
+
+</resources>

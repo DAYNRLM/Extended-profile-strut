@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:layout_marginTop="@dimen/dimen_5">
+
+<!--aadhar scan heading cardview      -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:id="@+id/aadharScanHeaderCV"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/colorPrimaryDark"
+            android:elevation="@dimen/dimen_10"
+            app:cardCornerRadius="@dimen/dimen_10">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="2">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="italic"
+                        android:layout_gravity="right"
+                        android:gravity="right"
+                        android:textSize="@dimen/dimen_20"
+                        android:text="@string/scan_aadharh"
+                        android:layout_marginTop="@dimen/dimen_15"
+                        android:textColor="@color/colorBlack"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_gravity="left"
+                        android:src="@drawable/barcode"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+<!-- bank account header cardview          -->
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:id="@+id/bankDetailsHeaderCV"
+                android:visibility="gone"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:elevation="@dimen/dimen_10"
+                app:cardCornerRadius="@dimen/dimen_10">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.2"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textStyle="italic"
+                            android:layout_gravity="center|right"
+                            android:textSize="@dimen/dimen_20"
+                            android:text="@string/bank_details"
+                            android:layout_marginTop="@dimen/dimen_15"
+                            android:textColor="@color/colorBlack"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight=".8"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_marginLeft="@dimen/dimen_5"
+                            android:layout_gravity="center|left"
+                            android:src="@drawable/ic_account_balance_black_24dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/colorWhite"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/detailTopCardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dimen_10"
+            android:elevation="@dimen/dimen_10"
+            android:translationZ="@dimen/dimen_10"
+            app:cardCornerRadius="@dimen/dimen_10"
+            app:cardBackgroundColor="@color/colorWhite">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/locationTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/block_gp_name"
+                    android:textSize="@dimen/text_size_15SP"
+                    android:gravity="center"
+                    style="@style/OnScreenTitleTheme"/>
+
+               <View
+                   android:layout_width="match_parent"
+                   android:layout_height="0.5dp"
+                   android:background="@color/colorPrimaryDark"
+                   android:layout_marginTop="@dimen/space2dp"
+                   android:layout_marginBottom="@dimen/space2dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/shg_name"
+                        android:padding="@dimen/space2dp"
+                        android:textSize="@dimen/text_size_15SP"
+                        android:layout_weight="1.2"/>
+                    <TextView
+                        android:id="@+id/aadharShgNameTv"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/shg_name"
+                        android:layout_marginLeft="@dimen/space2dp"
+                        android:padding="@dimen/space2dp"
+                        android:textColor="@color/colorTextBlack"
+                        android:textSize="@dimen/text_size_15SP"
+                        android:layout_weight="0.8"/>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/member_name"
+                        android:padding="@dimen/space2dp"
+                        android:textSize="@dimen/text_size_15SP"
+                        android:layout_weight="1.2"/>
+                    <TextView
+                        android:id="@+id/aadharShgMemberNameTv"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/shg_name"
+                        android:layout_marginLeft="@dimen/space2dp"
+                        android:padding="@dimen/space2dp"
+                        android:textSize="@dimen/text_size_15SP"
+                        android:textColor="@color/colorTextBlack"
+                        android:layout_weight="0.8"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:visibility="gone"
+            android:layout_below="@+id/detailTopCardView"
+            android:id="@+id/aadharDetailCardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/space10dp"
+            android:elevation="@dimen/dimen_10"
+            android:translationZ="@dimen/dimen_10"
+            app:cardCornerRadius="@dimen/dimen_10"
+            app:cardBackgroundColor="@color/colorWhite">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/bank_account_link_status"
+                android:text="@string/bank_acc_link_status"
+                android:textSize="@dimen/textSize18"
+                android:gravity="center"
+                android:visibility="gone"
+                android:layout_marginTop="@dimen/dimen_10"
+                android:padding="@dimen/dimen_5"
+                android:textStyle="italic"
+                android:layout_margin="@dimen/dimen_5"
+                android:textColor="@color/colorBlack"
+                android:background="@color/colorPrimary"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_25"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/OnScreenTitleTheme"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/dimen_10"
+                    android:layout_height="wrap_content"
+                    android:text="@string/enterAadharMsg" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:id="@+id/upload_concentLL"
+                    android:weightSum="2">
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.3"
+                        >
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:visibility="gone"
+                            android:layout_marginTop="@dimen/dimen_10"
+                            android:layout_height="@dimen/dimen_40"
+                            android:id="@+id/fileNameTV"
+                            android:gravity="center"
+                            android:src="@drawable/upload_icon"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/concent_textTV"
+                            android:text="@string/uploade_msg"
+                            android:textColor="@color/colorPrimaryDark"
+                            android:gravity="center"
+                            android:textStyle="bold"/>
+                    </RelativeLayout>
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_marginTop="@dimen/dimen_10"
+                        android:layout_height="@dimen/dimen_40"
+                        android:id="@+id/browseIV"
+                        android:layout_weight=".5"
+                        android:gravity="center"
+                        android:src="@drawable/upload_icon"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/AadharcarNumberETStyle"
+                        android:layout_weight="0.6">
+
+                        <EditText
+                            android:id="@+id/enterAadharEt"
+                            style="@style/AadharcarNumberETStyle"
+                            android:hint="@string/Enter_aadhar_number"
+                            android:inputType="number"
+                            android:maxLength="12" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <ImageView
+                        android:id="@+id/aadharScannerIV1"
+                        android:visibility="gone"
+                        android:layout_marginTop="@dimen/space5dp"
+                        android:padding="@dimen/space2dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.4"
+                        android:src="@drawable/barcode" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/detailLinearLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="0.7">
+
+                            <EditText
+                                android:id="@+id/enterAadhaeNameET"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/name_as_per_aadhar"
+                                android:digits="@string/digits_name"
+                                android:maxLines="1"
+                                android:maxLength="35"/>
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:maxLines="1"
+                            android:maxLength="1"
+                            android:layout_weight="1.3">
+
+                            <EditText
+                                android:id="@+id/aadharGenderEt"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/gender"
+                                android:digits="MFT"
+                                android:inputType="textCapCharacters"
+                                android:maxLines="1"
+                                android:maxLength="1"  />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="0.7">
+
+                            <EditText
+                                android:id="@+id/aadharFatherNameEt"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/father_name"
+                                android:digits="@string/digits_name"
+                                android:maxLines="1"
+                                android:maxLength="35"
+                               />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight="1.3">
+
+                            <EditText
+                                android:id="@+id/aadharYobEt"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/year_of_birth"
+                                android:editable="false"
+                                android:maxLines="1"
+                                android:maxLength="11" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:layout_weight=".7">
+
+                            <EditText
+                                android:id="@+id/aadharAddressEt"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/Address"
+                                android:digits="@string/digits_address"
+                                android:maxLines="3"
+                                android:maxLength="100"/>
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/AadharTextinputLayout"
+                            android:visibility="gone"
+                            android:layout_weight="1.3">
+
+                            <EditText
+                                android:id="@+id/pincodeET"
+                                style="@style/AadharcarEditTextStyle"
+                                android:hint="@string/postel_code"
+                                android:maxLines="1"
+                                android:inputType="number"
+                                android:maxLength="6" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                    </LinearLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/AadharcarEditTextStyle">
+
+                        <EditText
+                            android:id="@+id/aadharMobileNumberEt"
+                            style="@style/AadharcarEditTextStyle"
+                            android:hint="@string/mobile_number"
+                            android:inputType="number"
+                            android:maxLength="10"/>
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <Button
+                        android:id="@+id/takAadhaarSelfiBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="30dp"
+                        android:background="@drawable/button_background"
+                        android:text="@string/shg_member_photo"
+                        android:textColor="@color/colorButtonBlue" />
+                    <LinearLayout
+                        android:id="@+id/aadharPhotoLinearLayout"
+                        android:visibility="gone"
+                        android:layout_marginTop="@dimen/space5dp"
+                        android:layout_marginBottom="@dimen/space5dp"
+                        android:padding="@dimen/space2dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="1">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="@string/member_photo" />
+                            <Button
+                                android:id="@+id/takeAgainSelfiBtn"
+                                android:layout_width="wrap_content"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="15dp"
+                                android:background="@drawable/button_background"
+                                android:text="@string/Take_again"
+                                android:textColor="@color/colorButtonBlue" />
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/aadharImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:padding="@dimen/space2dp"
+                            android:layout_margin="@dimen/space2dp"
+                            android:src="@mipmap/ic_launcher"/>
+                    </LinearLayout>
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/submitAadharBtn"
+                        style="@style/CommonButton"
+                        android:text="@string/submit_aadhar_details" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/accDetailCardView"
+            android:layout_below="@+id/aadharDetailCardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dimen_10"
+            android:elevation="@dimen/dimen_10"
+            android:translationZ="@dimen/dimen_10"
+            app:cardCornerRadius="@dimen/dimen_10"
+            android:visibility="gone"
+            android:background="@color/colorWhite">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/aadhar_link_status"
+                android:text="@string/aadhar_link_status"
+                android:textSize="@dimen/textSize18"
+                android:gravity="center"
+                android:visibility="gone"
+                android:padding="@dimen/dimen_5"
+                android:textStyle="italic"
+                android:layout_margin="@dimen/dimen_2"
+                android:textColor="@color/colorBlack"
+                android:background="@color/colorPrimary"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_25"
+                android:padding="@dimen/space2dp"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/OnScreenTitleTheme"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_5"
+                    android:text="@string/enter_your_bank_account_details" />
+
+                <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                    android:id="@+id/spinner_BankTypeSpin"
+                    android:visibility="gone"
+                    style="@style/CustomSpinner"
+                    android:hint="@string/select_bank_type" />
+
+                <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                    android:id="@+id/spinner_BankNameSpin"
+                    style="@style/CustomSpinner"
+                    android:hint="@string/select_bank" />
+
+                <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                    android:id="@+id/spinner_BankBranchSpin"
+                    style="@style/CustomSpinner"
+                    android:hint="@string/select_bank_branch" />
+
+                <LinearLayout
+                    android:id="@+id/accDetailLinearLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/AadharTextinputLayout">
+
+                        <EditText
+                            android:id="@+id/ifcsTv"
+                            style="@style/AadharcarEditTextStyle"
+                            android:text="IFSC005TRE"
+                            android:textColor="@color/colorTextBlack"
+                            android:hint="@string/ifsc_code" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/accNumberTIL"
+                       android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:hintTextColor="@color/colorPrimaryDark"
+                        android:hint="@string/account_number">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/accountNumberEt"
+                            android:inputType="numberPassword"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:hintTextColor="@color/colorPrimaryDark"
+                        android:hint="@string/confirm_account_number">
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/confirmAccountNumberEt"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:inputType="number"
+                            />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <Button
+                        android:id="@+id/takePhotoBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="30dp"
+                        android:background="@drawable/button_background"
+                        android:text="@string/Take_passbook_photo"
+                        android:textColor="@color/colorButtonBlue" />
+                    <LinearLayout
+                        android:id="@+id/photoLinearLayout"
+                        android:visibility="gone"
+                        android:layout_marginTop="@dimen/space5dp"
+                        android:layout_marginBottom="@dimen/space5dp"
+                        android:padding="@dimen/space2dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="1">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                               android:gravity="center_horizontal"
+                                android:text="@string/passbook_photo" />
+                            <Button
+                                android:id="@+id/takeAgainBtn"
+                                android:layout_width="wrap_content"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="15dp"
+                                android:background="@drawable/button_background"
+                                android:text="@string/Take_again"
+                                android:textColor="@color/colorPrimaryDark" />
+
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/passbookImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:padding="@dimen/space2dp"
+                            android:layout_margin="@dimen/space2dp"
+                            android:src="@mipmap/ic_launcher"/>
+                    </LinearLayout>
+
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/submitAccountBtn"
+                        style="@style/CommonButton"
+                        android:text="@string/submit_account_details" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

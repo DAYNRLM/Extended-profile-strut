@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorScreenBackGround"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:layout_margin="@dimen/dimen_10"
+        android:translationZ="@dimen/dimen_10"
+        android:elevation="@dimen/dimen_10"
+        app:cardCornerRadius="@dimen/dimen_10"
+        android:padding="@dimen/space2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:weightSum="2"
+                >
+                <TextView
+                    android:id="@+id/shgMemberNameTV"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/shg_member_name"
+                    android:padding="@dimen/space2dp"
+                    android:layout_marginLeft="@dimen/space5dp"
+                    android:textColor="@color/colorTextBlack"
+                    android:textSize="@dimen/dimen_15"
+                    android:textStyle="bold"/>
+                <!--   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="@string/status"
+                       android:layout_margin="@dimen/space5dp"
+                       android:layout_weight="1"
+                       android:padding="@dimen/space2dp"
+                       android:textColor="@color/colorHintDark"
+                       android:textStyle="bold"
+                       />-->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/member_statusTV"
+                    android:gravity="right|center"
+                    android:text="@string/status"
+                    android:layout_margin="@dimen/space5dp"
+                    android:layout_weight=".95"
+                    android:padding="@dimen/space2dp"
+                    android:textColor="@color/colorHintDark"
+                    android:textStyle="bold"
+
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                   android:background="@color/white"
+                    android:layout_margin="@dimen/space5dp"
+                    android:layout_weight=".05"
+
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="0.3">
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginTop="@dimen/space2dp"
+                        android:layout_marginBottom="@dimen/space2dp"
+                        android:background="@color/colorPrimaryDark"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/aadhar_card_linked"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="@dimen/space5dp"
+                            android:padding="@dimen/space2dp"
+                            android:textColor="@color/colorHintDark"
+                            android:textStyle="bold"/>
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+
+                            <!--    <ImageView
+                                    android:id="@+id/aadharLinkedImage"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:src="@drawable/tickc"
+                                    android:visibility="gone"
+                                    android:layout_weight="1.6"/>
+                                <ImageView
+                                    android:id="@+id/aadharPendingdImage"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:src="@drawable/wrong"
+                                    android:visibility="gone"
+                                    android:tint="@color/colorRed"
+                                    android:layout_weight="1.6"/>-->
+                            <TextView
+                                android:id="@+id/aadharPendingTV"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_marginRight="@dimen/space10dp"
+                                android:gravity="right"
+                                android:textStyle="bold"
+                                android:paddingRight="@dimen/dimen_5"
+                                android:text="@string/marked_as_verified"
+                                android:textColor="@color/ColorTextbackgroundBorder"
+                                android:visibility="visible" />
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginTop="@dimen/space2dp"
+                        android:layout_marginBottom="@dimen/space2dp"
+                        android:background="@color/colorPrimaryDark"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/bank_account_linked"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="@dimen/space5dp"
+                            android:padding="@dimen/space2dp"
+                            android:textColor="@color/colorHintDark"
+                            android:textStyle="bold"/>
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                            <!-- <ImageView
+                                android:id="@+id/bankAccountLinkedImage"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tickc"
+                                android:visibility="gone"
+                                android:layout_weight="1.6"/>
+                            <ImageView
+                                android:id="@+id/accountPendingdImage"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/wrong"
+                                android:visibility="gone"
+                                android:tint="@color/colorRed"
+                                android:layout_weight="1.6"/>-->
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/bankAccPendingTV"
+                                android:visibility="visible"
+                                android:paddingRight="@dimen/dimen_5"
+                                android:gravity="right"
+                                android:textStyle="bold"
+                                android:layout_marginRight="@dimen/space10dp"
+                                android:layout_alignParentRight="true"
+                                android:text="@string/marked_as_verified"
+                                android:textColor="@color/ColorTextbackgroundBorder"/>
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginTop="@dimen/space2dp"
+                        android:layout_marginBottom="@dimen/space2dp"
+                        android:background="@color/colorPrimaryDark"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_25"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:text="@string/kyc"
+                            android:layout_weight=".8"
+                            android:layout_marginLeft="@dimen/space5dp"
+                            android:padding="@dimen/space2dp"
+                            android:textColor="@color/colorHintDark"
+                            android:textStyle="bold"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:text="@string/kyc_not_completed"
+                            android:background="@color/colorPrimaryDark"
+                            android:textColor="@color/colorBlack"
+                            android:textSize="@dimen/dimen_15"
+                            android:gravity="center"
+                            android:layout_weight="1.5"
+                            android:id="@+id/kyc_BTN"/>
+
+                        <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight=".6">
+                            <ImageView
+                                android:id="@+id/kycupdatedIV"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tickc"
+                                android:visibility="gone"
+                                />
+
+                            <ImageView
+                                android:id="@+id/kycnotupdatedIV"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/wrong"
+                                android:tint="@color/colorRed"
+                                android:visibility="visible" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginTop="@dimen/space2dp"
+                        android:layout_marginBottom="@dimen/space2dp"
+                        android:background="@color/colorPrimaryDark"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="1"
+                        >
+
+                        <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                            android:id="@+id/change_statusMBS"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="6dp"
+                            android:layout_height="50dp"
+                            style="@style/memberStatusSpinner"
+                            android:textColor="@color/colorPrimaryDark"
+                            android:hint="@string/change_status"
+                            android:textColorHint="@color/colorHintDark"
+
+                            />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center_vertical"
+                    android:layout_weight="1.7">
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:tint="@color/colorPrimaryDark"
+                        android:alpha="0.5"
+                        android:src="@drawable/ic_chevron_right_black_24dp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight=".8"
+                    android:text="@string/designation"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/space2dp"
+                    android:layout_marginLeft="@dimen/space5dp"
+                    android:gravity="left|center"
+                    android:textColor="@color/colorHintDark"
+                    android:textStyle="bold"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight=".8"
+                    android:text="@string/designation"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:id="@+id/designationTV"
+                    android:padding="@dimen/space2dp"
+                    android:layout_marginLeft="@dimen/space5dp"
+                    android:textColor="@color/colorBlack"
+                    android:textStyle="bold"
+                    />
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1.4"
+                    android:id="@+id/change_designationRL"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:id="@+id/change_designationTV"
+                        android:text="@string/change_designation"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/space2dp"
+                        android:layout_marginLeft="@dimen/space5dp"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:visibility="gone"
+                        android:layout_width="match_parent"
+                        android:id="@+id/designation_current_statusTV"
+                        android:text="@string/designation_current_status"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/space2dp"
+                        android:layout_marginLeft="@dimen/space5dp"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textStyle="bold"
+                        />
+                </RelativeLayout>
+
+
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginTop="@dimen/space2dp"
+                android:layout_marginBottom="@dimen/space2dp"
+                android:background="@color/colorPrimaryDark"/>
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

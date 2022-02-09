@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorScreenBackground"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:layout_marginTop="@dimen/dimen_5"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/location_TV"
+            android:text="@string/block_gp_name"
+            style="@style/OnScreenTitleTheme"
+            android:background="@color/colorWhite"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1"
+            android:background="@color/colorLightBlack"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/dimen_2"
+            android:layout_marginBottom="@dimen/dimen_2"
+            android:weightSum="2">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="24dp"
+                android:layout_weight="1"
+                android:text="shgname"
+                android:id="@+id/shg_name"
+                android:gravity="center"
+                android:textColor="@color/colorBlack"
+                android:background="@color/colourToolBarScreenLight"
+                android:layout_marginLeft="@dimen/dimen_10"
+                android:layout_marginRight="@dimen/dimen_10"
+                />
+          <!--  <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Add Member"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/add_memberTV"
+                android:textColor="@color/colorBlack"
+                android:background="@color/colorPrimary"
+                android:layout_marginLeft="@dimen/dimen_10"
+                android:layout_marginRight="@dimen/dimen_10"
+                />-->
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorLightBlack"/>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/add_memberTV"
+
+                android:src="@drawable/img_add_member"
+                android:layout_height="@dimen/dimen_24"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1"
+        android:background="@color/colorLightBlack"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/slectShgMemberListRV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/space2dp"
+        android:background="@color/colorWhite" />
+
+
+</LinearLayout>

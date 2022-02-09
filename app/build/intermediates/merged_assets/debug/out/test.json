@@ -1,0 +1,1238 @@
+{
+  "block_assign": [
+    {
+      "block_name": "REAMAL",
+      "block_code": "2416003",
+      "gp_assign": [
+        {
+          "gp_code": "2416003019",
+          "village_assign": [
+            {
+              "village_code": "2416003019006",
+              "village_name": "KAINSAR"
+            },
+            {
+              "village_code": "2416003019007",
+              "village_name": "KHALIDHIPA"
+            },
+            {
+              "village_code": "2416003019013",
+              "village_name": "TARANGA"
+            },
+            {
+              "village_code": "2416003019014",
+              "village_name": "THAKARMAL"
+            },
+            {
+              "village_code": "2416003019012",
+              "village_name": "SAMPALI"
+            },
+            {
+              "village_code": "2416003019010",
+              "village_name": "NISHABIRA"
+            },
+            {
+              "village_code": "2416003019003",
+              "village_name": "DASHAGHARIA"
+            },
+            {
+              "village_code": "2416003019004",
+              "village_name": "HORAPALI"
+            },
+            {
+              "village_code": "2416003019005",
+              "village_name": "JHARIPAL"
+            },
+            {
+              "village_code": "2416003019008",
+              "village_name": "KUMALA"
+            },
+            {
+              "village_code": "2416003019011",
+              "village_name": "PORAMUNDA"
+            },
+            {
+              "village_code": "2416003019009",
+              "village_name": "NARSINGATALIA"
+            },
+            {
+              "village_code": "2416003019001",
+              "village_name": "AKHABUDA"
+            },
+            {
+              "village_code": "2416003019002",
+              "village_name": "BAGHAMARI"
+            }
+          ],
+          "gp_name": "TARANG"
+        },
+        {
+          "gp_code": "2416003023",
+          "village_assign": [
+            {
+              "village_code": "2416003023001",
+              "village_name": "ARJUNJHARI"
+            },
+            {
+              "village_code": "2416003023003",
+              "village_name": "CHADAKMARA"
+            },
+            {
+              "village_code": "2416003023004",
+              "village_name": "CHIRGUNIKUDAR"
+            },
+            {
+              "village_code": "2416003023005",
+              "village_name": "GADGADA"
+            },
+            {
+              "village_code": "2416003023006",
+              "village_name": "GUALIBHANGA"
+            },
+            {
+              "village_code": "2416003023008",
+              "village_name": "KOLABASA"
+            }
+          ],
+          "gp_name": "KOLHABASA"
+        },
+        {
+          "gp_code": "2416003024",
+          "village_assign": [
+            {
+              "village_code": "2416003024001",
+              "village_name": "AUNLI"
+            },
+            {
+              "village_code": "2416003024002",
+              "village_name": "NUAPADA"
+            }
+          ],
+          "gp_name": "NUAPADA"
+        },
+        {
+          "gp_code": "2416003025",
+          "village_assign": [
+            {
+              "village_code": "2416003025001",
+              "village_name": "TENTALABAHAL"
+            },
+            {
+              "village_code": "2416003025002",
+              "village_name": "DALAKBAHAL"
+            },
+            {
+              "village_code": "2416003025003",
+              "village_name": "BELEINALI"
+            },
+            {
+              "village_code": "2416003025004",
+              "village_name": "RENGALNALI"
+            },
+            {
+              "village_code": "2416003025005",
+              "village_name": "BARKANI"
+            },
+            {
+              "village_code": "2416003025008",
+              "village_name": "SADHUPALI"
+            },
+            {
+              "village_code": "2416003025006",
+              "village_name": "KENDUGHAT"
+            },
+            {
+              "village_code": "2416003025007",
+              "village_name": "KUNDAJHARI"
+            }
+          ],
+          "gp_name": "TENTALABAHAL"
+        },
+        {
+          "gp_code": "2416003026",
+          "village_assign": [
+            {
+              "village_code": "2416003026005",
+              "village_name": "TUNGAMAL"
+            },
+            {
+              "village_code": "2416003026001",
+              "village_name": "TUTABARI"
+            },
+            {
+              "village_code": "2416003026002",
+              "village_name": "KANJIAM"
+            },
+            {
+              "village_code": "2416003026003",
+              "village_name": "JHARADIH"
+            },
+            {
+              "village_code": "2416003026004",
+              "village_name": "GURUJANG"
+            }
+          ],
+          "gp_name": "TUNGAMAL"
+        },
+        {
+          "gp_code": "2416003001",
+          "village_assign": [
+            {
+              "village_code": "2416003001003",
+              "village_name": "ANLAKOLI"
+            },
+            {
+              "village_code": "2416003001004",
+              "village_name": "BAILADIHA"
+            },
+            {
+              "village_code": "2416003001005",
+              "village_name": "BHALIADIHA"
+            },
+            {
+              "village_code": "2416003001007",
+              "village_name": "CHANGUDIA"
+            },
+            {
+              "village_code": "2416003001008",
+              "village_name": "HILANGA"
+            },
+            {
+              "village_code": "2416003001009",
+              "village_name": "HILANGAPROJECT"
+            },
+            {
+              "village_code": "2416003001010",
+              "village_name": "HILANGASARAKARI"
+            },
+            {
+              "village_code": "2416003001011",
+              "village_name": "JHARJHARI"
+            },
+            {
+              "village_code": "2416003001013",
+              "village_name": "KHAIRANDHA"
+            },
+            {
+              "village_code": "2416003001014",
+              "village_name": "NABADIHA"
+            },
+            {
+              "village_code": "2416003001019",
+              "village_name": "SIARIA"
+            },
+            {
+              "village_code": "2416003001001",
+              "village_name": "ADAS"
+            },
+            {
+              "village_code": "2416003001002",
+              "village_name": "ANDARIKHOL"
+            },
+            {
+              "village_code": "2416003001006",
+              "village_name": "BUTAPALI"
+            },
+            {
+              "village_code": "2416003001012",
+              "village_name": "JULANI"
+            },
+            {
+              "village_code": "2416003001016",
+              "village_name": "PUDAPADA"
+            },
+            {
+              "village_code": "2416003001017",
+              "village_name": "RAMAPALI"
+            },
+            {
+              "village_code": "2416003001018",
+              "village_name": "RATAKHANDI"
+            },
+            {
+              "village_code": "2416003001015",
+              "village_name": "NISTHURAHUMA"
+            }
+          ],
+          "gp_name": "ADAS"
+        },
+        {
+          "gp_code": "2416003002",
+          "village_assign": [
+            {
+              "village_code": "2416003002001",
+              "village_name": "AMBKHOLL"
+            },
+            {
+              "village_code": "2416003002002",
+              "village_name": "ASANPALL"
+            },
+            {
+              "village_code": "2416003002003",
+              "village_name": "BAGHBAR"
+            },
+            {
+              "village_code": "2416003002004",
+              "village_name": "BARADANALI"
+            },
+            {
+              "village_code": "2416003002005",
+              "village_name": "BELLMUNDA"
+            },
+            {
+              "village_code": "2416003002006",
+              "village_name": "KHAJURIANALI"
+            },
+            {
+              "village_code": "2416003002007",
+              "village_name": "LAXMIPUR"
+            },
+            {
+              "village_code": "2416003002008",
+              "village_name": "RANJANA"
+            }
+          ],
+          "gp_name": "BAGHBAR"
+        },
+        {
+          "gp_code": "2416003003",
+          "village_assign": [
+            {
+              "village_code": "2416003003014",
+              "village_name": "TILEIPOSI"
+            },
+            {
+              "village_code": "2416003003001",
+              "village_name": "BUDHAPAL"
+            },
+            {
+              "village_code": "2416003003002",
+              "village_name": "GADIAPAL"
+            },
+            {
+              "village_code": "2416003003003",
+              "village_name": "GIRIAPALI"
+            },
+            {
+              "village_code": "2416003003004",
+              "village_name": "GOMBHARIPAL"
+            },
+            {
+              "village_code": "2416003003005",
+              "village_name": "HRUDAPALI"
+            },
+            {
+              "village_code": "2416003003006",
+              "village_name": "JURADUNGA"
+            },
+            {
+              "village_code": "2416003003007",
+              "village_name": "NATRIPAL"
+            },
+            {
+              "village_code": "2416003003008",
+              "village_name": "PUTABULA"
+            },
+            {
+              "village_code": "2416003003009",
+              "village_name": "SALARAPAL"
+            },
+            {
+              "village_code": "2416003003010",
+              "village_name": "SARAPAL"
+            },
+            {
+              "village_code": "2416003003011",
+              "village_name": "SENDHA"
+            },
+            {
+              "village_code": "2416003003012",
+              "village_name": "SURUNGIPAL"
+            },
+            {
+              "village_code": "2416003003013",
+              "village_name": "THIANAL"
+            }
+          ],
+          "gp_name": "BUDHAPAL"
+        },
+        {
+          "gp_code": "2416003004",
+          "village_assign": [
+            {
+              "village_code": "2416003004003",
+              "village_name": "BUDIDO"
+            },
+            {
+              "village_code": "2416003004002",
+              "village_name": "BARAPALI"
+            },
+            {
+              "village_code": "2416003004009",
+              "village_name": "RATANKHALINALI"
+            },
+            {
+              "village_code": "2416003004004",
+              "village_name": "GHAMAMUNDA"
+            },
+            {
+              "village_code": "2416003004006",
+              "village_name": "MADHAPALI"
+            },
+            {
+              "village_code": "2416003004007",
+              "village_name": "MEDINIPUR"
+            },
+            {
+              "village_code": "2416003004008",
+              "village_name": "PATHARKHANI"
+            },
+            {
+              "village_code": "2416003004010",
+              "village_name": "SINDHUPALI"
+            },
+            {
+              "village_code": "2416003004001",
+              "village_name": "BADAKUNWARKHOL"
+            },
+            {
+              "village_code": "2416003004005",
+              "village_name": "ISHWARPALI"
+            }
+          ],
+          "gp_name": "BUDIDO"
+        },
+        {
+          "gp_code": "2416003005",
+          "village_assign": [
+            {
+              "village_code": "2416003005011",
+              "village_name": "NUAPATNA"
+            },
+            {
+              "village_code": "2416003005012",
+              "village_name": "SANGAPASI"
+            },
+            {
+              "village_code": "2416003005008",
+              "village_name": "KHILABERANI"
+            },
+            {
+              "village_code": "2416003005002",
+              "village_name": "BURUBAHAL"
+            },
+            {
+              "village_code": "2416003005003",
+              "village_name": "CHADEIMARA"
+            },
+            {
+              "village_code": "2416003005005",
+              "village_name": "JHARABERNI"
+            },
+            {
+              "village_code": "2416003005009",
+              "village_name": "KUSHUMPAL"
+            }
+          ],
+          "gp_name": "CHADEIMARA"
+        },
+        {
+          "gp_code": "2416003006",
+          "village_assign": [
+            {
+              "village_code": "2416003006001",
+              "village_name": "BADDANGAGHAT"
+            },
+            {
+              "village_code": "2416003006006",
+              "village_name": "BILEIGHATI"
+            },
+            {
+              "village_code": "2416003006007",
+              "village_name": "BUDHIKUTUNI"
+            },
+            {
+              "village_code": "2416003006010",
+              "village_name": "GUJAHULI"
+            },
+            {
+              "village_code": "2416003006012",
+              "village_name": "MAHASINDHU"
+            },
+            {
+              "village_code": "2416003006013",
+              "village_name": "PAIKNAGAR"
+            },
+            {
+              "village_code": "2416003006014",
+              "village_name": "PENTRAKHOL"
+            },
+            {
+              "village_code": "2416003006016",
+              "village_name": "SANDANGAGHAT"
+            },
+            {
+              "village_code": "2416003006017",
+              "village_name": "TENTULITAILA"
+            },
+            {
+              "village_code": "2416003006002",
+              "village_name": "BAISYAPADA"
+            },
+            {
+              "village_code": "2416003006003",
+              "village_name": "BARADATAILA"
+            },
+            {
+              "village_code": "2416003006004",
+              "village_name": "BASANTAPUR"
+            },
+            {
+              "village_code": "2416003006008",
+              "village_name": "CHACHHUPALI"
+            },
+            {
+              "village_code": "2416003006009",
+              "village_name": "DHAURAGOTHA"
+            },
+            {
+              "village_code": "2416003006011",
+              "village_name": "GUNDIAPALI"
+            },
+            {
+              "village_code": "2416003006015",
+              "village_name": "RATANPUR"
+            },
+            {
+              "village_code": "2416003006005",
+              "village_name": "BEGUNIANNAPALI"
+            }
+          ],
+          "gp_name": "GUNDIAPALI"
+        },
+        {
+          "gp_code": "2416003007",
+          "village_assign": [
+            {
+              "village_code": "2416003007001",
+              "village_name": "BAISABAKHOL"
+            },
+            {
+              "village_code": "2416003007003",
+              "village_name": "GOHIDA"
+            },
+            {
+              "village_code": "2416003007005",
+              "village_name": "KANTABAHAL"
+            },
+            {
+              "village_code": "2416003007006",
+              "village_name": "RATAGANDI"
+            },
+            {
+              "village_code": "2416003007008",
+              "village_name": "SUDHINALI"
+            },
+            {
+              "village_code": "2416003007004",
+              "village_name": "JAMBUNALI"
+            },
+            {
+              "village_code": "2416003007007",
+              "village_name": "SATKIARI"
+            },
+            {
+              "village_code": "2416003007002",
+              "village_name": "BRAHMAPALI"
+            }
+          ],
+          "gp_name": "KANTABAHAL"
+        },
+        {
+          "gp_code": "2416003008",
+          "village_assign": [
+            {
+              "village_code": "2416003008016",
+              "village_name": "TULASIPUR"
+            },
+            {
+              "village_code": "2416003008017",
+              "village_name": "UDEIPUR"
+            },
+            {
+              "village_code": "2416003008011",
+              "village_name": "KHAIRAPALI"
+            },
+            {
+              "village_code": "2416003008001",
+              "village_name": "BADAPASHI"
+            },
+            {
+              "village_code": "2416003008002",
+              "village_name": "CHHALAK"
+            },
+            {
+              "village_code": "2416003008003",
+              "village_name": "DALAK"
+            },
+            {
+              "village_code": "2416003008004",
+              "village_name": "DUDUKAJHARAN"
+            },
+            {
+              "village_code": "2416003008005",
+              "village_name": "GHUNTULIPASI"
+            },
+            {
+              "village_code": "2416003008006",
+              "village_name": "JHARAPASHI"
+            },
+            {
+              "village_code": "2416003008007",
+              "village_name": "KAIPAL"
+            },
+            {
+              "village_code": "2416003008008",
+              "village_name": "KAPAGOLA"
+            },
+            {
+              "village_code": "2416003008009",
+              "village_name": "KARADAKHAMAN"
+            },
+            {
+              "village_code": "2416003008010",
+              "village_name": "KARLAGA"
+            },
+            {
+              "village_code": "2416003008012",
+              "village_name": "LAXMIPURA"
+            },
+            {
+              "village_code": "2416003008013",
+              "village_name": "RANGAMATIAA"
+            },
+            {
+              "village_code": "2416003008014",
+              "village_name": "SADHUBAHAL"
+            },
+            {
+              "village_code": "2416003008015",
+              "village_name": "SIPUR"
+            }
+          ],
+          "gp_name": "KARLAGA"
+        },
+        {
+          "gp_code": "2416003009",
+          "village_assign": [
+            {
+              "village_code": "2416003009001",
+              "village_name": "CHAKRADHARPUR"
+            },
+            {
+              "village_code": "2416003009002",
+              "village_name": "CHUAKHOL"
+            },
+            {
+              "village_code": "2416003009003",
+              "village_name": "GOGUA"
+            },
+            {
+              "village_code": "2416003009004",
+              "village_name": "KHAIRPALI"
+            },
+            {
+              "village_code": "2416003009005",
+              "village_name": "KHILEI"
+            },
+            {
+              "village_code": "2416003009006",
+              "village_name": "LUALAI"
+            },
+            {
+              "village_code": "2416003009007",
+              "village_name": "RUCKBA"
+            },
+            {
+              "village_code": "2416003009008",
+              "village_name": "SIARMALIA"
+            },
+            {
+              "village_code": "2416003009009",
+              "village_name": "TALEISAR"
+            }
+          ],
+          "gp_name": "KHILEI"
+        },
+        {
+          "gp_code": "2416003010",
+          "village_assign": [
+            {
+              "village_code": "2416003010001",
+              "village_name": "ARAKHPAL"
+            },
+            {
+              "village_code": "2416003010003",
+              "village_name": "KAMARPAL"
+            },
+            {
+              "village_code": "2416003010004",
+              "village_name": "KENDUPAL"
+            },
+            {
+              "village_code": "2416003010005",
+              "village_name": "KHANDADHUAN"
+            },
+            {
+              "village_code": "2416003010006",
+              "village_name": "KORADPASI"
+            },
+            {
+              "village_code": "2416003010007",
+              "village_name": "KUNDHEIGOLA"
+            },
+            {
+              "village_code": "2416003010008",
+              "village_name": "PANCHAMAHALA"
+            },
+            {
+              "village_code": "2416003010009",
+              "village_name": "RAIRATANPUR"
+            },
+            {
+              "village_code": "2416003010002",
+              "village_name": "DEOJHARAN"
+            }
+          ],
+          "gp_name": "KUNDHEIGOLA"
+        },
+        {
+          "gp_code": "2416003011",
+          "village_assign": [
+            {
+              "village_code": "2416003011017",
+              "village_name": "SINDURKHOL"
+            },
+            {
+              "village_code": "2416003011013",
+              "village_name": "PURUNAPANI"
+            },
+            {
+              "village_code": "2416003011002",
+              "village_name": "BETEIJHARAN"
+            },
+            {
+              "village_code": "2416003011005",
+              "village_name": "CHINGUDIJHARAN"
+            },
+            {
+              "village_code": "2416003011008",
+              "village_name": "KORODKHOL"
+            },
+            {
+              "village_code": "2416003011010",
+              "village_name": "LULANG"
+            },
+            {
+              "village_code": "2416003011011",
+              "village_name": "PANKHIJHARAN"
+            },
+            {
+              "village_code": "2416003011014",
+              "village_name": "RENGALPALI"
+            },
+            {
+              "village_code": "2416003011016",
+              "village_name": "SIMILITA"
+            },
+            {
+              "village_code": "2416003011001",
+              "village_name": "BADAJHARAN"
+            },
+            {
+              "village_code": "2416003011003",
+              "village_name": "BIJANALI"
+            },
+            {
+              "village_code": "2416003011009",
+              "village_name": "LUGAPADA"
+            },
+            {
+              "village_code": "2416003011015",
+              "village_name": "SIMILIHATA"
+            },
+            {
+              "village_code": "2416003011004",
+              "village_name": "BURBUDA"
+            },
+            {
+              "village_code": "2416003011006",
+              "village_name": "KHANDIAMUNDA"
+            },
+            {
+              "village_code": "2416003011007",
+              "village_name": "KIRTANPALI"
+            },
+            {
+              "village_code": "2416003011012",
+              "village_name": "POIPANI"
+            }
+          ],
+          "gp_name": "LULANG"
+        },
+        {
+          "gp_code": "2416003013",
+          "village_assign": [
+            {
+              "village_code": "2416003013001",
+              "village_name": "BALJORI"
+            },
+            {
+              "village_code": "2416003013009",
+              "village_name": "KANKARKHUL"
+            },
+            {
+              "village_code": "2416003013016",
+              "village_name": "TILEIPASI"
+            },
+            {
+              "village_code": "2416003013008",
+              "village_name": "JATIAANALI"
+            },
+            {
+              "village_code": "2416003013002",
+              "village_name": "BANDHALI"
+            },
+            {
+              "village_code": "2416003013004",
+              "village_name": "DUBAMUNDA"
+            },
+            {
+              "village_code": "2416003013006",
+              "village_name": "GOLABANDHA"
+            },
+            {
+              "village_code": "2416003013007",
+              "village_name": "GUDURIMUNDA"
+            },
+            {
+              "village_code": "2416003013010",
+              "village_name": "MADHUPALI"
+            },
+            {
+              "village_code": "2416003013011",
+              "village_name": "NAULIPADA"
+            },
+            {
+              "village_code": "2416003013012",
+              "village_name": "PATHARGHAT"
+            },
+            {
+              "village_code": "2416003013013",
+              "village_name": "SAPUINALI"
+            },
+            {
+              "village_code": "2416003013014",
+              "village_name": "SUNARIPADA"
+            },
+            {
+              "village_code": "2416003013015",
+              "village_name": "TELIMUNDA"
+            },
+            {
+              "village_code": "2416003013003",
+              "village_name": "BHITARPAD"
+            },
+            {
+              "village_code": "2416003013005",
+              "village_name": "FULASARNALI"
+            }
+          ],
+          "gp_name": "NAULIPADA"
+        },
+        {
+          "gp_code": "2416003014",
+          "village_assign": [
+            {
+              "village_code": "2416003014001",
+              "village_name": "BHALUCHABA"
+            },
+            {
+              "village_code": "2416003014002",
+              "village_name": "BHEJIKUDAR"
+            },
+            {
+              "village_code": "2416003014003",
+              "village_name": "MAHASINDU"
+            },
+            {
+              "village_code": "2416003014004",
+              "village_name": "MALARBAHAL"
+            },
+            {
+              "village_code": "2416003014005",
+              "village_name": "NUADIHI"
+            },
+            {
+              "village_code": "2416003014006",
+              "village_name": "PHULJHARI"
+            },
+            {
+              "village_code": "2416003014007",
+              "village_name": "PODADIHI"
+            },
+            {
+              "village_code": "2416003014008",
+              "village_name": "SANKARPUR"
+            }
+          ],
+          "gp_name": "NUADIHI"
+        },
+        {
+          "gp_code": "2416003015",
+          "village_assign": [
+            {
+              "village_code": "2416003015001",
+              "village_name": "AMBAKHOL"
+            },
+            {
+              "village_code": "2416003015002",
+              "village_name": "CHHATRIPITA"
+            },
+            {
+              "village_code": "2416003015003",
+              "village_name": "DALABEHERAMUNDA"
+            },
+            {
+              "village_code": "2416003015004",
+              "village_name": "DEHURIPAL"
+            },
+            {
+              "village_code": "2416003015006",
+              "village_name": "DHOLTAILA"
+            },
+            {
+              "village_code": "2416003015007",
+              "village_name": "GHODAPAKA"
+            },
+            {
+              "village_code": "2416003015008",
+              "village_name": "JAINTAPALI"
+            },
+            {
+              "village_code": "2416003015010",
+              "village_name": "JUANIBHANGA"
+            },
+            {
+              "village_code": "2416003015011",
+              "village_name": "KUSKULIA"
+            },
+            {
+              "village_code": "2416003015012",
+              "village_name": "PALSAMA"
+            },
+            {
+              "village_code": "2416003015009",
+              "village_name": "JUALIBHANGA"
+            },
+            {
+              "village_code": "2416003015005",
+              "village_name": "DHIRAMUNDA"
+            }
+          ],
+          "gp_name": "PALSAMA"
+        },
+        {
+          "gp_code": "2416003016",
+          "village_assign": [
+            {
+              "village_code": "2416003016001",
+              "village_name": "AMBACHUA"
+            },
+            {
+              "village_code": "2416003016003",
+              "village_name": "JAMBHUMUNDA"
+            },
+            {
+              "village_code": "2416003016004",
+              "village_name": "JARACHHATA"
+            },
+            {
+              "village_code": "2416003016005",
+              "village_name": "KANKADAJHARAN"
+            },
+            {
+              "village_code": "2416003016006",
+              "village_name": "LOHARAKOT"
+            },
+            {
+              "village_code": "2416003016007",
+              "village_name": "NETEIDHOBANI"
+            },
+            {
+              "village_code": "2416003016008",
+              "village_name": "PARA"
+            },
+            {
+              "village_code": "2416003016009",
+              "village_name": "RUTANALI"
+            },
+            {
+              "village_code": "2416003016010",
+              "village_name": "TALABAHALI"
+            },
+            {
+              "village_code": "2416003016002",
+              "village_name": "DHAURAKHAMAN"
+            }
+          ],
+          "gp_name": "PARA"
+        },
+        {
+          "gp_code": "2416003017",
+          "village_assign": [
+            {
+              "village_code": "2416003017001",
+              "village_name": "BABRAKOT"
+            },
+            {
+              "village_code": "2416003017006",
+              "village_name": "MAHULAMALA"
+            },
+            {
+              "village_code": "2416003017002",
+              "village_name": "BADABAHAL"
+            },
+            {
+              "village_code": "2416003017003",
+              "village_name": "DARJIMUNDA"
+            },
+            {
+              "village_code": "2416003017004",
+              "village_name": "DHARAMPUR"
+            },
+            {
+              "village_code": "2416003017005",
+              "village_name": "GHANTIAPALI"
+            },
+            {
+              "village_code": "2416003017007",
+              "village_name": "REAMAL"
+            },
+            {
+              "village_code": "2416003017008",
+              "village_name": "TIMUR"
+            }
+          ],
+          "gp_name": "REAMAL"
+        },
+        {
+          "gp_code": "2416003018",
+          "village_assign": [
+            {
+              "village_code": "2416003018001",
+              "village_name": "BAGHIABAN"
+            },
+            {
+              "village_code": "2416003018012",
+              "village_name": "RENGALABEDA"
+            },
+            {
+              "village_code": "2416003018010",
+              "village_name": "PEAJAGOOLA"
+            },
+            {
+              "village_code": "2416003018007",
+              "village_name": "KHALINALI"
+            },
+            {
+              "village_code": "2416003018008",
+              "village_name": "KUDALPAL"
+            },
+            {
+              "village_code": "2416003018011",
+              "village_name": "RANGAMATIA"
+            },
+            {
+              "village_code": "2416003018015",
+              "village_name": "TABADA"
+            },
+            {
+              "village_code": "2416003018004",
+              "village_name": "BIJABERNI"
+            }
+          ],
+          "gp_name": "TABADA"
+        },
+        {
+          "gp_code": "2416003020",
+          "village_assign": [
+            {
+              "village_code": "2416003020005",
+              "village_name": "CHAURIADHHIPA"
+            },
+            {
+              "village_code": "2416003020014",
+              "village_name": "BARATAILA"
+            },
+            {
+              "village_code": "2416003020015",
+              "village_name": "KAUNSHITAILA"
+            },
+            {
+              "village_code": "2416003020011",
+              "village_name": "KHANHEIMUNDA"
+            },
+            {
+              "village_code": "2416003020004",
+              "village_name": "CHANDAPASI"
+            },
+            {
+              "village_code": "2416003020007",
+              "village_name": "DENGASARAGI"
+            },
+            {
+              "village_code": "2416003020013",
+              "village_name": "TINKBIR"
+            }
+          ],
+          "gp_name": "TINKBIR"
+        },
+        {
+          "gp_code": "2416003021",
+          "village_assign": [
+            {
+              "village_code": "2416003021010",
+              "village_name": "PHATATANGER"
+            },
+            {
+              "village_code": "2416003021001",
+              "village_name": "DEBTADARH"
+            },
+            {
+              "village_code": "2416003021002",
+              "village_name": "HITOMA"
+            },
+            {
+              "village_code": "2416003021003",
+              "village_name": "JHIMPABEERA"
+            },
+            {
+              "village_code": "2416003021004",
+              "village_name": "JODAGOLA"
+            },
+            {
+              "village_code": "2416003021005",
+              "village_name": "KENDOONALI"
+            },
+            {
+              "village_code": "2416003021006",
+              "village_name": "KHARIAKHAN"
+            },
+            {
+              "village_code": "2416003021009",
+              "village_name": "NILOGANDIA"
+            },
+            {
+              "village_code": "2416003021011",
+              "village_name": "TOOHILAMAL"
+            },
+            {
+              "village_code": "2416003021007",
+              "village_name": "KHUNTABANDHA"
+            },
+            {
+              "village_code": "2416003021008",
+              "village_name": "KUKTINALI"
+            }
+          ],
+          "gp_name": "TUHILAMAL"
+        },
+        {
+          "gp_code": "2416003022",
+          "village_assign": [
+            {
+              "village_code": "2416003022001",
+              "village_name": "BABAJIMATHA"
+            },
+            {
+              "village_code": "2416003022002",
+              "village_name": "BALIPATA"
+            },
+            {
+              "village_code": "2416003022003",
+              "village_name": "GODAMAL"
+            },
+            {
+              "village_code": "2416003022004",
+              "village_name": "HADASANGHAR"
+            },
+            {
+              "village_code": "2416003022005",
+              "village_name": "TALKUDAR"
+            },
+            {
+              "village_code": "2416003022006",
+              "village_name": "UTUNIA"
+            }
+          ],
+          "gp_name": "UTUNIA"
+        },
+        {
+          "gp_code": "2416003012",
+          "village_assign": [
+            {
+              "village_code": "2416003012001",
+              "village_name": "BADSIMLAI"
+            },
+            {
+              "village_code": "2416003012005",
+              "village_name": "KHANDAMUNDA"
+            },
+            {
+              "village_code": "2416003012007",
+              "village_name": "MALHEHIPARA"
+            },
+            {
+              "village_code": "2416003012010",
+              "village_name": "RANGALBAHAL"
+            },
+            {
+              "village_code": "2416003012011",
+              "village_name": "SANASIMLAI"
+            },
+            {
+              "village_code": "2416003012012",
+              "village_name": "TALOBAHALI"
+            },
+            {
+              "village_code": "2416003012002",
+              "village_name": "HARIHARPUR"
+            },
+            {
+              "village_code": "2416003012004",
+              "village_name": "KAKHARUMAL"
+            },
+            {
+              "village_code": "2416003012006",
+              "village_name": "LAKHABAHAL"
+            },
+            {
+              "village_code": "2416003012008",
+              "village_name": "PATRAPALI"
+            },
+            {
+              "village_code": "2416003012009",
+              "village_name": "RAJAMUNDA"
+            },
+            {
+              "village_code": "2416003012003",
+              "village_name": "KADAPARDA"
+            }
+          ],
+          "gp_name": "MALEHIPADA"
+        }
+      ]
+    }
+  ]
+}

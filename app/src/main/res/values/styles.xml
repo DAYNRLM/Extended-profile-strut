@@ -1,0 +1,155 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="toolbarTheme" parent="@style/AppTheme">
+    <item name="actionMenuTextColor">@color/colorWhite</item>
+    <item name="android:textColorSecondary">@color/colorWhite</item>
+    <item name="colorControlNormal">@color/colorWhite</item>
+    <item name="overlapAnchor">false</item>
+    <item name="textAllCaps">false</item>
+    </style>
+
+
+    <style name="BlackTextForTitle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/text_size_18SP</item>
+    </style>
+
+    <style name="TextStyleForLocation" parent="BlackTextForTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">2dp</item>
+    </style>
+
+    <style name="MyTestThemep" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorBlack</item>
+        <item name="android:background">@color/colorPrimary1</item>
+    </style>
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="DashboardCardView" parent="CardView">
+        <item name="android:background">@color/colorWhite</item>
+        <item name="cardCornerRadius">@dimen/space10dp</item>
+    </style>
+
+    <style name="OnScreenTitleTheme" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_size_18SP</item>
+        <item name="android:padding">@dimen/space2dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="CustomSpinner" parent="Widget.AppCompat.Spinner">
+        <item name="hintTextColor">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/text_size_16SP</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/space2dp</item>
+        <item name="android:layout_marginTop">@dimen/space2dp</item>
+        <item name="met_floatingLabel">normal</item>
+        <item name="met_floatingLabelTextColor">@color/colorPrimaryDark</item>
+        <!--<item name="met_floatingLabel">normal</item>-->
+    </style>
+
+    <style name="memberStatusSpinner" parent="Widget.AppCompat.Spinner">
+        <item name="hintTextColor">@color/colorHintDark</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="met_floatingLabel">normal</item>
+        <!--<item name="met_floatingLabel">normal</item>-->
+    </style>
+
+    <style name="AadharcarNumberETStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/text_size_18SP</item>
+    </style>
+
+    <style name="AadharcarEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="hintTextColor">@color/colorPrimaryDark</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/text_size_18SP</item>
+    </style>
+
+    <style name="AadharTextinputLayout" parent="Widget.Design.TextInputLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/space2dp</item>
+        <item name="android:layout_marginTop">@dimen/space5dp</item>
+        <item name="hintTextColor">@color/colorHintDark</item>
+
+    </style>
+
+    <style name="CommonButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_16SP</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+
+
+      <!--  <item name="android:elevation">@dimen/space5dp</item>-->
+        <item name="android:padding">@dimen/space2dp</item>
+        <item name="android:layout_margin">@dimen/space5dp</item>
+    </style>
+
+    <style name="DashBoardFormText" parent="TextAppearance.AppCompat">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:padding">@dimen/space2dp</item>
+        <item name="android:textSize">@dimen/text_size_15SP</item>
+    </style>
+
+    <style name="DashboardLinearStyle" parent="Theme.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:weightSum">2</item>
+        <item name="android:layout_marginTop">@dimen/space5dp</item>
+        <item name="elevation">@dimen/space16dp</item>
+    </style>
+
+    <style name="MemberTitleStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/text_size_20SP</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center|center_horizontal</item>
+        <item name="android:layout_margin">@dimen/space2dp</item>
+        <item name="android:padding">@dimen/dimen_2</item>
+    </style>
+
+
+    <style name="DialogAnimationTheme">
+        <item name="android:windowEnterAnimation">@anim/dialog_style_up</item>
+        <item name="android:windowExitAnimation">@anim/dialog_style_bottem</item>
+    </style>
+
+
+
+
+</resources>

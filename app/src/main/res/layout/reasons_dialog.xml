@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/dimen_5"
+    android:paddingRight="@dimen/dimen_5"
+    android:paddingTop="@dimen/dimen_5"
+    android:paddingBottom="@dimen/dimen_5"
+    tools:context=".MainActivity">
+
+    <ExpandableListView
+        android:id="@+id/loan_statusELV"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+        android:divider="#000000"
+        android:childDivider="@color/colorPrimaryDark"
+        android:dividerHeight="0.5dp"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorWhite"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        android:layout_above="@+id/goToNextBtnCV"
+        >
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorScreenBackGround"
+        android:orientation="vertical">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dimen_15"
+            android:elevation="@dimen/dimen_15"
+            android:translationZ="@dimen/dimen_15"
+            style="@style/DashboardCardView">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/space5dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_margin="@dimen/dimen_5"
+                    android:weightSum="2">
+
+                    <TextView
+                        style="@style/TextStyleForLocation"
+                        android:text="@string/blockName"
+                        android:textStyle="bold"
+                        android:layout_weight="1.3"/>
+
+                    <TextView
+                        style="@style/TextStyleForLocation"
+                        android:id="@+id/blockNameTv"
+                        android:gravity="right"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:layout_weight="0.7"/>
+                </LinearLayout>
+
+                <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                    android:id="@+id/spinner_selectGP"
+                    style="@style/CustomSpinner"
+                    android:hint="@string/selectGramPanchyt"
+                    android:textColorHint="@color/colorPrimaryDark"/>
+
+                <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                    android:id="@+id/spinner_selectVillage"
+                    style="@style/CustomSpinner"
+                    android:hint="@string/selectVillage"
+                    android:textColorHint="@color/colorPrimaryDark"
+                    />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dimen_15"
+            android:elevation="@dimen/dimen_15"
+            android:translationZ="@dimen/dimen_15"
+            style="@style/DashboardCardView">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/detailsLL"
+                android:visibility="visible"
+                android:layout_margin="@dimen/space5dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/details_on_this_selected_location"
+                    style="@style/OnScreenTitleTheme"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/space1dp"
+                    android:background="@color/colorPrimaryDark"/>
+
+                <LinearLayout
+                    style="@style/DashboardLinearStyle">
+                    <TextView
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="@string/Number_of_total_shg" />
+
+                    <TextView
+                        android:id="@+id/totalShgTv"
+                        style="@style/DashBoardFormText"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:text="00"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimaryDark" />
+                </LinearLayout>
+
+                <LinearLayout
+                    style="@style/DashboardLinearStyle">
+                    <TextView
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="@string/total_number_of_shg_member" />
+
+                    <TextView
+                        android:id="@+id/totalShgMemberTv"
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="00"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:gravity="center_horizontal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    style="@style/DashboardLinearStyle">
+                    <TextView
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="@string/total_number_of_member_linked_aadhar_card" />
+
+                    <TextView
+                        android:id="@+id/aadharLinkedTv"
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="00"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:gravity="center_horizontal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    style="@style/DashboardLinearStyle">
+                    <TextView
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="@string/total_number_of_member_pending_for_aadhar_linked" />
+
+                    <TextView
+                        android:id="@+id/aadharPendingTv"
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="00"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:gravity="center_horizontal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    style="@style/DashboardLinearStyle">
+                    <TextView
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="@string/total_number_of_pending_bank_account_linked" />
+
+                    <TextView
+                        android:id="@+id/totalAccountLinked"
+                        style="@style/DashBoardFormText"
+                        android:layout_weight="1"
+                        android:text="00"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:gravity="center_horizontal" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+    </ScrollView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/goToNextBtnCV"
+        android:layout_margin="@dimen/dimen_10"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40"
+        android:elevation="@dimen/dimen_10"
+        android:translationZ="@dimen/dimen_10"
+        app:cardCornerRadius="@dimen/dimen_10"
+        android:layout_alignParentBottom="true"
+        android:backgroundTint="@color/colorPrimaryDark"
+        >
+    <TextView
+        android:id="@+id/goToNextBtn"
+        android:text="@string/go_to_shg_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/text_size_16SP"
+        android:textColor="@color/colorBlack"
+        android:textStyle="bold"
+        android:gravity="center|center_vertical"
+        />
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

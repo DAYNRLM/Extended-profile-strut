@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/server_error_dialoge"
+    android:layout_marginTop="@dimen/dimen_10"
+    android:layout_marginLeft="@dimen/dimen_10"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/server_error_dialog"
+        android:layout_marginLeft="@dimen/dimen_15"
+        android:layout_marginTop="@dimen/dimen_15"
+        android:padding="@dimen/dimen_5"
+        android:textSize="@dimen/dimen_25"
+        android:textColor="@color/colorScreenBackGroundDark"
+        />
+
+
+</LinearLayout>

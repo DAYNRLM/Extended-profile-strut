@@ -1,0 +1,5837 @@
+[{
+  "banktype_detail": "REGIONAL",
+  "banktype_code": "1",
+  "bank_detail": [{
+    "bank_branch_detail": [{
+      "ifsc_code": "MAHG0005634",
+      "bank_code": "326",
+      "bank_branch_name": "DAHANU",
+      "entity_code": "18",
+      "bank_branch_code": "130166"
+    }, {
+      "ifsc_code": "MAHG0005602",
+      "bank_code": "326",
+      "bank_branch_name": "BELAVALI",
+      "entity_code": "18",
+      "bank_branch_code": "130404"
+    }, {
+      "ifsc_code": "MAHG0004220",
+      "bank_code": "326",
+      "bank_branch_name": "KANHERGAON",
+      "entity_code": "18",
+      "bank_branch_code": "130506"
+    }, {
+      "ifsc_code": "MAHG0005615",
+      "bank_code": "326",
+      "bank_branch_name": "MURBE",
+      "entity_code": "18",
+      "bank_branch_code": "134205"
+    }, {
+      "ifsc_code": "MAHG0000950",
+      "bank_code": "326",
+      "bank_branch_name": "BHADGAON ROAD",
+      "entity_code": "18",
+      "bank_branch_code": "135923"
+    }, {
+      "ifsc_code": "MAHG0005514",
+      "bank_code": "326",
+      "bank_branch_name": "BAS STAND",
+      "entity_code": "18",
+      "bank_branch_code": "135924"
+    }, {
+      "ifsc_code": "MAHG0005514",
+      "bank_code": "326",
+      "bank_branch_name": "KAJGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135962"
+    }, {
+      "ifsc_code": "MAHG0005504",
+      "bank_code": "326",
+      "bank_branch_name": "AMADADE",
+      "entity_code": "18",
+      "bank_branch_code": "135964"
+    }, {
+      "ifsc_code": "MAHG0004341",
+      "bank_code": "326",
+      "bank_branch_name": "SHIRUR ANANTPAL",
+      "entity_code": "18",
+      "bank_branch_code": "136000"
+    }, {
+      "ifsc_code": "MAHG0004323",
+      "bank_code": "326",
+      "bank_branch_name": "KHADGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136375"
+    }, {
+      "ifsc_code": "MAHG0004308",
+      "bank_code": "326",
+      "bank_branch_name": "BORI ",
+      "entity_code": "18",
+      "bank_branch_code": "136376"
+    }, {
+      "ifsc_code": "MAHG0004331",
+      "bank_code": "326",
+      "bank_branch_name": "TANDULJA ",
+      "entity_code": "18",
+      "bank_branch_code": "136377"
+    }, {
+      "ifsc_code": "MAHG0004319",
+      "bank_code": "326",
+      "bank_branch_name": "JAVLA ",
+      "entity_code": "18",
+      "bank_branch_code": "136378"
+    }, {
+      "ifsc_code": "MAHG0004336",
+      "bank_code": "326",
+      "bank_branch_name": "BHUISAMMUDARGA ",
+      "entity_code": "18",
+      "bank_branch_code": "136379"
+    }, {
+      "ifsc_code": "MAHG0004326",
+      "bank_code": "326",
+      "bank_branch_name": "KHAROSA ",
+      "entity_code": "18",
+      "bank_branch_code": "136381"
+    }, {
+      "ifsc_code": "MAHG0004306",
+      "bank_code": "326",
+      "bank_branch_name": "BELKUND ",
+      "entity_code": "18",
+      "bank_branch_code": "136382"
+    }, {
+      "ifsc_code": "MAHG0004303",
+      "bank_code": "326",
+      "bank_branch_name": "AASHIV ",
+      "entity_code": "18",
+      "bank_branch_code": "136383"
+    }, {
+      "ifsc_code": "MAHG0004322",
+      "bank_code": "326",
+      "bank_branch_name": "KASARSHIRSHI ",
+      "entity_code": "18",
+      "bank_branch_code": "136385"
+    }, {
+      "ifsc_code": "MAHG0004301",
+      "bank_code": "326",
+      "bank_branch_name": "AMBULGA ",
+      "entity_code": "18",
+      "bank_branch_code": "136386"
+    }, {
+      "ifsc_code": "MAHG0004311",
+      "bank_code": "326",
+      "bank_branch_name": "PANCHINCHOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136387"
+    }, {
+      "ifsc_code": "MAHG0004321",
+      "bank_code": "326",
+      "bank_branch_name": "KASARBALKUNDA ",
+      "entity_code": "18",
+      "bank_branch_code": "136388"
+    }, {
+      "ifsc_code": "MAHG0004326",
+      "bank_code": "326",
+      "bank_branch_name": "KHAROSA ",
+      "entity_code": "18",
+      "bank_branch_code": "136389"
+    }, {
+      "ifsc_code": "MAHB0RRBMGB",
+      "bank_code": "326",
+      "bank_branch_name": "GIRGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136456"
+    }, {
+      "ifsc_code": "MAHG0004240",
+      "bank_code": "326",
+      "bank_branch_name": "SHELGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136511"
+    }, {
+      "ifsc_code": "MAHG0004251",
+      "bank_code": "326",
+      "bank_branch_name": "WADGAONG ",
+      "entity_code": "18",
+      "bank_branch_code": "136512"
+    }, {
+      "ifsc_code": "MAHG0004323",
+      "bank_code": "326",
+      "bank_branch_name": "KHADGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137061"
+    }, {
+      "ifsc_code": "MAHG0004308",
+      "bank_code": "326",
+      "bank_branch_name": "BORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137062"
+    }, {
+      "ifsc_code": "MAHG0004331",
+      "bank_code": "326",
+      "bank_branch_name": "TANDULJA ",
+      "entity_code": "18",
+      "bank_branch_code": "137063"
+    }, {
+      "ifsc_code": "MAHG0004319",
+      "bank_code": "326",
+      "bank_branch_name": "JAVLA ",
+      "entity_code": "18",
+      "bank_branch_code": "137064"
+    }, {
+      "ifsc_code": "MAHG0004336",
+      "bank_code": "326",
+      "bank_branch_name": "BHUISAMUDRA ",
+      "entity_code": "18",
+      "bank_branch_code": "137065"
+    }, {
+      "ifsc_code": "MAHG0004326",
+      "bank_code": "326",
+      "bank_branch_name": "KHAROSA ",
+      "entity_code": "18",
+      "bank_branch_code": "137067"
+    }, {
+      "ifsc_code": "MAHG0004306",
+      "bank_code": "326",
+      "bank_branch_name": "BELKUND ",
+      "entity_code": "18",
+      "bank_branch_code": "137068"
+    }, {
+      "ifsc_code": "MAHG0004303",
+      "bank_code": "326",
+      "bank_branch_name": "AASHIV ",
+      "entity_code": "18",
+      "bank_branch_code": "137069"
+    }, {
+      "ifsc_code": "MAHG0004322",
+      "bank_code": "326",
+      "bank_branch_name": "KASARSHIRSHI ",
+      "entity_code": "18",
+      "bank_branch_code": "137071"
+    }, {
+      "ifsc_code": "MAHG0004301",
+      "bank_code": "326",
+      "bank_branch_name": "AMBULGA ",
+      "entity_code": "18",
+      "bank_branch_code": "137072"
+    }, {
+      "ifsc_code": "MAHG0004311",
+      "bank_code": "326",
+      "bank_branch_name": "PANCHINCHOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "137073"
+    }, {
+      "ifsc_code": "MAHG0004321",
+      "bank_code": "326",
+      "bank_branch_name": "KASARBALKUNDA ",
+      "entity_code": "18",
+      "bank_branch_code": "137074"
+    }, {
+      "ifsc_code": "MAHG0004326",
+      "bank_code": "326",
+      "bank_branch_name": "KHAROSA ",
+      "entity_code": "18",
+      "bank_branch_code": "137075"
+    }, {
+      "ifsc_code": "MAHG0004312",
+      "bank_code": "326",
+      "bank_branch_name": "DEVARJAN ",
+      "entity_code": "18",
+      "bank_branch_code": "137078"
+    }, {
+      "ifsc_code": "MAHG0004329",
+      "bank_code": "326",
+      "bank_branch_name": "NALGIR ",
+      "entity_code": "18",
+      "bank_branch_code": "137079"
+    }, {
+      "ifsc_code": "MAHG0004315",
+      "bank_code": "326",
+      "bank_branch_name": "HALI ",
+      "entity_code": "18",
+      "bank_branch_code": "137080"
+    }, {
+      "ifsc_code": "MAHG0004332",
+      "bank_code": "326",
+      "bank_branch_name": "WADHOANA ",
+      "entity_code": "18",
+      "bank_branch_code": "137081"
+    }, {
+      "ifsc_code": "MAHG0004328",
+      "bank_code": "326",
+      "bank_branch_name": "NAGALGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137082"
+    }, {
+      "ifsc_code": "MAHG0004330",
+      "bank_code": "326",
+      "bank_branch_name": "SHIRUR TAJBAND ",
+      "entity_code": "18",
+      "bank_branch_code": "137084"
+    }, {
+      "ifsc_code": "MAHG0004302",
+      "bank_code": "326",
+      "bank_branch_name": "ANDHORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137085"
+    }, {
+      "ifsc_code": "MAHG0004327",
+      "bank_code": "326",
+      "bank_branch_name": "KINGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137086"
+    }, {
+      "ifsc_code": "MAHG0004333",
+      "bank_code": "326",
+      "bank_branch_name": "WADVAL NAGNATH ",
+      "entity_code": "18",
+      "bank_branch_code": "137089"
+    }, {
+      "ifsc_code": "MAHG0004310",
+      "bank_code": "326",
+      "bank_branch_name": "CHAPOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "137090"
+    }, {
+      "ifsc_code": "MAHG0004338",
+      "bank_code": "326",
+      "bank_branch_name": "NALEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137091"
+    }, {
+      "ifsc_code": "MAHG0004325",
+      "bank_code": "326",
+      "bank_branch_name": "KHAROLA ",
+      "entity_code": "18",
+      "bank_branch_code": "137093"
+    }, {
+      "ifsc_code": "MAHG0004320",
+      "bank_code": "326",
+      "bank_branch_name": "KAREPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137094"
+    }, {
+      "ifsc_code": "MAHG0004343",
+      "bank_code": "326",
+      "bank_branch_name": "PANGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137095"
+    }, {
+      "ifsc_code": "MAHG0004319",
+      "bank_code": "326",
+      "bank_branch_name": "JAWLA ",
+      "entity_code": "18",
+      "bank_branch_code": "137096"
+    }, {
+      "ifsc_code": "MAHG0004309",
+      "bank_code": "326",
+      "bank_branch_name": "BOROL ",
+      "entity_code": "18",
+      "bank_branch_code": "137098"
+    }, {
+      "ifsc_code": "MAHG0004334",
+      "bank_code": "326",
+      "bank_branch_name": "WALANDI ",
+      "entity_code": "18",
+      "bank_branch_code": "137099"
+    }, {
+      "ifsc_code": "MAHG0004335",
+      "bank_code": "326",
+      "bank_branch_name": "WANJARWADA ",
+      "entity_code": "18",
+      "bank_branch_code": "137102"
+    }, {
+      "ifsc_code": "MAHG0004332",
+      "bank_code": "326",
+      "bank_branch_name": "WADHWANA ",
+      "entity_code": "18",
+      "bank_branch_code": "137103"
+    }, {
+      "ifsc_code": "MAHG0004329",
+      "bank_code": "326",
+      "bank_branch_name": "NALGIR ",
+      "entity_code": "18",
+      "bank_branch_code": "137104"
+    }, {
+      "ifsc_code": "MAHG0004305",
+      "bank_code": "326",
+      "bank_branch_name": "ATNOOR ",
+      "entity_code": "18",
+      "bank_branch_code": "137105"
+    }, {
+      "ifsc_code": "MAHG0005702",
+      "bank_code": "326",
+      "bank_branch_name": "DINDORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137364"
+    }, {
+      "ifsc_code": "MAHG0005702",
+      "bank_code": "326",
+      "bank_branch_name": "DINDORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137370"
+    }, {
+      "ifsc_code": "MAHB0RRBMGB",
+      "bank_code": "326",
+      "bank_branch_name": "BIDKIN ",
+      "entity_code": "18",
+      "bank_branch_code": "137490"
+    }, {
+      "ifsc_code": "MAHG0004109",
+      "bank_code": "326",
+      "bank_branch_name": "KASARLI ",
+      "entity_code": "18",
+      "bank_branch_code": "138491"
+    }, {
+      "ifsc_code": "MAHG0004104",
+      "bank_code": "326",
+      "bank_branch_name": "BILOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "138492"
+    }, {
+      "ifsc_code": "MAHG0004129",
+      "bank_code": "326",
+      "bank_branch_name": "LOHGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "138493"
+    }, {
+      "ifsc_code": "MAHG0004109",
+      "bank_code": "326",
+      "bank_branch_name": "KASRALI ",
+      "entity_code": "18",
+      "bank_branch_code": "139047"
+    }, {
+      "ifsc_code": "MAHG0004104",
+      "bank_code": "326",
+      "bank_branch_name": "BILOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "139048"
+    }, {
+      "ifsc_code": "MAHG0004129",
+      "bank_code": "326",
+      "bank_branch_name": "LOHGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "139049"
+    }, {
+      "ifsc_code": "MAHG0005402",
+      "bank_code": "326",
+      "bank_branch_name": "SANGAMNER ",
+      "entity_code": "18",
+      "bank_branch_code": "139229"
+    }, {
+      "ifsc_code": "MAHB0RRBMGB",
+      "bank_code": "326",
+      "bank_branch_name": "MGB TALASARI",
+      "entity_code": "18",
+      "bank_branch_code": "74950"
+    }, {
+      "ifsc_code": "MAHG0005604",
+      "bank_code": "326",
+      "bank_branch_name": "KUDUS",
+      "entity_code": "18",
+      "bank_branch_code": "86717"
+    }, {
+      "ifsc_code": "MAHBURRBMGB",
+      "bank_code": "326",
+      "bank_branch_name": "KELWA",
+      "entity_code": "18",
+      "bank_branch_code": "87464"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "326",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "85663"
+    }],
+    "bank_code": "326",
+    "entity_code": "18",
+    "bank_name": "MAHARASHTRA GRAMIN BANK",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "AJARA",
+      "entity_code": "18",
+      "bank_branch_code": "130416"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "NANDGAON KHANDESHWAR",
+      "entity_code": "18",
+      "bank_branch_code": "133465"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "PHANSAVNE",
+      "entity_code": "18",
+      "bank_branch_code": "134250"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "PHANASAVANE",
+      "entity_code": "18",
+      "bank_branch_code": "134258"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "OROS ",
+      "entity_code": "18",
+      "bank_branch_code": "136349"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "MHAISANG ",
+      "entity_code": "18",
+      "bank_branch_code": "136657"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "CIVIL LINES AKOLA ",
+      "entity_code": "18",
+      "bank_branch_code": "136658"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "APATAPA ",
+      "entity_code": "18",
+      "bank_branch_code": "136659"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "DABKI RAOD ",
+      "entity_code": "18",
+      "bank_branch_code": "136660"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "HIWARKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136667"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "TELHARA ",
+      "entity_code": "18",
+      "bank_branch_code": "136668"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "GAYGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136674"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "PARAS ",
+      "entity_code": "18",
+      "bank_branch_code": "136675"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "WADEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136676"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "ZARI JAMANI ",
+      "entity_code": "18",
+      "bank_branch_code": "136701"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "MOZRI ",
+      "entity_code": "18",
+      "bank_branch_code": "137040"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "PATVARDHAN KUROLI ",
+      "entity_code": "18",
+      "bank_branch_code": "137508"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "MOZRI ",
+      "entity_code": "18",
+      "bank_branch_code": "137645"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "TIWASA",
+      "entity_code": "1824",
+      "bank_branch_code": "139164"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "PARATWADA ",
+      "entity_code": "1824",
+      "bank_branch_code": "139226"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "SHIRASGAON KASBA",
+      "entity_code": "1824",
+      "bank_branch_code": "146012"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "147237"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "BADNERA",
+      "entity_code": "1824",
+      "bank_branch_code": "82080"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "DHAMANGAON RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "84061"
+    }, {
+      "ifsc_code": "BKID0WAINGB",
+      "bank_code": "402",
+      "bank_branch_name": "MORSHI ",
+      "entity_code": "1824",
+      "bank_branch_code": "85665"
+    }],
+    "bank_code": "402",
+    "entity_code": "18",
+    "bank_name": "Vidharbha Konkan Gramin Bank",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }]
+}, {
+  "banktype_detail": "CO-OPERATIVE",
+  "banktype_code": "2",
+  "bank_detail": [{
+    "bank_branch_detail": [{
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "KARNAJARI",
+      "entity_code": "18",
+      "bank_branch_code": "134251"
+    }, {
+      "ifsc_code": "UTIBOSRDCCI",
+      "bank_code": "388",
+      "bank_branch_name": "SATWALI",
+      "entity_code": "18",
+      "bank_branch_code": "135006"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "ANSURE ",
+      "entity_code": "18",
+      "bank_branch_code": "136516"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "ONI ",
+      "entity_code": "18",
+      "bank_branch_code": "136517"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "PACHAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136518"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "388",
+      "bank_branch_name": "SAVADAV ",
+      "entity_code": "18",
+      "bank_branch_code": "136519"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "KONDAY ",
+      "entity_code": "18",
+      "bank_branch_code": "136520"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "388",
+      "bank_branch_name": "RAJAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136521"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "RAMPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136522"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "SHIRGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136523"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "KHADPOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136524"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "BHOM ",
+      "entity_code": "18",
+      "bank_branch_code": "136525"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "PALWAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136526"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "SAWARDE ",
+      "entity_code": "18",
+      "bank_branch_code": "136527"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "LATWAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136528"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "PANDERI ",
+      "entity_code": "18",
+      "bank_branch_code": "136529"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "MANDANGAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136530"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "MHAPRAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136533"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "BANKOT ",
+      "entity_code": "18",
+      "bank_branch_code": "136534"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "AMBAWADE ",
+      "entity_code": "18",
+      "bank_branch_code": "136535"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "LOTE ",
+      "entity_code": "18",
+      "bank_branch_code": "136573"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "KHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136574"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "MARATHA BHAWAN KHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136575"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "BHARANE ",
+      "entity_code": "18",
+      "bank_branch_code": "136576"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "SHIVAJINAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136577"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "DHAMNAND ",
+      "entity_code": "18",
+      "bank_branch_code": "136578"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "FURUS ",
+      "entity_code": "18",
+      "bank_branch_code": "136579"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "388",
+      "bank_branch_name": "TALE ",
+      "entity_code": "18",
+      "bank_branch_code": "136580"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "PATPANHALE ",
+      "entity_code": "18",
+      "bank_branch_code": "136581"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "ABLOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136582"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "GUHAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136583"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "ADUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136584"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "NARWAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136585"
+    }, {
+      "ifsc_code": "IBKL0574RDC",
+      "bank_code": "388",
+      "bank_branch_name": "PALGAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136586"
+    }],
+    "bank_code": "388",
+    "entity_code": "18",
+    "bank_name": "RATNAGIRI DISTRICT CENTRAL CO-OP.BANK",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "TDCB0000069",
+      "bank_code": "325",
+      "bank_branch_name": "BADLAPUR GAON",
+      "entity_code": "18",
+      "bank_branch_code": "130400"
+    }, {
+      "ifsc_code": "TDCB0000082",
+      "bank_code": "325",
+      "bank_branch_name": "BELAVALI",
+      "entity_code": "18",
+      "bank_branch_code": "130401"
+    }, {
+      "ifsc_code": "TDCB0000098",
+      "bank_code": "325",
+      "bank_branch_name": "NEWALI",
+      "entity_code": "18",
+      "bank_branch_code": "130402"
+    }, {
+      "ifsc_code": "TDCB0000004",
+      "bank_code": "325",
+      "bank_branch_name": "CHANDIP",
+      "entity_code": "18",
+      "bank_branch_code": "134039"
+    }, {
+      "ifsc_code": "TDCB0000005",
+      "bank_code": "325",
+      "bank_branch_name": "NAIGAON",
+      "entity_code": "18",
+      "bank_branch_code": "134040"
+    }, {
+      "ifsc_code": "TDCB0000053",
+      "bank_code": "325",
+      "bank_branch_name": "SATPATI",
+      "entity_code": "18",
+      "bank_branch_code": "134203"
+    }, {
+      "ifsc_code": "TDCB0000092",
+      "bank_code": "325",
+      "bank_branch_name": "MAHIM",
+      "entity_code": "18",
+      "bank_branch_code": "134206"
+    }, {
+      "ifsc_code": "TDCB0000097",
+      "bank_code": "325",
+      "bank_branch_name": "JAMSAR",
+      "entity_code": "18",
+      "bank_branch_code": "135991"
+    }, {
+      "ifsc_code": "TDCB0000025",
+      "bank_code": "325",
+      "bank_branch_name": "KALYAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136312"
+    }, {
+      "ifsc_code": "TDCB0000026",
+      "bank_code": "325",
+      "bank_branch_name": "TITWALA ",
+      "entity_code": "18",
+      "bank_branch_code": "136313"
+    }, {
+      "ifsc_code": "TDCB0000093",
+      "bank_code": "325",
+      "bank_branch_name": "AGAHI ",
+      "entity_code": "18",
+      "bank_branch_code": "136316"
+    }, {
+      "ifsc_code": "TDCB0000056",
+      "bank_code": "325",
+      "bank_branch_name": "BHATSANGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136317"
+    }, {
+      "ifsc_code": "TDCB0000076",
+      "bank_code": "325",
+      "bank_branch_name": "ATGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136318"
+    }, {
+      "ifsc_code": "TDCB0000059",
+      "bank_code": "325",
+      "bank_branch_name": "KHARDI ",
+      "entity_code": "18",
+      "bank_branch_code": "136319"
+    }, {
+      "ifsc_code": "TDCB0000090",
+      "bank_code": "325",
+      "bank_branch_name": "MANKOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136322"
+    }, {
+      "ifsc_code": "TDCB0000084",
+      "bank_code": "325",
+      "bank_branch_name": "ANGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136324"
+    }, {
+      "ifsc_code": "TDCB0000089",
+      "bank_code": "325",
+      "bank_branch_name": "UDHAVA ",
+      "entity_code": "18",
+      "bank_branch_code": "136455"
+    }, {
+      "ifsc_code": "TDCB0000036",
+      "bank_code": "325",
+      "bank_branch_name": "MUMBRA ",
+      "entity_code": "18",
+      "bank_branch_code": "136863"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "325",
+      "bank_branch_name": "DAHISAR ",
+      "entity_code": "18",
+      "bank_branch_code": "138457"
+    }, {
+      "ifsc_code": "TDCB0000065",
+      "bank_code": "325",
+      "bank_branch_name": "KANCHAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138885"
+    }, {
+      "ifsc_code": "TDCB0000021",
+      "bank_code": "325",
+      "bank_branch_name": "KASA",
+      "entity_code": "18",
+      "bank_branch_code": "86174"
+    }, {
+      "ifsc_code": "TDCB0000018",
+      "bank_code": "325",
+      "bank_branch_name": "DAHANU GAON",
+      "entity_code": "18",
+      "bank_branch_code": "86177"
+    }, {
+      "ifsc_code": "TDCB0000022",
+      "bank_code": "325",
+      "bank_branch_name": "VANGAON",
+      "entity_code": "18",
+      "bank_branch_code": "86179"
+    }, {
+      "ifsc_code": "TDCB0000073",
+      "bank_code": "325",
+      "bank_branch_name": "KHANIVALI",
+      "entity_code": "18",
+      "bank_branch_code": "86735"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "325",
+      "bank_branch_name": "PALGHAR",
+      "entity_code": "18",
+      "bank_branch_code": "87465"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "325",
+      "bank_branch_name": "SATPATI",
+      "entity_code": "18",
+      "bank_branch_code": "87466"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "325",
+      "bank_branch_name": "KELWA",
+      "entity_code": "18",
+      "bank_branch_code": "87474"
+    }, {
+      "ifsc_code": "TDCB0000016",
+      "bank_code": "325",
+      "bank_branch_name": "KHARBAO",
+      "entity_code": "18",
+      "bank_branch_code": "89712"
+    }, {
+      "ifsc_code": "TDCB0000025",
+      "bank_code": "325",
+      "bank_branch_name": "AMBERNATH",
+      "entity_code": "18",
+      "bank_branch_code": "94044"
+    }],
+    "bank_code": "325",
+    "entity_code": "18",
+    "bank_name": "THE THANE DISTRICT CENTRAL CO-OP BANK LTD",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "YESB0ADB019",
+      "bank_code": "462",
+      "bank_branch_name": "BHATKULI",
+      "entity_code": "1824",
+      "bank_branch_code": "79648"
+    }, {
+      "ifsc_code": "YESB0ADB024",
+      "bank_code": "462",
+      "bank_branch_name": "WATHODA SUKLESHWAR",
+      "entity_code": "1824",
+      "bank_branch_code": "79649"
+    }, {
+      "ifsc_code": "YESB0ADB061",
+      "bank_code": "462",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "79650"
+    }, {
+      "ifsc_code": "YESB0ADB069",
+      "bank_code": "462",
+      "bank_branch_name": "LEHEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "79651"
+    }, {
+      "ifsc_code": "YESB0ADB069",
+      "bank_code": "462",
+      "bank_branch_name": "LAHEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "79652"
+    }, {
+      "ifsc_code": "YESB0ADB062",
+      "bank_code": "462",
+      "bank_branch_name": "SHIRKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "79653"
+    }, {
+      "ifsc_code": "YESB0ADB066",
+      "bank_code": "462",
+      "bank_branch_name": "RIDDHPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "79654"
+    }, {
+      "ifsc_code": "YESB0ADB020",
+      "bank_code": "462",
+      "bank_branch_name": "TAKARKHEDA",
+      "entity_code": "1824",
+      "bank_branch_code": "80468"
+    }, {
+      "ifsc_code": "YESB0ADB021",
+      "bank_code": "462",
+      "bank_branch_name": "ASHTI",
+      "entity_code": "1824",
+      "bank_branch_code": "80763"
+    }, {
+      "ifsc_code": "YESB0ADB013",
+      "bank_code": "462",
+      "bank_branch_name": "WALGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "80868"
+    }, {
+      "ifsc_code": "YESB0ADB012",
+      "bank_code": "462",
+      "bank_branch_name": "BADNERA",
+      "entity_code": "1824",
+      "bank_branch_code": "82070"
+    }, {
+      "ifsc_code": "YESB0ADB035",
+      "bank_code": "462",
+      "bank_branch_name": "CHANDUR BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82482"
+    }, {
+      "ifsc_code": "YESB0ADB014",
+      "bank_code": "462",
+      "bank_branch_name": "MAHULI JAHAGIR",
+      "entity_code": "1824",
+      "bank_branch_code": "82615"
+    }, {
+      "ifsc_code": "YESB0ADB015",
+      "bank_code": "462",
+      "bank_branch_name": "NANDGAON PETH",
+      "entity_code": "1824",
+      "bank_branch_code": "82616"
+    }, {
+      "ifsc_code": "YESB0ADB016",
+      "bank_code": "462",
+      "bank_branch_name": "SHIRALA",
+      "entity_code": "1824",
+      "bank_branch_code": "82617"
+    }, {
+      "ifsc_code": "YESB0ADB017",
+      "bank_code": "462",
+      "bank_branch_name": "PUSDA",
+      "entity_code": "1824",
+      "bank_branch_code": "82618"
+    }, {
+      "ifsc_code": "YESB0ADB018",
+      "bank_code": "462",
+      "bank_branch_name": "ANJANGAON BARI",
+      "entity_code": "1824",
+      "bank_branch_code": "82619"
+    }, {
+      "ifsc_code": "YESB0ADB023",
+      "bank_code": "462",
+      "bank_branch_name": "KHOLAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82620"
+    }, {
+      "ifsc_code": "YESB0ADB025",
+      "bank_code": "462",
+      "bank_branch_name": "NANDGAON KHANDESHWAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82621"
+    }, {
+      "ifsc_code": "YESB0ADB026",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK LONI TAKLI",
+      "entity_code": "1824",
+      "bank_branch_code": "82622"
+    }, {
+      "ifsc_code": "YESB0ADB014",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MAHULI JAHAGIR",
+      "entity_code": "1824",
+      "bank_branch_code": "82623"
+    }, {
+      "ifsc_code": "YESB0ADB027",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MANGRUL CHAWALA",
+      "entity_code": "1824",
+      "bank_branch_code": "82624"
+    }, {
+      "ifsc_code": "YESB0ADB028",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK WADHONA RAMNATH",
+      "entity_code": "1824",
+      "bank_branch_code": "82625"
+    }, {
+      "ifsc_code": "YESB0ADB029",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82626"
+    }, {
+      "ifsc_code": "YESB0ADB030",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ASADPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82627"
+    }, {
+      "ifsc_code": "YESB0ADB031",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK PATHROT",
+      "entity_code": "1824",
+      "bank_branch_code": "82628"
+    }, {
+      "ifsc_code": "YESB0ADB032",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ACHALPUR CITY",
+      "entity_code": "1824",
+      "bank_branch_code": "82629"
+    }, {
+      "ifsc_code": "YESB0ADB033",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK DHAMANGAO GADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82630"
+    }, {
+      "ifsc_code": "YESB0ADB033",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK DHAMANGAO GADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82631"
+    }, {
+      "ifsc_code": "YESB0ADB036",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ASEGAON PURNA",
+      "entity_code": "1824",
+      "bank_branch_code": "82632"
+    }, {
+      "ifsc_code": "YESB0ADB037",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KARAJGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82633"
+    }, {
+      "ifsc_code": "YESB0ADB038",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SHRAJGAON KASBA",
+      "entity_code": "1824",
+      "bank_branch_code": "82634"
+    }, {
+      "ifsc_code": "YESB0ADB039",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK BRAMHANWADA THADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82635"
+    }, {
+      "ifsc_code": "YESB0ADB040",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK TALWEL",
+      "entity_code": "1824",
+      "bank_branch_code": "82636"
+    }, {
+      "ifsc_code": "YESB0ADB042",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK DHARNI",
+      "entity_code": "1824",
+      "bank_branch_code": "82637"
+    }, {
+      "ifsc_code": "YESB0ADB043",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KALAMKHAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82638"
+    }, {
+      "ifsc_code": "YESB0ADB044",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CHIKHALDARA",
+      "entity_code": "1824",
+      "bank_branch_code": "82640"
+    }, {
+      "ifsc_code": "YESB0ADB034",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK PARSAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82642"
+    }, {
+      "ifsc_code": "YESB0ADB046",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK GOULKHEDA BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82643"
+    }, {
+      "ifsc_code": "YESB0ADB051",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK NALWADA",
+      "entity_code": "1824",
+      "bank_branch_code": "82644"
+    }, {
+      "ifsc_code": "YESB0ADB050",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KHALLAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82646"
+    }, {
+      "ifsc_code": "YESB0ADB052",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ITKI",
+      "entity_code": "1824",
+      "bank_branch_code": "82648"
+    }, {
+      "ifsc_code": "YESB0ADB053",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KALAMGAVHAN",
+      "entity_code": "1824",
+      "bank_branch_code": "82650"
+    }, {
+      "ifsc_code": "YESB0ADB054",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK BABHALI",
+      "entity_code": "1824",
+      "bank_branch_code": "82653"
+    }, {
+      "ifsc_code": "YESB0ADB047",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK DARYAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82655"
+    }, {
+      "ifsc_code": "YESB0ADB048",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK YEODA",
+      "entity_code": "1824",
+      "bank_branch_code": "82656"
+    }, {
+      "ifsc_code": "YESB0ADB049",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK NANDRUN",
+      "entity_code": "1824",
+      "bank_branch_code": "82657"
+    }, {
+      "ifsc_code": "YESB0ADB055",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ANJANGAON SURJI",
+      "entity_code": "1824",
+      "bank_branch_code": "82659"
+    }, {
+      "ifsc_code": "YESB0ADB056",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SURJI",
+      "entity_code": "1824",
+      "bank_branch_code": "82660"
+    }, {
+      "ifsc_code": "YESB0ADB058",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KAPUSTALNI",
+      "entity_code": "1824",
+      "bank_branch_code": "82661"
+    }, {
+      "ifsc_code": "YESB0ADB059",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KOKARDA",
+      "entity_code": "1824",
+      "bank_branch_code": "82662"
+    }, {
+      "ifsc_code": "YESB0ADB060",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SATEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82663"
+    }, {
+      "ifsc_code": "YESB0ADB063",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK NERPINGALI",
+      "entity_code": "1824",
+      "bank_branch_code": "82664"
+    }, {
+      "ifsc_code": "YESB0ADB064",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAJURWADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82665"
+    }, {
+      "ifsc_code": "YESB0ADB068",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK HIWARKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82666"
+    }, {
+      "ifsc_code": "YESB0ADB070",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "82667"
+    }, {
+      "ifsc_code": "YESB0ADB078",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CHANDAS WATHODA",
+      "entity_code": "1824",
+      "bank_branch_code": "82668"
+    }, {
+      "ifsc_code": "YESB0ADB072",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK BENODA",
+      "entity_code": "1824",
+      "bank_branch_code": "82669"
+    }, {
+      "ifsc_code": "YESB0ADB041",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK BELORA",
+      "entity_code": "1824",
+      "bank_branch_code": "82670"
+    }, {
+      "ifsc_code": "YESB0ADB080",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK GHUIKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82671"
+    }, {
+      "ifsc_code": "YESB0ADB080",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK GHUIKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82672"
+    }, {
+      "ifsc_code": "YESB0ADB075",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAJURA BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82673"
+    }, {
+      "ifsc_code": "YESB0ADB076",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK HATURNA",
+      "entity_code": "1824",
+      "bank_branch_code": "82674"
+    }, {
+      "ifsc_code": "YESB0ADB081",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAJURA BHILTEK",
+      "entity_code": "1824",
+      "bank_branch_code": "82675"
+    }, {
+      "ifsc_code": "YESB0ADB079",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CHANDUR RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "82676"
+    }, {
+      "ifsc_code": "YESB0ADB083",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK TEOSA",
+      "entity_code": "1824",
+      "bank_branch_code": "82677"
+    }, {
+      "ifsc_code": "YESB0ADB087",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK WARHKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82678"
+    }, {
+      "ifsc_code": "YESB0ADB084",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK WARHA",
+      "entity_code": "1824",
+      "bank_branch_code": "82679"
+    }, {
+      "ifsc_code": "YESB0ADB086",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK KURHA",
+      "entity_code": "1824",
+      "bank_branch_code": "82680"
+    }, {
+      "ifsc_code": "YESB0ADB089",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK TALEGAON DASHASAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82681"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "CHANDUR BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82708"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "TALWEL",
+      "entity_code": "1824",
+      "bank_branch_code": "82709"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "KARAJGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82710"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "ASEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82711"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "SHIRAJGAON KASABA",
+      "entity_code": "1824",
+      "bank_branch_code": "82712"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "BRAMHANWADA THADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82713"
+    }, {
+      "ifsc_code": "IFSC0000000",
+      "bank_code": "462",
+      "bank_branch_name": "BELLORA",
+      "entity_code": "1824",
+      "bank_branch_code": "82714"
+    }, {
+      "ifsc_code": "YESB0ADB067",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK AMBADA",
+      "entity_code": "1824",
+      "bank_branch_code": "82818"
+    }, {
+      "ifsc_code": "YESB0ADB068",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK HIWARKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82819"
+    }, {
+      "ifsc_code": "YESB0ADB068",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK HIWARKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "82820"
+    }, {
+      "ifsc_code": "YESB0ADB077",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK PUSLA",
+      "entity_code": "1824",
+      "bank_branch_code": "82821"
+    }, {
+      "ifsc_code": "YESB0ADB089",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK TALEGAON DASHASAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82823"
+    }, {
+      "ifsc_code": "YESB0ADB090",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CHINCHOLI ZADGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82825"
+    }, {
+      "ifsc_code": "YESB0ADB057",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAHIMAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "82826"
+    }, {
+      "ifsc_code": "YESB0ADB045",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CHURNI",
+      "entity_code": "1824",
+      "bank_branch_code": "82827"
+    }, {
+      "ifsc_code": "YESB0ADB065",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ADGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82828"
+    }, {
+      "ifsc_code": "YESB0ADB071",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK JARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "82829"
+    }, {
+      "ifsc_code": "YESB0ADB073",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK LONI WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "82830"
+    }, {
+      "ifsc_code": "YESB0ADB074",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SHENDURJANAGHAT",
+      "entity_code": "1824",
+      "bank_branch_code": "82831"
+    }, {
+      "ifsc_code": "YESB0ADB082",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK AMLA VISHVESHWAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82832"
+    }, {
+      "ifsc_code": "YESB0ADB085",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK GURUDEONGR MOJARI",
+      "entity_code": "1824",
+      "bank_branch_code": "82833"
+    }, {
+      "ifsc_code": "YESB0ADB085",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK GURUDEONGR MOJARI",
+      "entity_code": "1824",
+      "bank_branch_code": "82834"
+    }, {
+      "ifsc_code": "YESB0ADB088",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK DHAMANGAO RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "82835"
+    }, {
+      "ifsc_code": "YESB0ADB091",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MANGRUL DASTGIR",
+      "entity_code": "1824",
+      "bank_branch_code": "82836"
+    }, {
+      "ifsc_code": "YESB0ADB092",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK ANJANSINGI",
+      "entity_code": "1824",
+      "bank_branch_code": "82837"
+    }, {
+      "ifsc_code": "YESB0ADB022",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK PURNA NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82838"
+    }, {
+      "ifsc_code": "YESB0ADB011",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK VMV BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "82839"
+    }, {
+      "ifsc_code": "YESB0ADB010",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAJENDRA COLONY",
+      "entity_code": "1824",
+      "bank_branch_code": "82840"
+    }, {
+      "ifsc_code": "YESB0ADB009",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SAI NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82841"
+    }, {
+      "ifsc_code": "YESB0ADB008",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MOTI NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82842"
+    }, {
+      "ifsc_code": "YESB0ADB008",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MOTI NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82843"
+    }, {
+      "ifsc_code": "YESB0ADB007",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK RAJAPETH",
+      "entity_code": "1824",
+      "bank_branch_code": "82844"
+    }, {
+      "ifsc_code": "YESB0ADB006",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK SHARDA NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "82845"
+    }, {
+      "ifsc_code": "YESB0ADB005",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CAMP BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "82846"
+    }, {
+      "ifsc_code": "YESB0ADB004",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK COTTON BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "82847"
+    }, {
+      "ifsc_code": "YESB0ADB003",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK CITY BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "82848"
+    }, {
+      "ifsc_code": "YESB0ADB002",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK MAIN BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "82849"
+    }, {
+      "ifsc_code": "YESB0ADB001",
+      "bank_code": "462",
+      "bank_branch_name": "AMRAVATI DCC BANK HEAD OFFICE",
+      "entity_code": "1824",
+      "bank_branch_code": "82850"
+    }],
+    "bank_code": "462",
+    "entity_code": "1824",
+    "bank_name": "The Amravati District Central Co-op. Bank",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "3"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ASBL0000029",
+      "bank_code": "1228",
+      "bank_branch_name": "DEVRUKH",
+      "entity_code": "18",
+      "bank_branch_code": "134254"
+    }],
+    "bank_code": "1228",
+    "entity_code": "18",
+    "bank_name": "APNA SAHAKARI BANK LTD.",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "JSBP0000026",
+      "bank_code": "1229",
+      "bank_branch_name": "SAKHARPADA",
+      "entity_code": "18",
+      "bank_branch_code": "134256"
+    }, {
+      "ifsc_code": "JSBP0000026",
+      "bank_code": "1229",
+      "bank_branch_name": "MAKHAJAN",
+      "entity_code": "18",
+      "bank_branch_code": "134257"
+    }],
+    "bank_code": "1229",
+    "entity_code": "18",
+    "bank_name": "JANATA SAHAKARI BANK LTD.",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ADCC0000015",
+      "bank_code": "1322",
+      "bank_branch_name": "KANSHIVANI ",
+      "entity_code": "18",
+      "bank_branch_code": "136625"
+    }, {
+      "ifsc_code": "ADCC0000025",
+      "bank_code": "1322",
+      "bank_branch_name": "AAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136626"
+    }, {
+      "ifsc_code": "ADCC0000012",
+      "bank_code": "1322",
+      "bank_branch_name": "BORGAON MANJU ",
+      "entity_code": "18",
+      "bank_branch_code": "136627"
+    }, {
+      "ifsc_code": "ADCC0000023",
+      "bank_code": "1322",
+      "bank_branch_name": "KHADKI BK ",
+      "entity_code": "18",
+      "bank_branch_code": "136628"
+    }, {
+      "ifsc_code": "ADCC0000002",
+      "bank_code": "1322",
+      "bank_branch_name": "MARKET YARD ",
+      "entity_code": "18",
+      "bank_branch_code": "136629"
+    }, {
+      "ifsc_code": "ADCC0000005",
+      "bank_code": "1322",
+      "bank_branch_name": "ZILHA PARISHAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136630"
+    }, {
+      "ifsc_code": "ADCC0000044",
+      "bank_code": "1322",
+      "bank_branch_name": "TELHARA ",
+      "entity_code": "18",
+      "bank_branch_code": "136632"
+    }, {
+      "ifsc_code": "ADCC0000043",
+      "bank_code": "1322",
+      "bank_branch_name": "TELHARA MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136633"
+    }, {
+      "ifsc_code": "ADCC0000050",
+      "bank_code": "1322",
+      "bank_branch_name": "ADGAON BK ",
+      "entity_code": "18",
+      "bank_branch_code": "136634"
+    }, {
+      "ifsc_code": "ADCC0000047",
+      "bank_code": "1322",
+      "bank_branch_name": "PATHARDI ",
+      "entity_code": "18",
+      "bank_branch_code": "136635"
+    }, {
+      "ifsc_code": "ADCC0000046",
+      "bank_code": "1322",
+      "bank_branch_name": "DANAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136636"
+    }, {
+      "ifsc_code": "ADCC0000048",
+      "bank_code": "1322",
+      "bank_branch_name": "BELKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136637"
+    }, {
+      "ifsc_code": "ADCC0000049",
+      "bank_code": "1322",
+      "bank_branch_name": "ADSAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136638"
+    }, {
+      "ifsc_code": "ADCC0000045",
+      "bank_code": "1322",
+      "bank_branch_name": "HIWARKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136639"
+    }, {
+      "ifsc_code": "ADCC0000058",
+      "bank_code": "1322",
+      "bank_branch_name": "PATUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136640"
+    }, {
+      "ifsc_code": "ADCC0000060",
+      "bank_code": "1322",
+      "bank_branch_name": "ALEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136641"
+    }, {
+      "ifsc_code": "ADCC0000059",
+      "bank_code": "1322",
+      "bank_branch_name": "CHANNI ",
+      "entity_code": "18",
+      "bank_branch_code": "136642"
+    }, {
+      "ifsc_code": "ADCCC000006",
+      "bank_code": "1322",
+      "bank_branch_name": "VIVRA BABHULGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136643"
+    }, {
+      "ifsc_code": "ADCC0000062",
+      "bank_code": "1322",
+      "bank_branch_name": "SASTI ",
+      "entity_code": "18",
+      "bank_branch_code": "136644"
+    }, {
+      "ifsc_code": "ADCC0000028",
+      "bank_code": "1322",
+      "bank_branch_name": "BARSHI TAKLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136645"
+    }, {
+      "ifsc_code": "ADCC0000030",
+      "bank_code": "1322",
+      "bank_branch_name": "MAHAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136646"
+    }, {
+      "ifsc_code": "ADCC0000029",
+      "bank_code": "1322",
+      "bank_branch_name": "PINJAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136647"
+    }, {
+      "ifsc_code": "ADCC0000032",
+      "bank_code": "1322",
+      "bank_branch_name": "DHABA ",
+      "entity_code": "18",
+      "bank_branch_code": "136648"
+    }, {
+      "ifsc_code": "ADCC0000051",
+      "bank_code": "1322",
+      "bank_branch_name": "BALAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136649"
+    }, {
+      "ifsc_code": "ADCC0000056",
+      "bank_code": "1322",
+      "bank_branch_name": "HATARUN ",
+      "entity_code": "18",
+      "bank_branch_code": "136650"
+    }, {
+      "ifsc_code": "ADCC0000053",
+      "bank_code": "1322",
+      "bank_branch_name": "WADEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136651"
+    }, {
+      "ifsc_code": "ADCC0000052",
+      "bank_code": "1322",
+      "bank_branch_name": "URAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136652"
+    }, {
+      "ifsc_code": "ADCC0000067",
+      "bank_code": "1322",
+      "bank_branch_name": "MANA ",
+      "entity_code": "18",
+      "bank_branch_code": "136654"
+    }, {
+      "ifsc_code": "ADCC0000064",
+      "bank_code": "1322",
+      "bank_branch_name": "MURTIJAPUR MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136655"
+    }, {
+      "ifsc_code": "ADCC0000065",
+      "bank_code": "1322",
+      "bank_branch_name": "MARKET YARD ",
+      "entity_code": "18",
+      "bank_branch_code": "136656"
+    }, {
+      "ifsc_code": "ADCC0000031",
+      "bank_code": "1322",
+      "bank_branch_name": "KANHERI ",
+      "entity_code": "18",
+      "bank_branch_code": "136672"
+    }, {
+      "ifsc_code": "ADCC0000070",
+      "bank_code": "1322",
+      "bank_branch_name": "KARANJA MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136777"
+    }, {
+      "ifsc_code": "ADCC0000071",
+      "bank_code": "1322",
+      "bank_branch_name": "KARANJA  CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136778"
+    }, {
+      "ifsc_code": "ADCC0000072",
+      "bank_code": "1322",
+      "bank_branch_name": "KAMARGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136779"
+    }, {
+      "ifsc_code": "ADCC0000073",
+      "bank_code": "1322",
+      "bank_branch_name": "UMBARDA BAZAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136780"
+    }, {
+      "ifsc_code": "ADCC0000074",
+      "bank_code": "1322",
+      "bank_branch_name": "DHANAJ BK ",
+      "entity_code": "18",
+      "bank_branch_code": "136781"
+    }, {
+      "ifsc_code": "ADCC0000074",
+      "bank_code": "1322",
+      "bank_branch_name": "DHANAJ BK ",
+      "entity_code": "18",
+      "bank_branch_code": "136782"
+    }, {
+      "ifsc_code": "ADCC0000075",
+      "bank_code": "1322",
+      "bank_branch_name": "MANBHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136783"
+    }, {
+      "ifsc_code": "ADCC0000075",
+      "bank_code": "1322",
+      "bank_branch_name": "MANBHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136784"
+    }, {
+      "ifsc_code": "ADCC0000076",
+      "bank_code": "1322",
+      "bank_branch_name": "POHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136786"
+    }, {
+      "ifsc_code": "ADCC0000077",
+      "bank_code": "1322",
+      "bank_branch_name": "KAJALESHWAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136787"
+    }, {
+      "ifsc_code": "ADCC0000116",
+      "bank_code": "1322",
+      "bank_branch_name": "MARKET YARD ",
+      "entity_code": "18",
+      "bank_branch_code": "136789"
+    }, {
+      "ifsc_code": "ADCC0000078",
+      "bank_code": "1322",
+      "bank_branch_name": "MANGRULPIR MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136790"
+    }, {
+      "ifsc_code": "ADCC0000079",
+      "bank_code": "1322",
+      "bank_branch_name": "MANGRULPIR CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136791"
+    }, {
+      "ifsc_code": "ADCC0000080",
+      "bank_code": "1322",
+      "bank_branch_name": "MOHARI ",
+      "entity_code": "18",
+      "bank_branch_code": "136792"
+    }, {
+      "ifsc_code": "ADCC0000081",
+      "bank_code": "1322",
+      "bank_branch_name": "SHELUBAZAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136793"
+    }, {
+      "ifsc_code": "ADCC0000082",
+      "bank_code": "1322",
+      "bank_branch_name": "WANOJA ",
+      "entity_code": "18",
+      "bank_branch_code": "136794"
+    }, {
+      "ifsc_code": "ADCC0000083",
+      "bank_code": "1322",
+      "bank_branch_name": "DHANORA ",
+      "entity_code": "18",
+      "bank_branch_code": "136795"
+    }, {
+      "ifsc_code": "ADCC0000109",
+      "bank_code": "1322",
+      "bank_branch_name": "KASOLA ",
+      "entity_code": "18",
+      "bank_branch_code": "136796"
+    }, {
+      "ifsc_code": "ADCC0000112",
+      "bank_code": "1322",
+      "bank_branch_name": "ASEGAO ",
+      "entity_code": "18",
+      "bank_branch_code": "136797"
+    }, {
+      "ifsc_code": "ADCC0000084",
+      "bank_code": "1322",
+      "bank_branch_name": "MANORA ",
+      "entity_code": "18",
+      "bank_branch_code": "136798"
+    }, {
+      "ifsc_code": "ADCC0000085",
+      "bank_code": "1322",
+      "bank_branch_name": "SHENDURJANA ",
+      "entity_code": "18",
+      "bank_branch_code": "136799"
+    }, {
+      "ifsc_code": "ADCC0000086",
+      "bank_code": "1322",
+      "bank_branch_name": "POHARADEVI ",
+      "entity_code": "18",
+      "bank_branch_code": "136801"
+    }, {
+      "ifsc_code": "ADCC0000086",
+      "bank_code": "1322",
+      "bank_branch_name": "POHARADEVI ",
+      "entity_code": "18",
+      "bank_branch_code": "136802"
+    }, {
+      "ifsc_code": "ADCC0000087",
+      "bank_code": "1322",
+      "bank_branch_name": "SAKHARDOH ",
+      "entity_code": "18",
+      "bank_branch_code": "136803"
+    }, {
+      "ifsc_code": "ADCC0000115",
+      "bank_code": "1322",
+      "bank_branch_name": "INZORI ",
+      "entity_code": "18",
+      "bank_branch_code": "136804"
+    }, {
+      "ifsc_code": "ADCC0000088",
+      "bank_code": "1322",
+      "bank_branch_name": "WASHIM MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136805"
+    }, {
+      "ifsc_code": "ADCC0000089",
+      "bank_code": "1322",
+      "bank_branch_name": "WASHIM CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136806"
+    }, {
+      "ifsc_code": "ADCC0000111",
+      "bank_code": "1322",
+      "bank_branch_name": "PATANI CHOWK WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136807"
+    }, {
+      "ifsc_code": "ADCC0000090",
+      "bank_code": "1322",
+      "bank_branch_name": "ANSING ",
+      "entity_code": "18",
+      "bank_branch_code": "136808"
+    }, {
+      "ifsc_code": "ADCC0000091",
+      "bank_code": "1322",
+      "bank_branch_name": "TONDGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136809"
+    }, {
+      "ifsc_code": "ADCC0000091",
+      "bank_code": "1322",
+      "bank_branch_name": "TONDGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136810"
+    }, {
+      "ifsc_code": "ADCC0000092",
+      "bank_code": "1322",
+      "bank_branch_name": "PARDI TAKMOR ",
+      "entity_code": "18",
+      "bank_branch_code": "136811"
+    }, {
+      "ifsc_code": "ADCC0000113",
+      "bank_code": "1322",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136812"
+    }, {
+      "ifsc_code": "ADCC0000093",
+      "bank_code": "1322",
+      "bank_branch_name": "MALEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136813"
+    }, {
+      "ifsc_code": "ADCC0000094",
+      "bank_code": "1322",
+      "bank_branch_name": "KINHIRAJA ",
+      "entity_code": "18",
+      "bank_branch_code": "136814"
+    }, {
+      "ifsc_code": "ADCC0000095",
+      "bank_code": "1322",
+      "bank_branch_name": "SHIRPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136815"
+    }, {
+      "ifsc_code": "ADCC0000095",
+      "bank_code": "1322",
+      "bank_branch_name": "SHIRPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136817"
+    }, {
+      "ifsc_code": "ADCC0000096",
+      "bank_code": "1322",
+      "bank_branch_name": "MEDASHI ",
+      "entity_code": "18",
+      "bank_branch_code": "136818"
+    }, {
+      "ifsc_code": "ADCC0000097",
+      "bank_code": "1322",
+      "bank_branch_name": "PANGARI KUTE ",
+      "entity_code": "18",
+      "bank_branch_code": "136819"
+    }, {
+      "ifsc_code": "ADCC0000098",
+      "bank_code": "1322",
+      "bank_branch_name": "JAULKA RAILWAY ",
+      "entity_code": "18",
+      "bank_branch_code": "136820"
+    }, {
+      "ifsc_code": "ADCC0000099",
+      "bank_code": "1322",
+      "bank_branch_name": "RISOD MAIN ",
+      "entity_code": "18",
+      "bank_branch_code": "136821"
+    }, {
+      "ifsc_code": "ADCC0000100",
+      "bank_code": "1322",
+      "bank_branch_name": "RISOD CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136822"
+    }, {
+      "ifsc_code": "ADCC0000101",
+      "bank_code": "1322",
+      "bank_branch_name": "RITHAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136823"
+    }, {
+      "ifsc_code": "ADCC0000102",
+      "bank_code": "1322",
+      "bank_branch_name": "KENWAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136824"
+    }, {
+      "ifsc_code": "ADCC0000103",
+      "bank_code": "1322",
+      "bank_branch_name": "MANGUL ZANAK ",
+      "entity_code": "18",
+      "bank_branch_code": "136825"
+    }, {
+      "ifsc_code": "ADCC0000104",
+      "bank_code": "1322",
+      "bank_branch_name": "HARAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136826"
+    }, {
+      "ifsc_code": "ADCC0000105",
+      "bank_code": "1322",
+      "bank_branch_name": "MOP ",
+      "entity_code": "18",
+      "bank_branch_code": "136827"
+    }, {
+      "ifsc_code": "ADCC0000106",
+      "bank_code": "1322",
+      "bank_branch_name": "KESHAVNAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136828"
+    }, {
+      "ifsc_code": "ADCC0000107",
+      "bank_code": "1322",
+      "bank_branch_name": "WAKAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136829"
+    }, {
+      "ifsc_code": "ADCC0000108",
+      "bank_code": "1322",
+      "bank_branch_name": "CHIKHALI ",
+      "entity_code": "18",
+      "bank_branch_code": "136830"
+    }],
+    "bank_code": "1322",
+    "entity_code": "18",
+    "bank_name": "The Akola D.C.C.Bank Ltd., Akola",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "SIDC0001022",
+      "bank_code": "1316",
+      "bank_branch_name": "SAWANTWADI ",
+      "entity_code": "18",
+      "bank_branch_code": "136350"
+    }, {
+      "ifsc_code": "SIDC0001023",
+      "bank_code": "1316",
+      "bank_branch_name": "BANDA ",
+      "entity_code": "18",
+      "bank_branch_code": "136351"
+    }, {
+      "ifsc_code": "SIDC0001026",
+      "bank_code": "1316",
+      "bank_branch_name": "SANGELI ",
+      "entity_code": "18",
+      "bank_branch_code": "136352"
+    }, {
+      "ifsc_code": "SIDC0001027",
+      "bank_code": "1316",
+      "bank_branch_name": "ARONDA ",
+      "entity_code": "18",
+      "bank_branch_code": "136353"
+    }, {
+      "ifsc_code": "SIDC0001030",
+      "bank_code": "1316",
+      "bank_branch_name": "KAMBALEVEER ",
+      "entity_code": "18",
+      "bank_branch_code": "136354"
+    }, {
+      "ifsc_code": "SIDC0001035",
+      "bank_code": "1316",
+      "bank_branch_name": "MALEWAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136355"
+    }, {
+      "ifsc_code": "SIDC0001038",
+      "bank_code": "1316",
+      "bank_branch_name": "CHOWKUL ",
+      "entity_code": "18",
+      "bank_branch_code": "136356"
+    }, {
+      "ifsc_code": "SIDC0001049",
+      "bank_code": "1316",
+      "bank_branch_name": "KANKAVALI CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136358"
+    }, {
+      "ifsc_code": "SIDC0001050",
+      "bank_code": "1316",
+      "bank_branch_name": "SAWANTWADI CITY ",
+      "entity_code": "18",
+      "bank_branch_code": "136359"
+    }, {
+      "ifsc_code": "SIDC0001051",
+      "bank_code": "1316",
+      "bank_branch_name": "AMBOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136360"
+    }, {
+      "ifsc_code": "SIDC0001046",
+      "bank_code": "1316",
+      "bank_branch_name": "SINDHUDURGNAGARI ",
+      "entity_code": "18",
+      "bank_branch_code": "136361"
+    }, {
+      "ifsc_code": "SIDC0001072",
+      "bank_code": "1316",
+      "bank_branch_name": "SATARDA ",
+      "entity_code": "18",
+      "bank_branch_code": "136362"
+    }, {
+      "ifsc_code": "SIDC0001073",
+      "bank_code": "1316",
+      "bank_branch_name": "MADURA ",
+      "entity_code": "18",
+      "bank_branch_code": "136363"
+    }, {
+      "ifsc_code": "SIDC0001080",
+      "bank_code": "1316",
+      "bank_branch_name": "MAJGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136364"
+    }, {
+      "ifsc_code": "SIDC0001098",
+      "bank_code": "1316",
+      "bank_branch_name": "TALAWADE ",
+      "entity_code": "18",
+      "bank_branch_code": "136365"
+    }, {
+      "ifsc_code": "SIDC0001100",
+      "bank_code": "1316",
+      "bank_branch_name": "DANOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136366"
+    }, {
+      "ifsc_code": "SIDC0001109",
+      "bank_code": "1316",
+      "bank_branch_name": "AROS DANDELI ",
+      "entity_code": "18",
+      "bank_branch_code": "136367"
+    }, {
+      "ifsc_code": "SIDC0001113",
+      "bank_code": "1316",
+      "bank_branch_name": "HET SHEWARI ",
+      "entity_code": "18",
+      "bank_branch_code": "136368"
+    }, {
+      "ifsc_code": "SIDC0001065",
+      "bank_code": "1316",
+      "bank_branch_name": "MALGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136369"
+    }],
+    "bank_code": "1316",
+    "entity_code": "18",
+    "bank_name": "SINDHUDURG DIST.CENTRAL CO-OP.BANK LTD.",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "YESB0PDBH01",
+      "bank_code": "1329",
+      "bank_branch_name": "PHALEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137151"
+    }],
+    "bank_code": "1329",
+    "entity_code": "18",
+    "bank_name": "The Parbhani District Central  Cooperative Bank Ltd, Parbhani",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "SAKOL",
+      "entity_code": "18",
+      "bank_branch_code": "136002"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "HIPPALGAON",
+      "entity_code": "18",
+      "bank_branch_code": "136003"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "DAITHNA",
+      "entity_code": "18",
+      "bank_branch_code": "136004"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "HALKI",
+      "entity_code": "18",
+      "bank_branch_code": "136005"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "SHIRUR ANANTPAL",
+      "entity_code": "18",
+      "bank_branch_code": "136006"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "RAPKA",
+      "entity_code": "18",
+      "bank_branch_code": "136007"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "YEROL",
+      "entity_code": "18",
+      "bank_branch_code": "136008"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "UJED",
+      "entity_code": "18",
+      "bank_branch_code": "136009"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "LATUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137066"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "AUSA ",
+      "entity_code": "18",
+      "bank_branch_code": "137070"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "NILANGA ",
+      "entity_code": "18",
+      "bank_branch_code": "137076"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "AHMEDPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137088"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "CHAKUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137092"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "RENAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137097"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "DEONI ",
+      "entity_code": "18",
+      "bank_branch_code": "137101"
+    }, {
+      "ifsc_code": "IBKL0497LDC",
+      "bank_code": "1309",
+      "bank_branch_name": "JALKOT ",
+      "entity_code": "18",
+      "bank_branch_code": "137106"
+    }],
+    "bank_code": "1309",
+    "entity_code": "18",
+    "bank_name": "LATUR DIST.CENTRAL CO-OP.BANK LTD.",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "2"
+  }]
+}, {
+  "banktype_detail": "COMMERCIAL",
+  "banktype_code": "3",
+  "bank_detail": [{
+    "bank_branch_detail": [{
+      "ifsc_code": "PUNB0996900",
+      "bank_code": "90",
+      "bank_branch_name": "FETRI",
+      "entity_code": "18",
+      "bank_branch_code": "133553"
+    }, {
+      "ifsc_code": "PUNB0892300",
+      "bank_code": "90",
+      "bank_branch_name": "PIMPALGAON BASWANT",
+      "entity_code": "18",
+      "bank_branch_code": "135712"
+    }, {
+      "ifsc_code": "PUNB0792800",
+      "bank_code": "90",
+      "bank_branch_name": "SAKHARSHET CHALATWAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138884"
+    }, {
+      "ifsc_code": "PUNB0216200",
+      "bank_code": "90",
+      "bank_branch_name": "BHARAT NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "38346"
+    }, {
+      "ifsc_code": "PUNB0001600",
+      "bank_code": "90",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "38356"
+    }, {
+      "ifsc_code": "PUNB0050100",
+      "bank_code": "90",
+      "bank_branch_name": "ACHALPUR  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "36740"
+    }, {
+      "ifsc_code": "PUNB0632200",
+      "bank_code": "90",
+      "bank_branch_name": "MIET  GONDIA",
+      "entity_code": "18",
+      "bank_branch_code": "36695"
+    }, {
+      "ifsc_code": "PUNB0781200",
+      "bank_code": "90",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136836"
+    }, {
+      "ifsc_code": "PUNB0927900",
+      "bank_code": "90",
+      "bank_branch_name": "BORGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "166892"
+    }],
+    "bank_code": "90",
+    "entity_code": "0",
+    "bank_name": "PUNJAB NATIONAL BANK",
+    "A/c_length": "16",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "SBIN0002138",
+      "bank_code": "91",
+      "bank_branch_name": "ANJANGAON SURJI",
+      "entity_code": "1824",
+      "bank_branch_code": "9120"
+    }, {
+      "ifsc_code": "SBIN0008909",
+      "bank_code": "91",
+      "bank_branch_name": "PALASKHED SAB",
+      "entity_code": "1824",
+      "bank_branch_code": "83353"
+    }, {
+      "ifsc_code": "SBIN0011591",
+      "bank_code": "91",
+      "bank_branch_name": "SINDI",
+      "entity_code": "18",
+      "bank_branch_code": "45783"
+    }, {
+      "ifsc_code": "SBIN0013500",
+      "bank_code": "91",
+      "bank_branch_name": "ACHALPUR OLD CITY",
+      "entity_code": "1824",
+      "bank_branch_code": "50498"
+    }, {
+      "ifsc_code": "SBIN0001051",
+      "bank_code": "91",
+      "bank_branch_name": "CHANDUR RLY",
+      "entity_code": "1824",
+      "bank_branch_code": "45800"
+    }, {
+      "ifsc_code": "SBIN0008449",
+      "bank_code": "91",
+      "bank_branch_name": "SHENDOLA  KHURD",
+      "entity_code": "1824",
+      "bank_branch_code": "45819"
+    }, {
+      "ifsc_code": "SBIN0015708",
+      "bank_code": "91",
+      "bank_branch_name": "JARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "140376"
+    }, {
+      "ifsc_code": "SBIN0020603",
+      "bank_code": "91",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "41804"
+    }, {
+      "ifsc_code": "SBIN0013996",
+      "bank_code": "91",
+      "bank_branch_name": "RCPC AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "50830"
+    }, {
+      "ifsc_code": "SBIN0008911",
+      "bank_code": "91",
+      "bank_branch_name": "PALAJORI BASTI",
+      "entity_code": "1824",
+      "bank_branch_code": "6993"
+    }, {
+      "ifsc_code": "SBIN0000311",
+      "bank_code": "91",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "9138"
+    }, {
+      "ifsc_code": "SBIN0003866",
+      "bank_code": "91",
+      "bank_branch_name": "AMRAVATI CAMP",
+      "entity_code": "1824",
+      "bank_branch_code": "9139"
+    }, {
+      "ifsc_code": "SBIN0000278",
+      "bank_code": "91",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "72637"
+    }, {
+      "ifsc_code": "SBIN0016242",
+      "bank_code": "91",
+      "bank_branch_name": "HADGAON",
+      "entity_code": "18",
+      "bank_branch_code": "93034"
+    }, {
+      "ifsc_code": "SBIN0007674",
+      "bank_code": "91",
+      "bank_branch_name": "TALEGAON THAKUR",
+      "entity_code": "1824",
+      "bank_branch_code": "45820"
+    }, {
+      "ifsc_code": "SBIN0013749",
+      "bank_code": "91",
+      "bank_branch_name": "SIRAJGAON KASBA",
+      "entity_code": "1824",
+      "bank_branch_code": "50787"
+    }, {
+      "ifsc_code": "SBIN0015737",
+      "bank_code": "91",
+      "bank_branch_name": "DHAKATI DAHANU",
+      "entity_code": "18",
+      "bank_branch_code": "130165"
+    }, {
+      "ifsc_code": "SBIN0017055",
+      "bank_code": "91",
+      "bank_branch_name": "AKHADA BALAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "130507"
+    }, {
+      "ifsc_code": "SBIN0017519",
+      "bank_code": "91",
+      "bank_branch_name": "KHANDEGAON",
+      "entity_code": "18",
+      "bank_branch_code": "130508"
+    }, {
+      "ifsc_code": "SBIN0014123",
+      "bank_code": "91",
+      "bank_branch_name": "NANDGAON KHANDESHWAR",
+      "entity_code": "18",
+      "bank_branch_code": "133461"
+    }, {
+      "ifsc_code": "SBIN0017677",
+      "bank_code": "91",
+      "bank_branch_name": "LASR STATION",
+      "entity_code": "18",
+      "bank_branch_code": "133475"
+    }, {
+      "ifsc_code": "SBIN0016291",
+      "bank_code": "91",
+      "bank_branch_name": "PIMPALGAON SARAI",
+      "entity_code": "18",
+      "bank_branch_code": "133730"
+    }, {
+      "ifsc_code": "JSBP0000026",
+      "bank_code": "91",
+      "bank_branch_name": "SAKHARPA",
+      "entity_code": "18",
+      "bank_branch_code": "134255"
+    }, {
+      "ifsc_code": "SBIN0008584",
+      "bank_code": "91",
+      "bank_branch_name": "UDYAVARA",
+      "entity_code": "1824",
+      "bank_branch_code": "47162"
+    }, {
+      "ifsc_code": "SBIN0003327",
+      "bank_code": "91",
+      "bank_branch_name": "ADB AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "45797"
+    }, {
+      "ifsc_code": "SBIN0004884",
+      "bank_code": "91",
+      "bank_branch_name": "BADNERA",
+      "entity_code": "1824",
+      "bank_branch_code": "45798"
+    }, {
+      "ifsc_code": "SBIN0008108",
+      "bank_code": "91",
+      "bank_branch_name": "DASTURNAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "45802"
+    }, {
+      "ifsc_code": "SBIN0012011",
+      "bank_code": "91",
+      "bank_branch_name": "GADGE NAGAR  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "45806"
+    }, {
+      "ifsc_code": "SBIN0008444",
+      "bank_code": "91",
+      "bank_branch_name": "SEMADOH",
+      "entity_code": "1824",
+      "bank_branch_code": "45810"
+    }, {
+      "ifsc_code": "SBIN0008252",
+      "bank_code": "91",
+      "bank_branch_name": "MANGARUL CHAWALA",
+      "entity_code": "1824",
+      "bank_branch_code": "45811"
+    }, {
+      "ifsc_code": "SBIN0007447",
+      "bank_code": "91",
+      "bank_branch_name": "SINDI",
+      "entity_code": "1824",
+      "bank_branch_code": "45813"
+    }, {
+      "ifsc_code": "SBIN0007673",
+      "bank_code": "91",
+      "bank_branch_name": "AMLA",
+      "entity_code": "1824",
+      "bank_branch_code": "45815"
+    }, {
+      "ifsc_code": "SBIN0007677",
+      "bank_code": "91",
+      "bank_branch_name": "DHAMANGAON GADHI  SAB",
+      "entity_code": "1824",
+      "bank_branch_code": "45817"
+    }, {
+      "ifsc_code": "SBIN0004919",
+      "bank_code": "91",
+      "bank_branch_name": "KURHA",
+      "entity_code": "1824",
+      "bank_branch_code": "45823"
+    }, {
+      "ifsc_code": "SBIN0003447",
+      "bank_code": "91",
+      "bank_branch_name": "MANGRUL DASTGIR",
+      "entity_code": "1824",
+      "bank_branch_code": "45825"
+    }, {
+      "ifsc_code": "SBIN0007283",
+      "bank_code": "91",
+      "bank_branch_name": "GHUIKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "45827"
+    }, {
+      "ifsc_code": "SBIN0012712",
+      "bank_code": "91",
+      "bank_branch_name": "SAINAGAR  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "45829"
+    }, {
+      "ifsc_code": "SBIN0007925",
+      "bank_code": "91",
+      "bank_branch_name": "RAMTIRTH SAB",
+      "entity_code": "1824",
+      "bank_branch_code": "45830"
+    }, {
+      "ifsc_code": "SBIN0012312",
+      "bank_code": "91",
+      "bank_branch_name": "LEHAGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "45834"
+    }, {
+      "ifsc_code": "SBIN0012311",
+      "bank_code": "91",
+      "bank_branch_name": "NANDGAON PETH",
+      "entity_code": "1824",
+      "bank_branch_code": "45835"
+    }, {
+      "ifsc_code": "SBIN0001152",
+      "bank_code": "91",
+      "bank_branch_name": "SHIROL",
+      "entity_code": "18",
+      "bank_branch_code": "45475"
+    }, {
+      "ifsc_code": "SBIN0011148",
+      "bank_code": "91",
+      "bank_branch_name": "BHATKULI",
+      "entity_code": "1824",
+      "bank_branch_code": "45296"
+    }, {
+      "ifsc_code": "SBIN0007926",
+      "bank_code": "91",
+      "bank_branch_name": "SADARBADI",
+      "entity_code": "1824",
+      "bank_branch_code": "14746"
+    }, {
+      "ifsc_code": "SBIN0003458",
+      "bank_code": "91",
+      "bank_branch_name": "TALEGAON DASHASAR",
+      "entity_code": "1824",
+      "bank_branch_code": "13965"
+    }, {
+      "ifsc_code": "SBIN0004753",
+      "bank_code": "91",
+      "bank_branch_name": "SATEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "9115"
+    }, {
+      "ifsc_code": "SBIN0002150",
+      "bank_code": "91",
+      "bank_branch_name": "DHARNI",
+      "entity_code": "1824",
+      "bank_branch_code": "9116"
+    }, {
+      "ifsc_code": "SBIN0003459",
+      "bank_code": "91",
+      "bank_branch_name": "TIOSA",
+      "entity_code": "1824",
+      "bank_branch_code": "9122"
+    }, {
+      "ifsc_code": "SBIN0000508",
+      "bank_code": "91",
+      "bank_branch_name": "DHAMANGAON MAIN",
+      "entity_code": "1824",
+      "bank_branch_code": "9123"
+    }, {
+      "ifsc_code": "SBIN0002147",
+      "bank_code": "91",
+      "bank_branch_name": "CHANDUR BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "9124"
+    }, {
+      "ifsc_code": "SBIN0000502",
+      "bank_code": "91",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "9125"
+    }, {
+      "ifsc_code": "SBIN0003860",
+      "bank_code": "91",
+      "bank_branch_name": "ANJANSINGI",
+      "entity_code": "1824",
+      "bank_branch_code": "9126"
+    }, {
+      "ifsc_code": "SBIN0002182",
+      "bank_code": "91",
+      "bank_branch_name": "WALGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "9127"
+    }, {
+      "ifsc_code": "SBIN0000357",
+      "bank_code": "91",
+      "bank_branch_name": "DARYAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "9129"
+    }, {
+      "ifsc_code": "SBIN0005386",
+      "bank_code": "91",
+      "bank_branch_name": "DHAMANGAON ADB",
+      "entity_code": "1824",
+      "bank_branch_code": "9131"
+    }, {
+      "ifsc_code": "SBIN0000371",
+      "bank_code": "91",
+      "bank_branch_name": "ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "9133"
+    }, {
+      "ifsc_code": "SBIN0003021",
+      "bank_code": "91",
+      "bank_branch_name": "ADB ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "9137"
+    }, {
+      "ifsc_code": "SBIN0008583",
+      "bank_code": "91",
+      "bank_branch_name": "DHAMAK",
+      "entity_code": "1824",
+      "bank_branch_code": "45816"
+    }, {
+      "ifsc_code": "SBIN0012012",
+      "bank_code": "91",
+      "bank_branch_name": "KONDHALI",
+      "entity_code": "18",
+      "bank_branch_code": "45729"
+    }, {
+      "ifsc_code": "SBIN0021358",
+      "bank_code": "91",
+      "bank_branch_name": "SHIRUR ANANTPAL",
+      "entity_code": "18",
+      "bank_branch_code": "135999"
+    }, {
+      "ifsc_code": "SBIN0016116",
+      "bank_code": "91",
+      "bank_branch_name": "KACHURWAHI ",
+      "entity_code": "18",
+      "bank_branch_code": "138851"
+    }, {
+      "ifsc_code": "SBIN0017521",
+      "bank_code": "91",
+      "bank_branch_name": "LAUL ",
+      "entity_code": "18",
+      "bank_branch_code": "136734"
+    }, {
+      "ifsc_code": "SBIN0018696",
+      "bank_code": "91",
+      "bank_branch_name": "GHATSAWALI ",
+      "entity_code": "18",
+      "bank_branch_code": "137703"
+    }, {
+      "ifsc_code": "SBIN0022062",
+      "bank_code": "91",
+      "bank_branch_name": "PACHOD ",
+      "entity_code": "18",
+      "bank_branch_code": "137704"
+    }, {
+      "ifsc_code": "SBIN0016535",
+      "bank_code": "91",
+      "bank_branch_name": "TALEBAZAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136331"
+    }, {
+      "ifsc_code": "SBIN0018170",
+      "bank_code": "91",
+      "bank_branch_name": "KALMATH ",
+      "entity_code": "18",
+      "bank_branch_code": "136332"
+    }, {
+      "ifsc_code": "SBIN0018053",
+      "bank_code": "91",
+      "bank_branch_name": "SATELI BHEDSHI ",
+      "entity_code": "18",
+      "bank_branch_code": "136333"
+    }, {
+      "ifsc_code": "SBIN0018660",
+      "bank_code": "91",
+      "bank_branch_name": "WADEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136671"
+    }, {
+      "ifsc_code": "SBIN0018285",
+      "bank_code": "91",
+      "bank_branch_name": "KOLDE ",
+      "entity_code": "18",
+      "bank_branch_code": "137952"
+    }, {
+      "ifsc_code": "SBIN0015663",
+      "bank_code": "91",
+      "bank_branch_name": "RAYANGAN ",
+      "entity_code": "18",
+      "bank_branch_code": "138439"
+    }, {
+      "ifsc_code": "SBIN0021451",
+      "bank_code": "91",
+      "bank_branch_name": "LOHGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "138490"
+    }, {
+      "ifsc_code": "SBIN0021937",
+      "bank_code": "91",
+      "bank_branch_name": "MUGAT ",
+      "entity_code": "18",
+      "bank_branch_code": "138749"
+    }, {
+      "ifsc_code": "SBIN0016184",
+      "bank_code": "91",
+      "bank_branch_name": "PARSAPUR ",
+      "entity_code": "1824",
+      "bank_branch_code": "139158"
+    }, {
+      "ifsc_code": "SBIN0013748",
+      "bank_code": "91",
+      "bank_branch_name": "SHENDURJANA GHAT ",
+      "entity_code": "1824",
+      "bank_branch_code": "139159"
+    }, {
+      "ifsc_code": "SBIN0017340",
+      "bank_code": "91",
+      "bank_branch_name": "GURUKUNJ MOZRI ",
+      "entity_code": "1824",
+      "bank_branch_code": "139160"
+    }, {
+      "ifsc_code": "SBIN0014458",
+      "bank_code": "91",
+      "bank_branch_name": "RUKHIMINI NAGAR \t AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "158139"
+    }, {
+      "ifsc_code": "SBIN0014409",
+      "bank_code": "91",
+      "bank_branch_name": "CURRENCY ADMINISTRATION CELL  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "158434"
+    }, {
+      "ifsc_code": "SBIN0014007",
+      "bank_code": "91",
+      "bank_branch_name": "RBO  \t AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "158435"
+    }, {
+      "ifsc_code": "SBIN0019209",
+      "bank_code": "91",
+      "bank_branch_name": "SBIINTOUCH  BARAMATI",
+      "entity_code": "1824",
+      "bank_branch_code": "162045"
+    }, {
+      "ifsc_code": "SBIN0019228",
+      "bank_code": "91",
+      "bank_branch_name": "SBIINTOUCH AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "165572"
+    }, {
+      "ifsc_code": "SBIN0016755",
+      "bank_code": "91",
+      "bank_branch_name": "SME AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "172929"
+    }, {
+      "ifsc_code": "SBIN0016754",
+      "bank_code": "91",
+      "bank_branch_name": "NAVSARI AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "175489"
+    }, {
+      "ifsc_code": "SBIN0017754",
+      "bank_code": "91",
+      "bank_branch_name": "NAWATHE PLOT",
+      "entity_code": "1824",
+      "bank_branch_code": "180573"
+    }],
+    "bank_code": "91",
+    "entity_code": "0",
+    "bank_name": "STATE BANK OF INDIA",
+    "A/c_length": "11",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "UCBA0001859",
+      "bank_code": "92",
+      "bank_branch_name": "WALNI MINES",
+      "entity_code": "18",
+      "bank_branch_code": "10368"
+    }, {
+      "ifsc_code": "UCBA0003285",
+      "bank_code": "92",
+      "bank_branch_name": "BEED ",
+      "entity_code": "18",
+      "bank_branch_code": "138813"
+    }, {
+      "ifsc_code": "UCBA0000383",
+      "bank_code": "92",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "56562"
+    }, {
+      "ifsc_code": "UCBA0000913",
+      "bank_code": "92",
+      "bank_branch_name": "NEW MAJRI BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "56056"
+    }, {
+      "ifsc_code": "UCBA0001512",
+      "bank_code": "92",
+      "bank_branch_name": "CHINCHOLI",
+      "entity_code": "1824",
+      "bank_branch_code": "14410"
+    }, {
+      "ifsc_code": "UCBA0003144",
+      "bank_code": "92",
+      "bank_branch_name": "VENGURLA ",
+      "entity_code": "18",
+      "bank_branch_code": "136346"
+    }, {
+      "ifsc_code": "UCBA0003064",
+      "bank_code": "92",
+      "bank_branch_name": "KUDAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136347"
+    }, {
+      "ifsc_code": "UCBA0003063",
+      "bank_code": "92",
+      "bank_branch_name": "DEVGAD ",
+      "entity_code": "18",
+      "bank_branch_code": "136344"
+    }, {
+      "ifsc_code": "UCBA0002818",
+      "bank_code": "92",
+      "bank_branch_name": "KANKAVALI ",
+      "entity_code": "18",
+      "bank_branch_code": "136345"
+    }, {
+      "ifsc_code": "UCBA0003065",
+      "bank_code": "92",
+      "bank_branch_name": "MALVAN ",
+      "entity_code": "18",
+      "bank_branch_code": "136348"
+    }, {
+      "ifsc_code": "UCBA0002285",
+      "bank_code": "92",
+      "bank_branch_name": "KHIDKALI ",
+      "entity_code": "18",
+      "bank_branch_code": "138404"
+    }],
+    "bank_code": "92",
+    "entity_code": "0",
+    "bank_name": "UCO BANK",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "UBIN0544485",
+      "bank_code": "93",
+      "bank_branch_name": "JAMTHI GANESHPUR",
+      "entity_code": "18",
+      "bank_branch_code": "57519"
+    }, {
+      "ifsc_code": "UBIN0568091",
+      "bank_code": "93",
+      "bank_branch_name": "BASMAT",
+      "entity_code": "18",
+      "bank_branch_code": "130505"
+    }, {
+      "ifsc_code": "UBIN0574953",
+      "bank_code": "93",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133545"
+    }, {
+      "ifsc_code": "UBIN0567604",
+      "bank_code": "93",
+      "bank_branch_name": "DAHANU ",
+      "entity_code": "18",
+      "bank_branch_code": "138890"
+    }, {
+      "ifsc_code": "UBIN0542474",
+      "bank_code": "93",
+      "bank_branch_name": "NANDGAONPETH",
+      "entity_code": "1824",
+      "bank_branch_code": "58217"
+    }, {
+      "ifsc_code": "UBIN0539929",
+      "bank_code": "93",
+      "bank_branch_name": "ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "58101"
+    }, {
+      "ifsc_code": "UBIN0532339",
+      "bank_code": "93",
+      "bank_branch_name": "NAGPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "57825"
+    }, {
+      "ifsc_code": "UBIN0541605",
+      "bank_code": "93",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "57517"
+    }, {
+      "ifsc_code": "UBIN0532347",
+      "bank_code": "93",
+      "bank_branch_name": "CHIKALDHARA",
+      "entity_code": "1824",
+      "bank_branch_code": "57518"
+    }, {
+      "ifsc_code": "UBIN0544515",
+      "bank_code": "93",
+      "bank_branch_name": "ASADPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "57525"
+    }, {
+      "ifsc_code": "UBIN0542512",
+      "bank_code": "93",
+      "bank_branch_name": "SAWANGA KACHARI",
+      "entity_code": "18",
+      "bank_branch_code": "57513"
+    }, {
+      "ifsc_code": "UBIN0550205",
+      "bank_code": "93",
+      "bank_branch_name": "SAUBHAGYA NAGAR   NASIK",
+      "entity_code": "18",
+      "bank_branch_code": "57053"
+    }, {
+      "ifsc_code": "UBIN0547875",
+      "bank_code": "93",
+      "bank_branch_name": "KUNDEWADI BARAGAON PIMPRI",
+      "entity_code": "18",
+      "bank_branch_code": "58495"
+    }, {
+      "ifsc_code": "UBIN0562173",
+      "bank_code": "93",
+      "bank_branch_name": "SHEGAON NAKA AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "13421"
+    }, {
+      "ifsc_code": "UBIN0566659",
+      "bank_code": "93",
+      "bank_branch_name": "DINDORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137369"
+    }, {
+      "ifsc_code": "UBIN0570877",
+      "bank_code": "93",
+      "bank_branch_name": "CHALISGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137565"
+    }, {
+      "ifsc_code": "UBIN0568643",
+      "bank_code": "93",
+      "bank_branch_name": "OROS ",
+      "entity_code": "18",
+      "bank_branch_code": "136335"
+    }, {
+      "ifsc_code": "UBIN0568708",
+      "bank_code": "93",
+      "bank_branch_name": "KUDAL ",
+      "entity_code": "18",
+      "bank_branch_code": "136334"
+    }, {
+      "ifsc_code": "UBIN0563994",
+      "bank_code": "93",
+      "bank_branch_name": "PHONDAGHAT ",
+      "entity_code": "18",
+      "bank_branch_code": "136336"
+    }, {
+      "ifsc_code": "UBIN0571377",
+      "bank_code": "93",
+      "bank_branch_name": "NARKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136507"
+    }, {
+      "ifsc_code": "UBIN0576263",
+      "bank_code": "93",
+      "bank_branch_name": "KAMPTEE ",
+      "entity_code": "18",
+      "bank_branch_code": "136587"
+    }, {
+      "ifsc_code": "UBIN0571288",
+      "bank_code": "93",
+      "bank_branch_name": "WAI ",
+      "entity_code": "18",
+      "bank_branch_code": "138111"
+    }, {
+      "ifsc_code": "UBIN0571351",
+      "bank_code": "93",
+      "bank_branch_name": "RAMTEK ",
+      "entity_code": "18",
+      "bank_branch_code": "138849"
+    }, {
+      "ifsc_code": "UBIN0571342",
+      "bank_code": "93",
+      "bank_branch_name": "ANJANGAON SURJI ",
+      "entity_code": "1824",
+      "bank_branch_code": "139161"
+    }],
+    "bank_code": "93",
+    "entity_code": "0",
+    "bank_name": "UNION BANK OF INDIA",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "CNRB0003772",
+      "bank_code": "99",
+      "bank_branch_name": "WASHI",
+      "entity_code": "18",
+      "bank_branch_code": "76600"
+    }, {
+      "ifsc_code": "CNRB0006321",
+      "bank_code": "99",
+      "bank_branch_name": "DARYAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "144767"
+    }, {
+      "ifsc_code": "CNRB0006319",
+      "bank_code": "99",
+      "bank_branch_name": "KAMPTEE",
+      "entity_code": "18",
+      "bank_branch_code": "135156"
+    }, {
+      "ifsc_code": "CNRB0005099",
+      "bank_code": "99",
+      "bank_branch_name": "BHILGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135157"
+    }, {
+      "ifsc_code": "CNRB0005618",
+      "bank_code": "99",
+      "bank_branch_name": "PALI",
+      "entity_code": "18",
+      "bank_branch_code": "130403"
+    }, {
+      "ifsc_code": "CNRB0006635",
+      "bank_code": "99",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133552"
+    }, {
+      "ifsc_code": "CNRB0003777",
+      "bank_code": "99",
+      "bank_branch_name": "ASHTA",
+      "entity_code": "18",
+      "bank_branch_code": "134118"
+    }, {
+      "ifsc_code": "CNRB0005819",
+      "bank_code": "99",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "139717"
+    }, {
+      "ifsc_code": "CNRB0005760",
+      "bank_code": "99",
+      "bank_branch_name": "JAMKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "139043"
+    }, {
+      "ifsc_code": "CNRB0005606",
+      "bank_code": "99",
+      "bank_branch_name": "IGATPURI ",
+      "entity_code": "18",
+      "bank_branch_code": "137479"
+    }, {
+      "ifsc_code": "CNRB0004313",
+      "bank_code": "99",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136837"
+    }, {
+      "ifsc_code": "CNRB0005989",
+      "bank_code": "99",
+      "bank_branch_name": "HINGANGHAT ",
+      "entity_code": "18",
+      "bank_branch_code": "137044"
+    }, {
+      "ifsc_code": "CNRB0003784",
+      "bank_code": "99",
+      "bank_branch_name": "MANA ",
+      "entity_code": "18",
+      "bank_branch_code": "136670"
+    }, {
+      "ifsc_code": "CNRB0004646",
+      "bank_code": "99",
+      "bank_branch_name": "SHAHAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136314"
+    }, {
+      "ifsc_code": "CNRB0005534",
+      "bank_code": "99",
+      "bank_branch_name": "AMGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136515"
+    }, {
+      "ifsc_code": "CNRB0003127",
+      "bank_code": "99",
+      "bank_branch_name": "GOREGAON KH ",
+      "entity_code": "18",
+      "bank_branch_code": "136661"
+    }, {
+      "ifsc_code": "CNRB0005257",
+      "bank_code": "99",
+      "bank_branch_name": "PATUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136669"
+    }, {
+      "ifsc_code": "CNRB0005497",
+      "bank_code": "99",
+      "bank_branch_name": "AKOT ",
+      "entity_code": "18",
+      "bank_branch_code": "136673"
+    }, {
+      "ifsc_code": "CNRB0005435",
+      "bank_code": "99",
+      "bank_branch_name": "CHIKHALI ",
+      "entity_code": "18",
+      "bank_branch_code": "139124"
+    }, {
+      "ifsc_code": "CNRB0001083",
+      "bank_code": "99",
+      "bank_branch_name": "AMRAVATHI",
+      "entity_code": "1824",
+      "bank_branch_code": "23244"
+    }, {
+      "ifsc_code": "CNRB0003570",
+      "bank_code": "99",
+      "bank_branch_name": "AMARAVATHI NAVSARI",
+      "entity_code": "1824",
+      "bank_branch_code": "161889"
+    }],
+    "bank_code": "99",
+    "entity_code": "0",
+    "bank_name": "CANARA BANK",
+    "A/c_length": "13",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "IOBA0003118",
+      "bank_code": "89",
+      "bank_branch_name": "KURHA",
+      "entity_code": "18",
+      "bank_branch_code": "133459"
+    }, {
+      "ifsc_code": "IOBA0003552",
+      "bank_code": "89",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133548"
+    }, {
+      "ifsc_code": "IOBA0003543",
+      "bank_code": "89",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "139716"
+    }, {
+      "ifsc_code": "IOBA0003175",
+      "bank_code": "89",
+      "bank_branch_name": "BELA ",
+      "entity_code": "18",
+      "bank_branch_code": "138855"
+    }, {
+      "ifsc_code": "IOBA0001017",
+      "bank_code": "89",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "32957"
+    }, {
+      "ifsc_code": "IOBA0003134",
+      "bank_code": "89",
+      "bank_branch_name": "OTUR ",
+      "entity_code": "18",
+      "bank_branch_code": "138739"
+    }],
+    "bank_code": "89",
+    "entity_code": "0",
+    "bank_name": "INDIAN OVERSEAS BANK",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BKDN0470650",
+      "bank_code": "88",
+      "bank_branch_name": "MANGAON",
+      "entity_code": "18",
+      "bank_branch_code": "27710"
+    }, {
+      "ifsc_code": "BKDN0521438",
+      "bank_code": "88",
+      "bank_branch_name": "DHARANGAON VEER",
+      "entity_code": "18",
+      "bank_branch_code": "135711"
+    }, {
+      "ifsc_code": "BKDN0531933",
+      "bank_code": "88",
+      "bank_branch_name": "DHANLA ",
+      "entity_code": "18",
+      "bank_branch_code": "138853"
+    }, {
+      "ifsc_code": "BKDN0520815",
+      "bank_code": "88",
+      "bank_branch_name": "SHIRALA",
+      "entity_code": "1824",
+      "bank_branch_code": "27555"
+    }, {
+      "ifsc_code": "BKDN0520856",
+      "bank_code": "88",
+      "bank_branch_name": "KHARTALEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "27557"
+    }, {
+      "ifsc_code": "BKDN0520552",
+      "bank_code": "88",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "27406"
+    }, {
+      "ifsc_code": "BKDN0521219",
+      "bank_code": "88",
+      "bank_branch_name": "AMRAVATI CAMP",
+      "entity_code": "1824",
+      "bank_branch_code": "27407"
+    }, {
+      "ifsc_code": "BKDN0521258",
+      "bank_code": "88",
+      "bank_branch_name": "MIDC AMRAWATI",
+      "entity_code": "1824",
+      "bank_branch_code": "27409"
+    }, {
+      "ifsc_code": "BKDN0521211",
+      "bank_code": "88",
+      "bank_branch_name": "CHANDUR BAZAR AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "27410"
+    }, {
+      "ifsc_code": "BKDN0531837",
+      "bank_code": "88",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136835"
+    }, {
+      "ifsc_code": "BKDN0521804",
+      "bank_code": "88",
+      "bank_branch_name": "BORGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137483"
+    }, {
+      "ifsc_code": "BKDN0471412",
+      "bank_code": "88",
+      "bank_branch_name": "DHANSAR ",
+      "entity_code": "18",
+      "bank_branch_code": "136884"
+    }, {
+      "ifsc_code": "BKDN0471415",
+      "bank_code": "88",
+      "bank_branch_name": "SAWANTWADI ",
+      "entity_code": "18",
+      "bank_branch_code": "136339"
+    }, {
+      "ifsc_code": "BKDN0471920",
+      "bank_code": "88",
+      "bank_branch_name": "KANKAVALI ",
+      "entity_code": "18",
+      "bank_branch_code": "136340"
+    }, {
+      "ifsc_code": "BKDN0511823",
+      "bank_code": "88",
+      "bank_branch_name": "WAI ",
+      "entity_code": "18",
+      "bank_branch_code": "138115"
+    }, {
+      "ifsc_code": "BKDN0531647",
+      "bank_code": "88",
+      "bank_branch_name": "DHAMORI ",
+      "entity_code": "1824",
+      "bank_branch_code": "139157"
+    }, {
+      "ifsc_code": "BKDN0510539",
+      "bank_code": "88",
+      "bank_branch_name": "KOREGAON",
+      "entity_code": "18",
+      "bank_branch_code": "27957"
+    }],
+    "bank_code": "88",
+    "entity_code": "0",
+    "bank_name": "DENA BANK",
+    "A/c_length": "12",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "CBIN0281576",
+      "bank_code": "87",
+      "bank_branch_name": "NANDGAON KHANDESHWAR",
+      "entity_code": "1824",
+      "bank_branch_code": "26210"
+    }, {
+      "ifsc_code": "CBIN0282099",
+      "bank_code": "87",
+      "bank_branch_name": "CHANDUR RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "26212"
+    }, {
+      "ifsc_code": "CBIN0281325",
+      "bank_code": "87",
+      "bank_branch_name": "ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "26132"
+    }, {
+      "ifsc_code": "CBIN0283671",
+      "bank_code": "87",
+      "bank_branch_name": "CHAPRASHIPURA",
+      "entity_code": "1824",
+      "bank_branch_code": "26174"
+    }, {
+      "ifsc_code": "CBIN0283755",
+      "bank_code": "87",
+      "bank_branch_name": "TEOSA",
+      "entity_code": "18",
+      "bank_branch_code": "26118"
+    }, {
+      "ifsc_code": "CBIN0283573",
+      "bank_code": "87",
+      "bank_branch_name": "DHAMANGAON RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "26006"
+    }, {
+      "ifsc_code": "CBIN0280698",
+      "bank_code": "87",
+      "bank_branch_name": "SAKKARSATH  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "25526"
+    }, {
+      "ifsc_code": "CBIN0283248",
+      "bank_code": "87",
+      "bank_branch_name": "APMC  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "25527"
+    }, {
+      "ifsc_code": "CBIN0281959",
+      "bank_code": "87",
+      "bank_branch_name": "DHANORA",
+      "entity_code": "18",
+      "bank_branch_code": "89102"
+    }, {
+      "ifsc_code": "CBIN0282098",
+      "bank_code": "87",
+      "bank_branch_name": "AMBADA",
+      "entity_code": "1824",
+      "bank_branch_code": "77098"
+    }, {
+      "ifsc_code": "CBIN0281727",
+      "bank_code": "87",
+      "bank_branch_name": "NER PINGLAI",
+      "entity_code": "1824",
+      "bank_branch_code": "77099"
+    }, {
+      "ifsc_code": "CBIN0281537",
+      "bank_code": "87",
+      "bank_branch_name": "BHATKULI",
+      "entity_code": "1824",
+      "bank_branch_code": "77051"
+    }, {
+      "ifsc_code": "CBIN0281714",
+      "bank_code": "87",
+      "bank_branch_name": "KHOLAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "77052"
+    }, {
+      "ifsc_code": "CBIN0282296",
+      "bank_code": "87",
+      "bank_branch_name": "WATHODA SHUKLESHWAR",
+      "entity_code": "1824",
+      "bank_branch_code": "77053"
+    }, {
+      "ifsc_code": "CBIN0282410",
+      "bank_code": "87",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "76873"
+    }, {
+      "ifsc_code": "CBIN0281614",
+      "bank_code": "87",
+      "bank_branch_name": "KARAJGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "82707"
+    }, {
+      "ifsc_code": "CBIN0282093",
+      "bank_code": "87",
+      "bank_branch_name": "SHIRAJGAON BAND",
+      "entity_code": "1824",
+      "bank_branch_code": "82703"
+    }, {
+      "ifsc_code": "CBIN0282303",
+      "bank_code": "87",
+      "bank_branch_name": "TALWEL",
+      "entity_code": "1824",
+      "bank_branch_code": "82704"
+    }, {
+      "ifsc_code": "CBIN0281907",
+      "bank_code": "87",
+      "bank_branch_name": "GHATLADKI",
+      "entity_code": "1824",
+      "bank_branch_code": "82705"
+    }, {
+      "ifsc_code": "CBIN0282097",
+      "bank_code": "87",
+      "bank_branch_name": "BRAMHANWADA THADI",
+      "entity_code": "1824",
+      "bank_branch_code": "82706"
+    }, {
+      "ifsc_code": "CBIN0281854",
+      "bank_code": "87",
+      "bank_branch_name": "WADNER GANGAI",
+      "entity_code": "1824",
+      "bank_branch_code": "83330"
+    }, {
+      "ifsc_code": "CBIN0281323",
+      "bank_code": "87",
+      "bank_branch_name": "DARYAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "83331"
+    }, {
+      "ifsc_code": "CBIN0284125",
+      "bank_code": "87",
+      "bank_branch_name": "RAJURA",
+      "entity_code": "1824",
+      "bank_branch_code": "83345"
+    }, {
+      "ifsc_code": "CBIN0281716",
+      "bank_code": "87",
+      "bank_branch_name": "PATHROT",
+      "entity_code": "1824",
+      "bank_branch_code": "84337"
+    }, {
+      "ifsc_code": "CBIN0281324",
+      "bank_code": "87",
+      "bank_branch_name": "ANJANGAON SURJI",
+      "entity_code": "1824",
+      "bank_branch_code": "85658"
+    }, {
+      "ifsc_code": "CBIN0282094",
+      "bank_code": "87",
+      "bank_branch_name": "KOKARDA",
+      "entity_code": "1824",
+      "bank_branch_code": "85659"
+    }, {
+      "ifsc_code": "CBIN0282302",
+      "bank_code": "87",
+      "bank_branch_name": "KASABEGAVHAN",
+      "entity_code": "1824",
+      "bank_branch_code": "85661"
+    }, {
+      "ifsc_code": "CBIN0281726",
+      "bank_code": "87",
+      "bank_branch_name": "BHANDARAJ",
+      "entity_code": "1824",
+      "bank_branch_code": "85662"
+    }, {
+      "ifsc_code": "CBIN0281852",
+      "bank_code": "87",
+      "bank_branch_name": "KAPUSTALANI",
+      "entity_code": "1824",
+      "bank_branch_code": "85660"
+    }, {
+      "ifsc_code": "CBIN0282942",
+      "bank_code": "87",
+      "bank_branch_name": "PEMGIRI",
+      "entity_code": "18",
+      "bank_branch_code": "133744"
+    }, {
+      "ifsc_code": "CBIN0282271",
+      "bank_code": "87",
+      "bank_branch_name": "WARUD  CHANDAS WATHODA",
+      "entity_code": "1824",
+      "bank_branch_code": "26215"
+    }, {
+      "ifsc_code": "CBIN0283826",
+      "bank_code": "87",
+      "bank_branch_name": "VIDARBHA AYURVED EXTN",
+      "entity_code": "1824",
+      "bank_branch_code": "26279"
+    }, {
+      "ifsc_code": "CBIN0280699",
+      "bank_code": "87",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "7098"
+    }, {
+      "ifsc_code": "CBIN0282279",
+      "bank_code": "87",
+      "bank_branch_name": "CHIKHALDARA KATKUMBHA",
+      "entity_code": "1824",
+      "bank_branch_code": "89096"
+    }, {
+      "ifsc_code": "CBIN0284877",
+      "bank_code": "87",
+      "bank_branch_name": "MAHIRAVANI",
+      "entity_code": "18",
+      "bank_branch_code": "122203"
+    }, {
+      "ifsc_code": "CBIN0284247",
+      "bank_code": "87",
+      "bank_branch_name": "FUBGAON",
+      "entity_code": "18",
+      "bank_branch_code": "133462"
+    }, {
+      "ifsc_code": "CBIN0283892",
+      "bank_code": "87",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133546"
+    }, {
+      "ifsc_code": "CBIN0282290",
+      "bank_code": "87",
+      "bank_branch_name": "DEOGAON",
+      "entity_code": "18",
+      "bank_branch_code": "133742"
+    }, {
+      "ifsc_code": "CBIN0281859",
+      "bank_code": "87",
+      "bank_branch_name": "SAKUR",
+      "entity_code": "18",
+      "bank_branch_code": "133743"
+    }, {
+      "ifsc_code": "CBIN0484324",
+      "bank_code": "87",
+      "bank_branch_name": "JALALPUR",
+      "entity_code": "18",
+      "bank_branch_code": "134124"
+    }, {
+      "ifsc_code": "CBIN0284829",
+      "bank_code": "87",
+      "bank_branch_name": "MADSANGVI",
+      "entity_code": "18",
+      "bank_branch_code": "122204"
+    }, {
+      "ifsc_code": "CBIN0281963",
+      "bank_code": "87",
+      "bank_branch_name": "LOHARA",
+      "entity_code": "18",
+      "bank_branch_code": "135920"
+    }, {
+      "ifsc_code": "CBIN0281677",
+      "bank_code": "87",
+      "bank_branch_name": "NAGARDEOLA",
+      "entity_code": "18",
+      "bank_branch_code": "135921"
+    }, {
+      "ifsc_code": "CBIN0282347",
+      "bank_code": "87",
+      "bank_branch_name": "STATION ROAD",
+      "entity_code": "18",
+      "bank_branch_code": "135922"
+    }, {
+      "ifsc_code": "CBIN0281829",
+      "bank_code": "87",
+      "bank_branch_name": "RAJURA BAZAR",
+      "entity_code": "1824",
+      "bank_branch_code": "139719"
+    }, {
+      "ifsc_code": "CBIN0281004",
+      "bank_code": "87",
+      "bank_branch_name": "JAMKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "139040"
+    }, {
+      "ifsc_code": "CBIN0284344",
+      "bank_code": "87",
+      "bank_branch_name": "URAN ",
+      "entity_code": "18",
+      "bank_branch_code": "137193"
+    }, {
+      "ifsc_code": "CBIN0281995",
+      "bank_code": "87",
+      "bank_branch_name": "FULUMARI ",
+      "entity_code": "18",
+      "bank_branch_code": "136833"
+    }, {
+      "ifsc_code": "CBIN0281197",
+      "bank_code": "87",
+      "bank_branch_name": "RAHURI ",
+      "entity_code": "18",
+      "bank_branch_code": "137602"
+    }, {
+      "ifsc_code": "CBIN0280674",
+      "bank_code": "87",
+      "bank_branch_name": "SHRI SHIVAJINAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "137603"
+    }, {
+      "ifsc_code": "CBIN0280677",
+      "bank_code": "87",
+      "bank_branch_name": "VAMBORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137604"
+    }, {
+      "ifsc_code": "CBIN0283910",
+      "bank_code": "87",
+      "bank_branch_name": "UMRED ",
+      "entity_code": "18",
+      "bank_branch_code": "137637"
+    }, {
+      "ifsc_code": "CBIN0285070",
+      "bank_code": "87",
+      "bank_branch_name": "PADGHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136325"
+    }, {
+      "ifsc_code": "CBIN0281769",
+      "bank_code": "87",
+      "bank_branch_name": "DEWOOLWADA NERUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136341"
+    }, {
+      "ifsc_code": "CBIN0282207",
+      "bank_code": "87",
+      "bank_branch_name": "SATARDA ",
+      "entity_code": "18",
+      "bank_branch_code": "136342"
+    }, {
+      "ifsc_code": "CBIN0284929",
+      "bank_code": "87",
+      "bank_branch_name": "KAWHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136372"
+    }, {
+      "ifsc_code": "CBIN0282275",
+      "bank_code": "87",
+      "bank_branch_name": "ANJANGAON BARI ",
+      "entity_code": "18",
+      "bank_branch_code": "136513"
+    }, {
+      "ifsc_code": "CBIN0282278",
+      "bank_code": "87",
+      "bank_branch_name": "NANDGAONPETH ",
+      "entity_code": "18",
+      "bank_branch_code": "136514"
+    }, {
+      "ifsc_code": "CBIN0284887",
+      "bank_code": "87",
+      "bank_branch_name": "BABHULGAON JH ",
+      "entity_code": "18",
+      "bank_branch_code": "136664"
+    }, {
+      "ifsc_code": "CBIN0284234",
+      "bank_code": "87",
+      "bank_branch_name": "TELHARA ",
+      "entity_code": "18",
+      "bank_branch_code": "136665"
+    }, {
+      "ifsc_code": "CBIN0284421",
+      "bank_code": "87",
+      "bank_branch_name": "PARATWADA  ",
+      "entity_code": "1824",
+      "bank_branch_code": "139146"
+    }, {
+      "ifsc_code": "CBIN0284238",
+      "bank_code": "87",
+      "bank_branch_name": "SANGLUD ",
+      "entity_code": "1824",
+      "bank_branch_code": "139153"
+    }, {
+      "ifsc_code": "CBIN0284579",
+      "bank_code": "87",
+      "bank_branch_name": "RASEGAON ",
+      "entity_code": "1824",
+      "bank_branch_code": "139147"
+    }, {
+      "ifsc_code": "CBIN0281904",
+      "bank_code": "87",
+      "bank_branch_name": "KALAMKHAR ",
+      "entity_code": "1824",
+      "bank_branch_code": "139154"
+    }, {
+      "ifsc_code": "CBIN0283825",
+      "bank_code": "87",
+      "bank_branch_name": "DHARNI ",
+      "entity_code": "1824",
+      "bank_branch_code": "139148"
+    }, {
+      "ifsc_code": "CBIN0281830",
+      "bank_code": "87",
+      "bank_branch_name": "BENODA ",
+      "entity_code": "1824",
+      "bank_branch_code": "139149"
+    }, {
+      "ifsc_code": "CBIN0284580",
+      "bank_code": "87",
+      "bank_branch_name": "TONDGAON ",
+      "entity_code": "1824",
+      "bank_branch_code": "139155"
+    }, {
+      "ifsc_code": "CBIN0282360",
+      "bank_code": "87",
+      "bank_branch_name": "AMRAVATI REGIONAL OFFICE",
+      "entity_code": "1824",
+      "bank_branch_code": "169735"
+    }, {
+      "ifsc_code": "CBIN0283126",
+      "bank_code": "87",
+      "bank_branch_name": "SHIVAJI NAGARAMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "169784"
+    }, {
+      "ifsc_code": "CBIN0284419",
+      "bank_code": "87",
+      "bank_branch_name": "RETAIL ASSET BARNCH RAB AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "171922"
+    }, {
+      "ifsc_code": "CBIN0284420",
+      "bank_code": "87",
+      "bank_branch_name": "CHANDANI CHOWK AMRAVATI BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "171923"
+    }],
+    "bank_code": "87",
+    "entity_code": "0",
+    "bank_name": "CENTRAL BANK OF INDIA",
+    "A/c_length": "10",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BKID0009224",
+      "bank_code": "86",
+      "bank_branch_name": "THANA",
+      "entity_code": "18",
+      "bank_branch_code": "20002"
+    }, {
+      "ifsc_code": "BKID0000762",
+      "bank_code": "86",
+      "bank_branch_name": "TELGAON",
+      "entity_code": "18",
+      "bank_branch_code": "134678"
+    }, {
+      "ifsc_code": "BKID0009678",
+      "bank_code": "86",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "20064"
+    }, {
+      "ifsc_code": "BKID0000635",
+      "bank_code": "86",
+      "bank_branch_name": "DARWHA ",
+      "entity_code": "18",
+      "bank_branch_code": "138502"
+    }, {
+      "ifsc_code": "BKID0001487",
+      "bank_code": "86",
+      "bank_branch_name": "BHAMBED",
+      "entity_code": "18",
+      "bank_branch_code": "135005"
+    }, {
+      "ifsc_code": "BKID0000637",
+      "bank_code": "86",
+      "bank_branch_name": "BABHULGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135026"
+    }, {
+      "ifsc_code": "BKID0008765",
+      "bank_code": "86",
+      "bank_branch_name": "BHILGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135154"
+    }, {
+      "ifsc_code": "BKID0008774",
+      "bank_code": "86",
+      "bank_branch_name": "RANALA",
+      "entity_code": "18",
+      "bank_branch_code": "135155"
+    }, {
+      "ifsc_code": "BKID0009728",
+      "bank_code": "86",
+      "bank_branch_name": "SINDHI RAILWAY",
+      "entity_code": "18",
+      "bank_branch_code": "135181"
+    }, {
+      "ifsc_code": "BKID0009723",
+      "bank_code": "86",
+      "bank_branch_name": "ARVI",
+      "entity_code": "18",
+      "bank_branch_code": "135182"
+    }, {
+      "ifsc_code": "BKID0009727",
+      "bank_code": "86",
+      "bank_branch_name": "TALEGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135183"
+    }, {
+      "ifsc_code": "BKID0000754",
+      "bank_code": "86",
+      "bank_branch_name": "HINGOLI",
+      "entity_code": "18",
+      "bank_branch_code": "130509"
+    }, {
+      "ifsc_code": "BKID0009624",
+      "bank_code": "86",
+      "bank_branch_name": "BRAMHAPURI",
+      "entity_code": "18",
+      "bank_branch_code": "20048"
+    }, {
+      "ifsc_code": "BKID0001612",
+      "bank_code": "86",
+      "bank_branch_name": "BORGAON",
+      "entity_code": "18",
+      "bank_branch_code": "133554"
+    }, {
+      "ifsc_code": "BKID0009243",
+      "bank_code": "86",
+      "bank_branch_name": "BULDANA",
+      "entity_code": "18",
+      "bank_branch_code": "133711"
+    }, {
+      "ifsc_code": "BKID0001495",
+      "bank_code": "86",
+      "bank_branch_name": "VAHAL",
+      "entity_code": "18",
+      "bank_branch_code": "134252"
+    }, {
+      "ifsc_code": "BKID0001492",
+      "bank_code": "86",
+      "bank_branch_name": "TALEBAZAR",
+      "entity_code": "18",
+      "bank_branch_code": "136218"
+    }, {
+      "ifsc_code": "BKID0001493",
+      "bank_code": "86",
+      "bank_branch_name": "PADEL",
+      "entity_code": "18",
+      "bank_branch_code": "136219"
+    }, {
+      "ifsc_code": "BKID0001473",
+      "bank_code": "86",
+      "bank_branch_name": "OTHAVANE",
+      "entity_code": "18",
+      "bank_branch_code": "136223"
+    }, {
+      "ifsc_code": "BKID0001491",
+      "bank_code": "86",
+      "bank_branch_name": "MADKHOL",
+      "entity_code": "18",
+      "bank_branch_code": "136224"
+    }, {
+      "ifsc_code": "BKID0001489",
+      "bank_code": "86",
+      "bank_branch_name": "MALEWAD",
+      "entity_code": "18",
+      "bank_branch_code": "136225"
+    }, {
+      "ifsc_code": "BKID0001478",
+      "bank_code": "86",
+      "bank_branch_name": "TALERE",
+      "entity_code": "18",
+      "bank_branch_code": "136226"
+    }, {
+      "ifsc_code": "BKID0001479",
+      "bank_code": "86",
+      "bank_branch_name": "SUKHALWAD",
+      "entity_code": "18",
+      "bank_branch_code": "136230"
+    }, {
+      "ifsc_code": "BKID0009680",
+      "bank_code": "86",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "139718"
+    }, {
+      "ifsc_code": "BKID0000656",
+      "bank_code": "86",
+      "bank_branch_name": "AJNALE ",
+      "entity_code": "18",
+      "bank_branch_code": "139135"
+    }, {
+      "ifsc_code": "BKID0000145",
+      "bank_code": "86",
+      "bank_branch_name": "DAHANU ROAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138888"
+    }, {
+      "ifsc_code": "BKID0009675",
+      "bank_code": "86",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "20061"
+    }, {
+      "ifsc_code": "BKID0009677",
+      "bank_code": "86",
+      "bank_branch_name": "DEORANKAR NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "20062"
+    }, {
+      "ifsc_code": "BKID0009676",
+      "bank_code": "86",
+      "bank_branch_name": "MALKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "20063"
+    }, {
+      "ifsc_code": "BKID0009679",
+      "bank_code": "86",
+      "bank_branch_name": "VMV ROAD",
+      "entity_code": "1824",
+      "bank_branch_code": "20065"
+    }, {
+      "ifsc_code": "BKID0009219",
+      "bank_code": "86",
+      "bank_branch_name": "SHAHAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "19991"
+    }, {
+      "ifsc_code": "BKID0009661",
+      "bank_code": "86",
+      "bank_branch_name": "KARANJA ",
+      "entity_code": "18",
+      "bank_branch_code": "136831"
+    }, {
+      "ifsc_code": "BKID0009662",
+      "bank_code": "86",
+      "bank_branch_name": "MANGARULPIR ",
+      "entity_code": "18",
+      "bank_branch_code": "136832"
+    }, {
+      "ifsc_code": "BKID0009684",
+      "bank_code": "86",
+      "bank_branch_name": "DHAMANGAON RAILWAY ",
+      "entity_code": "18",
+      "bank_branch_code": "137114"
+    }, {
+      "ifsc_code": "BKID0000646",
+      "bank_code": "86",
+      "bank_branch_name": "RENAPUR PHATA ",
+      "entity_code": "18",
+      "bank_branch_code": "137249"
+    }, {
+      "ifsc_code": "BKID0000659",
+      "bank_code": "86",
+      "bank_branch_name": "RAHURI ",
+      "entity_code": "18",
+      "bank_branch_code": "137638"
+    }, {
+      "ifsc_code": "BKID0009683",
+      "bank_code": "86",
+      "bank_branch_name": "CHANDUR RLY ",
+      "entity_code": "18",
+      "bank_branch_code": "137039"
+    }, {
+      "ifsc_code": "BKID0009248",
+      "bank_code": "86",
+      "bank_branch_name": "ANJANGAON SURJI ",
+      "entity_code": "18",
+      "bank_branch_code": "137041"
+    }, {
+      "ifsc_code": "BKID0000756",
+      "bank_code": "86",
+      "bank_branch_name": "UDGIR ",
+      "entity_code": "18",
+      "bank_branch_code": "137077"
+    }, {
+      "ifsc_code": "BKID0009682",
+      "bank_code": "86",
+      "bank_branch_name": "ACHALPUR ",
+      "entity_code": "1824",
+      "bank_branch_code": "139143"
+    }, {
+      "ifsc_code": "BKID0009681",
+      "bank_code": "86",
+      "bank_branch_name": "CHANDUR BAZAR ",
+      "entity_code": "1824",
+      "bank_branch_code": "139144"
+    }, {
+      "ifsc_code": "BKID0000764",
+      "bank_code": "86",
+      "bank_branch_name": "AHMEDPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "137087"
+    }, {
+      "ifsc_code": "BKID0008763",
+      "bank_code": "86",
+      "bank_branch_name": "NARKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136506"
+    }, {
+      "ifsc_code": "BKID0000638",
+      "bank_code": "86",
+      "bank_branch_name": "RALEGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136700"
+    }, {
+      "ifsc_code": "BKID0000761",
+      "bank_code": "86",
+      "bank_branch_name": "ANANDWADI ",
+      "entity_code": "18",
+      "bank_branch_code": "138812"
+    }],
+    "bank_code": "86",
+    "entity_code": "0",
+    "bank_name": "BANK OF INDIA",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BARB0ACHALP",
+      "bank_code": "85",
+      "bank_branch_name": "ACHALPUR  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "140109"
+    }, {
+      "ifsc_code": "BARB0WADPAL",
+      "bank_code": "85",
+      "bank_branch_name": "WADA",
+      "entity_code": "18",
+      "bank_branch_code": "129769"
+    }, {
+      "ifsc_code": "BARB0WANIXX",
+      "bank_code": "85",
+      "bank_branch_name": "WANI ",
+      "entity_code": "18",
+      "bank_branch_code": "138500"
+    }, {
+      "ifsc_code": "BARB0KORADI",
+      "bank_code": "85",
+      "bank_branch_name": "KORADI",
+      "entity_code": "18",
+      "bank_branch_code": "135159"
+    }, {
+      "ifsc_code": "BARB0WARUDX",
+      "bank_code": "85",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "140377"
+    }, {
+      "ifsc_code": "BARB0VAIJAP",
+      "bank_code": "85",
+      "bank_branch_name": "VAIJAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "133474"
+    }, {
+      "ifsc_code": "BARB0UMREDX",
+      "bank_code": "85",
+      "bank_branch_name": "UMRED",
+      "entity_code": "18",
+      "bank_branch_code": "134130"
+    }, {
+      "ifsc_code": "BARB0MASWAN",
+      "bank_code": "85",
+      "bank_branch_name": "MASWAN",
+      "entity_code": "18",
+      "bank_branch_code": "134200"
+    }, {
+      "ifsc_code": "BARB0MAHPAL",
+      "bank_code": "85",
+      "bank_branch_name": "MAHIM",
+      "entity_code": "18",
+      "bank_branch_code": "134204"
+    }, {
+      "ifsc_code": "BARB0CHITHA",
+      "bank_code": "85",
+      "bank_branch_name": "CHIKHALE ",
+      "entity_code": "18",
+      "bank_branch_code": "138889"
+    }, {
+      "ifsc_code": "BARB0MAJRIM",
+      "bank_code": "85",
+      "bank_branch_name": "MAJRI MASALA  MAHARASHTRA",
+      "entity_code": "1824",
+      "bank_branch_code": "19262"
+    }, {
+      "ifsc_code": "BARB0BORDIX",
+      "bank_code": "85",
+      "bank_branch_name": "BORDI  DIST  THANE",
+      "entity_code": "18",
+      "bank_branch_code": "19053"
+    }, {
+      "ifsc_code": "BARB0AMRAVA",
+      "bank_code": "85",
+      "bank_branch_name": "AMRAVATI BRANCH",
+      "entity_code": "1824",
+      "bank_branch_code": "18550"
+    }, {
+      "ifsc_code": "BARB0KUDALX",
+      "bank_code": "85",
+      "bank_branch_name": "KUDAL  DIST SATARA",
+      "entity_code": "18",
+      "bank_branch_code": "18501"
+    }, {
+      "ifsc_code": "BARB0GANESH",
+      "bank_code": "85",
+      "bank_branch_name": "GANESHPURI DIST  MAHARASHTRA",
+      "entity_code": "18",
+      "bank_branch_code": "19074"
+    }, {
+      "ifsc_code": "BARB0WAGWAR",
+      "bank_code": "85",
+      "bank_branch_name": "WAGHOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "137207"
+    }, {
+      "ifsc_code": "BARB0BIDKIN",
+      "bank_code": "85",
+      "bank_branch_name": "BIDKIN ",
+      "entity_code": "18",
+      "bank_branch_code": "137489"
+    }, {
+      "ifsc_code": "BARB0RAHURI",
+      "bank_code": "85",
+      "bank_branch_name": "RAHURI ",
+      "entity_code": "18",
+      "bank_branch_code": "137639"
+    }, {
+      "ifsc_code": "BARB0NILJEX",
+      "bank_code": "85",
+      "bank_branch_name": "NILJE ",
+      "entity_code": "18",
+      "bank_branch_code": "136885"
+    }, {
+      "ifsc_code": "BARB0VARAPG",
+      "bank_code": "85",
+      "bank_branch_name": "VARAP ",
+      "entity_code": "18",
+      "bank_branch_code": "136311"
+    }, {
+      "ifsc_code": "BARB0BIRWAD",
+      "bank_code": "85",
+      "bank_branch_name": "BIRWADI ",
+      "entity_code": "18",
+      "bank_branch_code": "136321"
+    }, {
+      "ifsc_code": "BARB0WAIXXX",
+      "bank_code": "85",
+      "bank_branch_name": "WAI ",
+      "entity_code": "18",
+      "bank_branch_code": "138110"
+    }, {
+      "ifsc_code": "BARB0TUMSAR",
+      "bank_code": "85",
+      "bank_branch_name": "TUMSAR MAHARASHTRA ",
+      "entity_code": "18",
+      "bank_branch_code": "138857"
+    }, {
+      "ifsc_code": "BARB0SAIAMR",
+      "bank_code": "85",
+      "bank_branch_name": "SAI NAGAR AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "171143"
+    }],
+    "bank_code": "85",
+    "entity_code": "0",
+    "bank_name": "BANK OF BARODA",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "CSBK0000399",
+      "bank_code": "54",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "172019"
+    }],
+    "bank_code": "54",
+    "entity_code": "0",
+    "bank_name": "CATHOLIC SYRIAN BANK LTD.",
+    "A/c_length": "18",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "UTIB0001516",
+      "bank_code": "45",
+      "bank_branch_name": "SANGAMNER",
+      "entity_code": "18",
+      "bank_branch_code": "121039"
+    }, {
+      "ifsc_code": "UTIB0001244",
+      "bank_code": "45",
+      "bank_branch_name": "VAKOLA MUMBAI",
+      "entity_code": "18",
+      "bank_branch_code": "127644"
+    }, {
+      "ifsc_code": "UTIB0001342",
+      "bank_code": "45",
+      "bank_branch_name": "BADLAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "130408"
+    }, {
+      "ifsc_code": "UTIB0001438",
+      "bank_code": "45",
+      "bank_branch_name": "WAI ",
+      "entity_code": "18",
+      "bank_branch_code": "138114"
+    }, {
+      "ifsc_code": "UTIB0000265",
+      "bank_code": "45",
+      "bank_branch_name": "AMRAVATI  MAHARASHTRA",
+      "entity_code": "1824",
+      "bank_branch_code": "16576"
+    }, {
+      "ifsc_code": "UTIB0000605",
+      "bank_code": "45",
+      "bank_branch_name": "ULHASNAGAR  MAHARASHTRA",
+      "entity_code": "18",
+      "bank_branch_code": "16499"
+    }, {
+      "ifsc_code": "UTIB0000771",
+      "bank_code": "45",
+      "bank_branch_name": "AMBERNATH",
+      "entity_code": "18",
+      "bank_branch_code": "16502"
+    }, {
+      "ifsc_code": "UTIB0004073",
+      "bank_code": "45",
+      "bank_branch_name": "DASTUR NAGAR AMARAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "161992"
+    }, {
+      "ifsc_code": "UTIB0003834",
+      "bank_code": "45",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "169166"
+    }, {
+      "ifsc_code": "UTIB0002036",
+      "bank_code": "45",
+      "bank_branch_name": "BADNERA ROAD AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "172100"
+    }, {
+      "ifsc_code": "UTIB0002665",
+      "bank_code": "45",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "179052"
+    }, {
+      "ifsc_code": "UTIB0002827",
+      "bank_code": "45",
+      "bank_branch_name": "ANJANGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "184161"
+    }, {
+      "ifsc_code": "UTIB0003099",
+      "bank_code": "45",
+      "bank_branch_name": "GADGE NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "184273"
+    }],
+    "bank_code": "45",
+    "entity_code": "0",
+    "bank_name": "AXIS BANK",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "VIJB0005162",
+      "bank_code": "47",
+      "bank_branch_name": "VARANGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135259"
+    }, {
+      "ifsc_code": "VIJB0005030",
+      "bank_code": "47",
+      "bank_branch_name": "AMRAVATHI MAHARASTRA",
+      "entity_code": "1824",
+      "bank_branch_code": "60638"
+    }, {
+      "ifsc_code": "VIJB0005051",
+      "bank_code": "47",
+      "bank_branch_name": "BHAYANDER  E   MUMBAI",
+      "entity_code": "18",
+      "bank_branch_code": "60055"
+    }, {
+      "ifsc_code": "VIJB0005133",
+      "bank_code": "47",
+      "bank_branch_name": "SAWARGAO",
+      "entity_code": "18",
+      "bank_branch_code": "133551"
+    }, {
+      "ifsc_code": "VIJB0005109",
+      "bank_code": "47",
+      "bank_branch_name": "TELGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "137139"
+    }, {
+      "ifsc_code": "VIJB0005153",
+      "bank_code": "47",
+      "bank_branch_name": "MOHADI ",
+      "entity_code": "18",
+      "bank_branch_code": "137371"
+    }, {
+      "ifsc_code": "VIJB0005158",
+      "bank_code": "47",
+      "bank_branch_name": "DAHISAR MORI ",
+      "entity_code": "18",
+      "bank_branch_code": "136883"
+    }, {
+      "ifsc_code": "VIJB0005171",
+      "bank_code": "47",
+      "bank_branch_name": "SUTARPADA ",
+      "entity_code": "18",
+      "bank_branch_code": "136457"
+    }, {
+      "ifsc_code": "VIJB0005112",
+      "bank_code": "47",
+      "bank_branch_name": "BHANDARAMAHARASTRA",
+      "entity_code": "1824",
+      "bank_branch_code": "174638"
+    }, {
+      "ifsc_code": "VIJB0005151",
+      "bank_code": "47",
+      "bank_branch_name": "NANDGAONPETH",
+      "entity_code": "1824",
+      "bank_branch_code": "184322"
+    }],
+    "bank_code": "47",
+    "entity_code": "0",
+    "bank_name": "VIJAYA BANK",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "CORP0002987",
+      "bank_code": "51",
+      "bank_branch_name": "WADGAON LANDGA",
+      "entity_code": "18",
+      "bank_branch_code": "121041"
+    }, {
+      "ifsc_code": "CORP0003141",
+      "bank_code": "51",
+      "bank_branch_name": "SATPATI",
+      "entity_code": "18",
+      "bank_branch_code": "134202"
+    }, {
+      "ifsc_code": "CORP0001579",
+      "bank_code": "51",
+      "bank_branch_name": "NIPHAD",
+      "entity_code": "18",
+      "bank_branch_code": "135708"
+    }, {
+      "ifsc_code": "CORP0003432",
+      "bank_code": "51",
+      "bank_branch_name": "KARANJGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135709"
+    }, {
+      "ifsc_code": "CORP0003491",
+      "bank_code": "51",
+      "bank_branch_name": "PARGAON TARFE KHED",
+      "entity_code": "18",
+      "bank_branch_code": "136011"
+    }, {
+      "ifsc_code": "CORP0003182",
+      "bank_code": "51",
+      "bank_branch_name": "WADA ",
+      "entity_code": "18",
+      "bank_branch_code": "138886"
+    }, {
+      "ifsc_code": "CORP0001017",
+      "bank_code": "51",
+      "bank_branch_name": "AMARAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "27078"
+    }, {
+      "ifsc_code": "CORP0003142",
+      "bank_code": "51",
+      "bank_branch_name": "AMBEVANI ",
+      "entity_code": "18",
+      "bank_branch_code": "137337"
+    }, {
+      "ifsc_code": "CORP0001557",
+      "bank_code": "51",
+      "bank_branch_name": "RAHURI ",
+      "entity_code": "18",
+      "bank_branch_code": "137606"
+    }],
+    "bank_code": "51",
+    "entity_code": "0",
+    "bank_name": "CORPORATION BANK",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "IBKL0000542",
+      "bank_code": "39",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "30959"
+    }, {
+      "ifsc_code": "IBKL0000507",
+      "bank_code": "39",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "30941"
+    }, {
+      "ifsc_code": "IBKL0001699",
+      "bank_code": "39",
+      "bank_branch_name": "DEVRUKH",
+      "entity_code": "18",
+      "bank_branch_code": "134253"
+    }, {
+      "ifsc_code": "IBKL0001421",
+      "bank_code": "39",
+      "bank_branch_name": "MARDWADI",
+      "entity_code": "18",
+      "bank_branch_code": "135872"
+    }, {
+      "ifsc_code": "IBKL0002107",
+      "bank_code": "39",
+      "bank_branch_name": "NIRA",
+      "entity_code": "18",
+      "bank_branch_code": "136012"
+    }, {
+      "ifsc_code": "IBKL0001877",
+      "bank_code": "39",
+      "bank_branch_name": "KARMALA ",
+      "entity_code": "18",
+      "bank_branch_code": "136991"
+    }, {
+      "ifsc_code": "IBKL0001867",
+      "bank_code": "39",
+      "bank_branch_name": "GHOTI ",
+      "entity_code": "18",
+      "bank_branch_code": "137480"
+    }, {
+      "ifsc_code": "IBKL0001666",
+      "bank_code": "39",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136838"
+    }, {
+      "ifsc_code": "IBKL0001946",
+      "bank_code": "39",
+      "bank_branch_name": "PAITHAN ",
+      "entity_code": "18",
+      "bank_branch_code": "137487"
+    }, {
+      "ifsc_code": "IBKL0001451",
+      "bank_code": "39",
+      "bank_branch_name": "AMBAJOGAI ",
+      "entity_code": "18",
+      "bank_branch_code": "137037"
+    }, {
+      "ifsc_code": "IBKL0001394",
+      "bank_code": "39",
+      "bank_branch_name": "MAHAPOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136323"
+    }, {
+      "ifsc_code": "IBKL0001457",
+      "bank_code": "39",
+      "bank_branch_name": "KAIJ ",
+      "entity_code": "18",
+      "bank_branch_code": "137477"
+    }, {
+      "ifsc_code": "IBKL0001694",
+      "bank_code": "39",
+      "bank_branch_name": "EKSAR",
+      "entity_code": "18",
+      "bank_branch_code": "138112"
+    }, {
+      "ifsc_code": "IBKL0001333",
+      "bank_code": "39",
+      "bank_branch_name": "TITWALA ",
+      "entity_code": "18",
+      "bank_branch_code": "138405"
+    }, {
+      "ifsc_code": "IBKL0001974",
+      "bank_code": "39",
+      "bank_branch_name": "SASWAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138692"
+    }, {
+      "ifsc_code": "IBKL0001460",
+      "bank_code": "39",
+      "bank_branch_name": "GOJUBAVI ",
+      "entity_code": "18",
+      "bank_branch_code": "138753"
+    }, {
+      "ifsc_code": "IBKL0001987",
+      "bank_code": "39",
+      "bank_branch_name": "RAJURI ",
+      "entity_code": "18",
+      "bank_branch_code": "139050"
+    }, {
+      "ifsc_code": "IBKL0001297",
+      "bank_code": "39",
+      "bank_branch_name": "PIMPALKHUTA",
+      "entity_code": "1824",
+      "bank_branch_code": "174349"
+    }, {
+      "ifsc_code": "IBKL0001809",
+      "bank_code": "39",
+      "bank_branch_name": "BADNERA ROAD",
+      "entity_code": "1824",
+      "bank_branch_code": "180041"
+    }],
+    "bank_code": "39",
+    "entity_code": "0",
+    "bank_name": "IDBI BANK LTD",
+    "A/c_length": "16",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "HDFC0002126",
+      "bank_code": "36",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133549"
+    }, {
+      "ifsc_code": "HDFC0003340",
+      "bank_code": "36",
+      "bank_branch_name": "PAITHAN ",
+      "entity_code": "18",
+      "bank_branch_code": "137488"
+    }, {
+      "ifsc_code": "HDFC0002206",
+      "bank_code": "36",
+      "bank_branch_name": "WAI ",
+      "entity_code": "18",
+      "bank_branch_code": "138113"
+    }, {
+      "ifsc_code": "HDFC0000257",
+      "bank_code": "36",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "28791"
+    }, {
+      "ifsc_code": "HDFC0000815",
+      "bank_code": "36",
+      "bank_branch_name": "ULHASNAGAR   MAHARASHTRA",
+      "entity_code": "18",
+      "bank_branch_code": "28663"
+    }, {
+      "ifsc_code": "HDFC0002982",
+      "bank_code": "36",
+      "bank_branch_name": "DARYAPUR BANOSA",
+      "entity_code": "1824",
+      "bank_branch_code": "173099"
+    }, {
+      "ifsc_code": "HDFC0003712",
+      "bank_code": "36",
+      "bank_branch_name": "MARDA",
+      "entity_code": "1824",
+      "bank_branch_code": "179730"
+    }, {
+      "ifsc_code": "HDFC0004426",
+      "bank_code": "36",
+      "bank_branch_name": "NANDGAON PETH I",
+      "entity_code": "1824",
+      "bank_branch_code": "181735"
+    }, {
+      "ifsc_code": "HDFC0004726",
+      "bank_code": "36",
+      "bank_branch_name": "DATTAPUR DHAMANGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "182941"
+    }],
+    "bank_code": "36",
+    "entity_code": "0",
+    "bank_name": "HDFC BANK LTD",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ANDB0002243",
+      "bank_code": "10",
+      "bank_branch_name": "BHOKARA",
+      "entity_code": "18",
+      "bank_branch_code": "135158"
+    }, {
+      "ifsc_code": "ANDB0002935",
+      "bank_code": "10",
+      "bank_branch_name": "MHATODI ",
+      "entity_code": "18",
+      "bank_branch_code": "136662"
+    }, {
+      "ifsc_code": "ANDB0002682",
+      "bank_code": "10",
+      "bank_branch_name": "VANGANI ",
+      "entity_code": "18",
+      "bank_branch_code": "137506"
+    }, {
+      "ifsc_code": "ANDB0002611",
+      "bank_code": "10",
+      "bank_branch_name": "PARATWADA ",
+      "entity_code": "1824",
+      "bank_branch_code": "139225"
+    }],
+    "bank_code": "10",
+    "entity_code": "0",
+    "bank_name": "ANDHRA BANK",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "IDIB000M280",
+      "bank_code": "132",
+      "bank_branch_name": "MARDI",
+      "entity_code": "18",
+      "bank_branch_code": "133460"
+    }, {
+      "ifsc_code": "IDIB000A049",
+      "bank_code": "132",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "31210"
+    }, {
+      "ifsc_code": "IDIB000A055",
+      "bank_code": "132",
+      "bank_branch_name": "ASSEGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "31211"
+    }, {
+      "ifsc_code": "IDIB000K294",
+      "bank_code": "132",
+      "bank_branch_name": "KOHALI ",
+      "entity_code": "18",
+      "bank_branch_code": "138341"
+    }],
+    "bank_code": "132",
+    "entity_code": "0",
+    "bank_name": "INDIAN BANK",
+    "A/c_length": "9,10",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "SYNB0005268",
+      "bank_code": "100",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133547"
+    }, {
+      "ifsc_code": "SYNB0005133",
+      "bank_code": "100",
+      "bank_branch_name": "PATGAURI ",
+      "entity_code": "18",
+      "bank_branch_code": "138852"
+    }, {
+      "ifsc_code": "SYNB0005120",
+      "bank_code": "100",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "52820"
+    }, {
+      "ifsc_code": "SYNB0005465",
+      "bank_code": "100",
+      "bank_branch_name": "VAJRESHWARI",
+      "entity_code": "18",
+      "bank_branch_code": "52732"
+    }, {
+      "ifsc_code": "SYNB0005198",
+      "bank_code": "100",
+      "bank_branch_name": "HINGOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "137214"
+    }, {
+      "ifsc_code": "SYNB0005143",
+      "bank_code": "100",
+      "bank_branch_name": "LAVA ",
+      "entity_code": "18",
+      "bank_branch_code": "137057"
+    }, {
+      "ifsc_code": "SYNB0005267",
+      "bank_code": "100",
+      "bank_branch_name": "KAMPTEE ",
+      "entity_code": "18",
+      "bank_branch_code": "137434"
+    }, {
+      "ifsc_code": "SYNB0005160",
+      "bank_code": "100",
+      "bank_branch_name": "BEED ",
+      "entity_code": "18",
+      "bank_branch_code": "137702"
+    }, {
+      "ifsc_code": "SYNB0007227",
+      "bank_code": "100",
+      "bank_branch_name": "ADELI ",
+      "entity_code": "18",
+      "bank_branch_code": "136337"
+    }, {
+      "ifsc_code": "SYNB0005383",
+      "bank_code": "100",
+      "bank_branch_name": "ASOLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136338"
+    }, {
+      "ifsc_code": "SYNB0005311",
+      "bank_code": "100",
+      "bank_branch_name": "GANGAKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136494"
+    }, {
+      "ifsc_code": "SYNB0005121",
+      "bank_code": "100",
+      "bank_branch_name": "AMRAVATI WALGAON ROAD",
+      "entity_code": "1824",
+      "bank_branch_code": "170927"
+    }],
+    "bank_code": "100",
+    "entity_code": "0",
+    "bank_name": "SYNDICATE BANK",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "RATN0000162",
+      "bank_code": "59",
+      "bank_branch_name": "BORGAONAMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "178742"
+    }],
+    "bank_code": "59",
+    "entity_code": "0",
+    "bank_name": "RBL Bank",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ICIC0001080",
+      "bank_code": "28",
+      "bank_branch_name": "WARDHA",
+      "entity_code": "18",
+      "bank_branch_code": "135418"
+    }, {
+      "ifsc_code": "ICIC0002028",
+      "bank_code": "28",
+      "bank_branch_name": "BRAHMAPURI",
+      "entity_code": "18",
+      "bank_branch_code": "129632"
+    }, {
+      "ifsc_code": "ICIC0002787",
+      "bank_code": "28",
+      "bank_branch_name": "BADLAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "130405"
+    }, {
+      "ifsc_code": "ICIC0001776",
+      "bank_code": "28",
+      "bank_branch_name": "KATOL",
+      "entity_code": "18",
+      "bank_branch_code": "133550"
+    }, {
+      "ifsc_code": "ICIC0002194",
+      "bank_code": "28",
+      "bank_branch_name": "DHAVALI",
+      "entity_code": "18",
+      "bank_branch_code": "134119"
+    }, {
+      "ifsc_code": "ICIC0002746",
+      "bank_code": "28",
+      "bank_branch_name": "NAGAON  ",
+      "entity_code": "18",
+      "bank_branch_code": "138803"
+    }, {
+      "ifsc_code": "ICIC0002010",
+      "bank_code": "28",
+      "bank_branch_name": "JAMKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "139042"
+    }, {
+      "ifsc_code": "ICIC0000428",
+      "bank_code": "28",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "29906"
+    }, {
+      "ifsc_code": "ICIC0000868",
+      "bank_code": "28",
+      "bank_branch_name": "ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "30374"
+    }, {
+      "ifsc_code": "ICIC0001067",
+      "bank_code": "28",
+      "bank_branch_name": "THANE   AMBERNATH",
+      "entity_code": "18",
+      "bank_branch_code": "29875"
+    }, {
+      "ifsc_code": "ICIC0001778",
+      "bank_code": "28",
+      "bank_branch_name": "GHOTI ",
+      "entity_code": "18",
+      "bank_branch_code": "137481"
+    }, {
+      "ifsc_code": "ICIC0004058",
+      "bank_code": "28",
+      "bank_branch_name": "ICICI BANK LIMITED",
+      "entity_code": "1824",
+      "bank_branch_code": "169406"
+    }, {
+      "ifsc_code": "ICIC0001696",
+      "bank_code": "28",
+      "bank_branch_name": "SHOLAPURMAHAPALICA",
+      "entity_code": "1824",
+      "bank_branch_code": "169801"
+    }, {
+      "ifsc_code": "ICIC0006969",
+      "bank_code": "28",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "174093"
+    }, {
+      "ifsc_code": "ICIC0003453",
+      "bank_code": "28",
+      "bank_branch_name": "VMV COLLEGE ROAD AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "177657"
+    }, {
+      "ifsc_code": "ICIC0003847",
+      "bank_code": "28",
+      "bank_branch_name": "NANDGAON PETH AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "183143"
+    }],
+    "bank_code": "28",
+    "entity_code": "0",
+    "bank_name": "ICICI BANK LTD",
+    "A/c_length": "12",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "CIUB0000385",
+      "bank_code": "15",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "172646"
+    }],
+    "bank_code": "15",
+    "entity_code": "0",
+    "bank_name": "CITY UNION BANK LTD",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "KKBK0002004",
+      "bank_code": "65",
+      "bank_branch_name": "SAKEGAON",
+      "entity_code": "18",
+      "bank_branch_code": "135258"
+    }],
+    "bank_code": "65",
+    "entity_code": "0",
+    "bank_name": "KOTAK MAHINDRA BANK",
+    "A/c_length": "10",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "YESB0000357",
+      "bank_code": "75",
+      "bank_branch_name": "GHOTI ",
+      "entity_code": "18",
+      "bank_branch_code": "137482"
+    }, {
+      "ifsc_code": "YESB0AUR074",
+      "bank_code": "75",
+      "bank_branch_name": "NAGAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138759"
+    }, {
+      "ifsc_code": "YESB0AUR080",
+      "bank_code": "75",
+      "bank_branch_name": "HATNOOR ",
+      "entity_code": "18",
+      "bank_branch_code": "138760"
+    }, {
+      "ifsc_code": "YESB0AUR088",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK JEHUR ",
+      "entity_code": "18",
+      "bank_branch_code": "138761"
+    }, {
+      "ifsc_code": "YESB0AUR076",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK AURALA ",
+      "entity_code": "18",
+      "bank_branch_code": "138762"
+    }, {
+      "ifsc_code": "YESB0AUR085",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK WADNER ",
+      "entity_code": "18",
+      "bank_branch_code": "138763"
+    }, {
+      "ifsc_code": "YESB0AUR073",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK KANNAD ",
+      "entity_code": "18",
+      "bank_branch_code": "138764"
+    }, {
+      "ifsc_code": "YESB0AUR084",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK WASADI ",
+      "entity_code": "18",
+      "bank_branch_code": "138765"
+    }, {
+      "ifsc_code": "YESB0AUR092",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK NADARPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "138766"
+    }, {
+      "ifsc_code": "YESB0AUR077",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK CHINCHOLI L ",
+      "entity_code": "18",
+      "bank_branch_code": "138767"
+    }, {
+      "ifsc_code": "YESB0AUR079",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK NACHANWEL ",
+      "entity_code": "18",
+      "bank_branch_code": "138768"
+    }, {
+      "ifsc_code": "YESB0AUR078",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK DEOGAON R ",
+      "entity_code": "18",
+      "bank_branch_code": "138769"
+    }, {
+      "ifsc_code": "YESB0AUR089",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK BAHIRGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "138770"
+    }, {
+      "ifsc_code": "YESB0AUR014",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK CHIKHALTHANA ",
+      "entity_code": "18",
+      "bank_branch_code": "138771"
+    }, {
+      "ifsc_code": "YESB0AUR082",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK CHAPANER ",
+      "entity_code": "18",
+      "bank_branch_code": "138772"
+    }, {
+      "ifsc_code": "YESB0AUR093",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK SHELGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "138773"
+    }, {
+      "ifsc_code": "YESB0AUR086",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK NAGAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "138774"
+    }, {
+      "ifsc_code": "YESB0AUR103",
+      "bank_code": "75",
+      "bank_branch_name": "AURANGABAD DCC BANK GHATNANDRA ",
+      "entity_code": "18",
+      "bank_branch_code": "138775"
+    }, {
+      "ifsc_code": "YESB0001081",
+      "bank_code": "75",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "169341"
+    }],
+    "bank_code": "75",
+    "entity_code": "0",
+    "bank_name": "YES BANK LTD",
+    "A/c_length": "15",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "FDRL0002241",
+      "bank_code": "67",
+      "bank_branch_name": "TANDULWADI",
+      "entity_code": "18",
+      "bank_branch_code": "130167"
+    }, {
+      "ifsc_code": "FDRL0001755",
+      "bank_code": "67",
+      "bank_branch_name": "BADLAPUR",
+      "entity_code": "18",
+      "bank_branch_code": "130412"
+    }],
+    "bank_code": "67",
+    "entity_code": "0",
+    "bank_name": "THE FEDERAL BANK LTD",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "MAHB0000869",
+      "bank_code": "62",
+      "bank_branch_name": "BHATKULI",
+      "entity_code": "1824",
+      "bank_branch_code": "77055"
+    }, {
+      "ifsc_code": "MAHB0001114",
+      "bank_code": "62",
+      "bank_branch_name": "SAIWAN",
+      "entity_code": "18",
+      "bank_branch_code": "86152"
+    }, {
+      "ifsc_code": "MAHB0000477",
+      "bank_code": "62",
+      "bank_branch_name": "CHAROTINAKA KASA",
+      "entity_code": "18",
+      "bank_branch_code": "86151"
+    }, {
+      "ifsc_code": "MAHB0001652",
+      "bank_code": "62",
+      "bank_branch_name": "MAHADULA",
+      "entity_code": "18",
+      "bank_branch_code": "135160"
+    }, {
+      "ifsc_code": "MAHB0001621",
+      "bank_code": "62",
+      "bank_branch_name": "KATHORA BUDRUK",
+      "entity_code": "1824",
+      "bank_branch_code": "147983"
+    }, {
+      "ifsc_code": "MAHB0000056",
+      "bank_code": "62",
+      "bank_branch_name": "DHAMANGAON RAILWAY",
+      "entity_code": "1824",
+      "bank_branch_code": "86205"
+    }, {
+      "ifsc_code": "MAHB0000195",
+      "bank_code": "62",
+      "bank_branch_name": "PALGAR",
+      "entity_code": "18",
+      "bank_branch_code": "21938"
+    }, {
+      "ifsc_code": "MAHB0000814",
+      "bank_code": "62",
+      "bank_branch_name": "SAKOL",
+      "entity_code": "18",
+      "bank_branch_code": "136001"
+    }, {
+      "ifsc_code": "MAHB0001859",
+      "bank_code": "62",
+      "bank_branch_name": "PADEL",
+      "entity_code": "18",
+      "bank_branch_code": "136231"
+    }, {
+      "ifsc_code": "MAHB0001811",
+      "bank_code": "62",
+      "bank_branch_name": "KASAL",
+      "entity_code": "18",
+      "bank_branch_code": "136232"
+    }, {
+      "ifsc_code": "MAHB0001825",
+      "bank_code": "62",
+      "bank_branch_name": "NAIGAON  ",
+      "entity_code": "18",
+      "bank_branch_code": "138887"
+    }, {
+      "ifsc_code": "MAHB0000879",
+      "bank_code": "62",
+      "bank_branch_name": "MASOD TAPOWAN CAMP",
+      "entity_code": "1824",
+      "bank_branch_code": "22748"
+    }, {
+      "ifsc_code": "MAHB0001043",
+      "bank_code": "62",
+      "bank_branch_name": "DHARNI   SAWLIKHEDA",
+      "entity_code": "1824",
+      "bank_branch_code": "22423"
+    }, {
+      "ifsc_code": "MAHB0001170",
+      "bank_code": "62",
+      "bank_branch_name": "SAINAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "22766"
+    }, {
+      "ifsc_code": "MAHB0000559",
+      "bank_code": "62",
+      "bank_branch_name": "RUKMININAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "22729"
+    }, {
+      "ifsc_code": "MAHB0000639",
+      "bank_code": "62",
+      "bank_branch_name": "GADGENAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "22738"
+    }, {
+      "ifsc_code": "MAHB0000767",
+      "bank_code": "62",
+      "bank_branch_name": "RAJAPETH",
+      "entity_code": "1824",
+      "bank_branch_code": "22741"
+    }, {
+      "ifsc_code": "MAHB0000929",
+      "bank_code": "62",
+      "bank_branch_name": "KHAPARDE BAGICHA",
+      "entity_code": "1824",
+      "bank_branch_code": "22751"
+    }, {
+      "ifsc_code": "MAHB0000115",
+      "bank_code": "62",
+      "bank_branch_name": "BADNERA",
+      "entity_code": "1824",
+      "bank_branch_code": "22678"
+    }, {
+      "ifsc_code": "MAHB0001331",
+      "bank_code": "62",
+      "bank_branch_name": "SANT GADGEBABA AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "22620"
+    }, {
+      "ifsc_code": "MAHB0000021",
+      "bank_code": "62",
+      "bank_branch_name": "MAIN BRANCH   AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "22647"
+    }, {
+      "ifsc_code": "MAHB0000186",
+      "bank_code": "62",
+      "bank_branch_name": "SHENDURJANA GHAT",
+      "entity_code": "1824",
+      "bank_branch_code": "22393"
+    }, {
+      "ifsc_code": "MAHB0000252",
+      "bank_code": "62",
+      "bank_branch_name": "LONI WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "22394"
+    }, {
+      "ifsc_code": "MAHB0000253",
+      "bank_code": "62",
+      "bank_branch_name": "PUSLA",
+      "entity_code": "1824",
+      "bank_branch_code": "22395"
+    }, {
+      "ifsc_code": "MAHB0000289",
+      "bank_code": "62",
+      "bank_branch_name": "MORSHI",
+      "entity_code": "1824",
+      "bank_branch_code": "22396"
+    }, {
+      "ifsc_code": "MAHB0000541",
+      "bank_code": "62",
+      "bank_branch_name": "SHIRAJGAON KASBA",
+      "entity_code": "1824",
+      "bank_branch_code": "22397"
+    }, {
+      "ifsc_code": "MAHB0000569",
+      "bank_code": "62",
+      "bank_branch_name": "BANOSA",
+      "entity_code": "1824",
+      "bank_branch_code": "22398"
+    }, {
+      "ifsc_code": "MAHB0000621",
+      "bank_code": "62",
+      "bank_branch_name": "PURNANAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "22399"
+    }, {
+      "ifsc_code": "MAHB0000638",
+      "bank_code": "62",
+      "bank_branch_name": "YEODA",
+      "entity_code": "1824",
+      "bank_branch_code": "22400"
+    }, {
+      "ifsc_code": "MAHB0000709",
+      "bank_code": "62",
+      "bank_branch_name": "HIWARKHED",
+      "entity_code": "1824",
+      "bank_branch_code": "22401"
+    }, {
+      "ifsc_code": "MAHB0000733",
+      "bank_code": "62",
+      "bank_branch_name": "MAHULI JAHAGIR",
+      "entity_code": "1824",
+      "bank_branch_code": "22403"
+    }, {
+      "ifsc_code": "MAHB0000764",
+      "bank_code": "62",
+      "bank_branch_name": "CHANDILKAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "22406"
+    }, {
+      "ifsc_code": "MAHB0000765",
+      "bank_code": "62",
+      "bank_branch_name": "LONI TAKLI",
+      "entity_code": "1824",
+      "bank_branch_code": "22407"
+    }, {
+      "ifsc_code": "MAHB0000864",
+      "bank_code": "62",
+      "bank_branch_name": "KHANAPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "22408"
+    }, {
+      "ifsc_code": "MAHB0000865",
+      "bank_code": "62",
+      "bank_branch_name": "CHINCHOLI",
+      "entity_code": "1824",
+      "bank_branch_code": "22409"
+    }, {
+      "ifsc_code": "MAHB0000866",
+      "bank_code": "62",
+      "bank_branch_name": "KHED",
+      "entity_code": "1824",
+      "bank_branch_code": "22410"
+    }, {
+      "ifsc_code": "MAHB0000867",
+      "bank_code": "62",
+      "bank_branch_name": "MAHULI CHOR",
+      "entity_code": "1824",
+      "bank_branch_code": "22411"
+    }, {
+      "ifsc_code": "MAHB0000868",
+      "bank_code": "62",
+      "bank_branch_name": "PIMPLOD",
+      "entity_code": "1824",
+      "bank_branch_code": "22412"
+    }, {
+      "ifsc_code": "MAHB0001002",
+      "bank_code": "62",
+      "bank_branch_name": "SATEPHAL CHANDUR RLY",
+      "entity_code": "1824",
+      "bank_branch_code": "22420"
+    }, {
+      "ifsc_code": "MAHB0000878",
+      "bank_code": "62",
+      "bank_branch_name": "ACHALPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "22415"
+    }, {
+      "ifsc_code": "MAHB0000892",
+      "bank_code": "62",
+      "bank_branch_name": "RITHPUR",
+      "entity_code": "1824",
+      "bank_branch_code": "22416"
+    }, {
+      "ifsc_code": "MAHB0000911",
+      "bank_code": "62",
+      "bank_branch_name": "ANJANGAON SURJI",
+      "entity_code": "1824",
+      "bank_branch_code": "22418"
+    }, {
+      "ifsc_code": "MAHB0000917",
+      "bank_code": "62",
+      "bank_branch_name": "HARISAL",
+      "entity_code": "1824",
+      "bank_branch_code": "22419"
+    }, {
+      "ifsc_code": "MAHB0001003",
+      "bank_code": "62",
+      "bank_branch_name": "DEOGAON",
+      "entity_code": "1824",
+      "bank_branch_code": "22421"
+    }, {
+      "ifsc_code": "MAHB0001077",
+      "bank_code": "62",
+      "bank_branch_name": "BIJUDHAWDI",
+      "entity_code": "1824",
+      "bank_branch_code": "22424"
+    }, {
+      "ifsc_code": "MAHB0001157",
+      "bank_code": "62",
+      "bank_branch_name": "WARUD",
+      "entity_code": "1824",
+      "bank_branch_code": "22426"
+    }, {
+      "ifsc_code": "MAHB0000712",
+      "bank_code": "62",
+      "bank_branch_name": "WADA",
+      "entity_code": "18",
+      "bank_branch_code": "22214"
+    }, {
+      "ifsc_code": "MAHB0000650",
+      "bank_code": "62",
+      "bank_branch_name": "DEVRASHTRE",
+      "entity_code": "18",
+      "bank_branch_code": "87387"
+    }, {
+      "ifsc_code": "MAHB0000194",
+      "bank_code": "62",
+      "bank_branch_name": "DAHANU",
+      "entity_code": "18",
+      "bank_branch_code": "22207"
+    }, {
+      "ifsc_code": "MAHB0000257",
+      "bank_code": "62",
+      "bank_branch_name": "UMARKHED",
+      "entity_code": "18",
+      "bank_branch_code": "22596"
+    }, {
+      "ifsc_code": "MAHB0000837",
+      "bank_code": "62",
+      "bank_branch_name": "HAJI TAKLI",
+      "entity_code": "18",
+      "bank_branch_code": "8077"
+    }, {
+      "ifsc_code": "MAHB0000198",
+      "bank_code": "62",
+      "bank_branch_name": "GANESHPURI",
+      "entity_code": "18",
+      "bank_branch_code": "21901"
+    }, {
+      "ifsc_code": "MAHB0001954",
+      "bank_code": "62",
+      "bank_branch_name": "KURUDWADI ",
+      "entity_code": "18",
+      "bank_branch_code": "137215"
+    }, {
+      "ifsc_code": "MAHB0001866",
+      "bank_code": "62",
+      "bank_branch_name": "VAMBORI ",
+      "entity_code": "18",
+      "bank_branch_code": "137605"
+    }, {
+      "ifsc_code": "MAHB0001867",
+      "bank_code": "62",
+      "bank_branch_name": "BURHANAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "137636"
+    }, {
+      "ifsc_code": "MAHB0001821",
+      "bank_code": "62",
+      "bank_branch_name": "CHANDUR BAZAR ",
+      "entity_code": "1824",
+      "bank_branch_code": "139145"
+    }, {
+      "ifsc_code": "MAHB0001627",
+      "bank_code": "62",
+      "bank_branch_name": "NIDEBAN ",
+      "entity_code": "18",
+      "bank_branch_code": "137083"
+    }, {
+      "ifsc_code": "MAHB0001635",
+      "bank_code": "62",
+      "bank_branch_name": "VENGURLA ",
+      "entity_code": "18",
+      "bank_branch_code": "136327"
+    }, {
+      "ifsc_code": "MAHB0001684",
+      "bank_code": "62",
+      "bank_branch_name": "KALAMBIST ",
+      "entity_code": "18",
+      "bank_branch_code": "136329"
+    }, {
+      "ifsc_code": "MAHB0001806",
+      "bank_code": "62",
+      "bank_branch_name": "BAHALGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136373"
+    }, {
+      "ifsc_code": "MAHB0001892",
+      "bank_code": "62",
+      "bank_branch_name": "MURUD ",
+      "entity_code": "18",
+      "bank_branch_code": "136374"
+    }, {
+      "ifsc_code": "MAHB0001914",
+      "bank_code": "62",
+      "bank_branch_name": "MANGALVEDHA ",
+      "entity_code": "18",
+      "bank_branch_code": "136510"
+    }, {
+      "ifsc_code": "MAHB0001643",
+      "bank_code": "62",
+      "bank_branch_name": "KHADKI BK ",
+      "entity_code": "18",
+      "bank_branch_code": "136663"
+    }, {
+      "ifsc_code": "MAHB0001905",
+      "bank_code": "62",
+      "bank_branch_name": "TELHARA ",
+      "entity_code": "18",
+      "bank_branch_code": "136666"
+    }, {
+      "ifsc_code": "MAHB0001862",
+      "bank_code": "62",
+      "bank_branch_name": "BARSHITAKLI ",
+      "entity_code": "18",
+      "bank_branch_code": "136677"
+    }, {
+      "ifsc_code": "MAHB0001906",
+      "bank_code": "62",
+      "bank_branch_name": "NER ",
+      "entity_code": "18",
+      "bank_branch_code": "138503"
+    }, {
+      "ifsc_code": "MAHB0001902",
+      "bank_code": "62",
+      "bank_branch_name": "BHARASSWADA ",
+      "entity_code": "18",
+      "bank_branch_code": "138807"
+    }, {
+      "ifsc_code": "MAHB0001911",
+      "bank_code": "62",
+      "bank_branch_name": "RAMTEK ",
+      "entity_code": "18",
+      "bank_branch_code": "138850"
+    }, {
+      "ifsc_code": "MAHB0001784",
+      "bank_code": "62",
+      "bank_branch_name": "ARJUN NAGAR AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "172377"
+    }],
+    "bank_code": "62",
+    "entity_code": "0",
+    "bank_name": "BANK OF MAHARASHTRA",
+    "A/c_length": "11",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "KVBL0002129",
+      "bank_code": "60",
+      "bank_branch_name": "AMRAVATI     ",
+      "entity_code": "1824",
+      "bank_branch_code": "175211"
+    }],
+    "bank_code": "60",
+    "entity_code": "0",
+    "bank_name": "KARUR VYSYA BANK",
+    "A/c_length": "16",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BRAJ0003650",
+      "bank_code": "25",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "54454"
+    }],
+    "bank_code": "25",
+    "entity_code": "0",
+    "bank_name": "THE BANK OF RAJASTHAN LTD",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ORBC0101654",
+      "bank_code": "101",
+      "bank_branch_name": "SANGAMNER",
+      "entity_code": "18",
+      "bank_branch_code": "121040"
+    }, {
+      "ifsc_code": "ORBC0101327",
+      "bank_code": "101",
+      "bank_branch_name": "KHATRI COMPOUND NEAR MALVIYA BHAWAN  AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "35533"
+    }, {
+      "ifsc_code": "ORBC0101970",
+      "bank_code": "101",
+      "bank_branch_name": "ATGAON ",
+      "entity_code": "18",
+      "bank_branch_code": "136320"
+    }],
+    "bank_code": "101",
+    "entity_code": "0",
+    "bank_name": "ORIENTAL BANK OF COMMERCE",
+    "A/c_length": "14",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ALLA0213320",
+      "bank_code": "84",
+      "bank_branch_name": "ACHALPUR PARATWADA",
+      "entity_code": "1824",
+      "bank_branch_code": "140108"
+    }, {
+      "ifsc_code": "ALLA0210755",
+      "bank_code": "84",
+      "bank_branch_name": "MOZRI",
+      "entity_code": "1824",
+      "bank_branch_code": "84463"
+    }, {
+      "ifsc_code": "ALLA0210753",
+      "bank_code": "84",
+      "bank_branch_name": "PAHUR",
+      "entity_code": "18",
+      "bank_branch_code": "135025"
+    }, {
+      "ifsc_code": "ALLA0211380",
+      "bank_code": "84",
+      "bank_branch_name": "TEMBRUSONDA",
+      "entity_code": "1824",
+      "bank_branch_code": "89097"
+    }, {
+      "ifsc_code": "ALLA0211126",
+      "bank_code": "84",
+      "bank_branch_name": "JARIDA",
+      "entity_code": "1824",
+      "bank_branch_code": "89098"
+    }, {
+      "ifsc_code": "ALLA0210993",
+      "bank_code": "84",
+      "bank_branch_name": "WADHONA RAMNATH",
+      "entity_code": "18",
+      "bank_branch_code": "133463"
+    }, {
+      "ifsc_code": "ALLA0211379",
+      "bank_code": "84",
+      "bank_branch_name": "PIMPRI NIPANI",
+      "entity_code": "18",
+      "bank_branch_code": "133464"
+    }, {
+      "ifsc_code": "ALLA0213080",
+      "bank_code": "84",
+      "bank_branch_name": "MANOR ",
+      "entity_code": "18",
+      "bank_branch_code": "138883"
+    }, {
+      "ifsc_code": "ALLA0212390",
+      "bank_code": "84",
+      "bank_branch_name": "AMRAVATI RATI NAGAR",
+      "entity_code": "1824",
+      "bank_branch_code": "14964"
+    }, {
+      "ifsc_code": "ALLA0212144",
+      "bank_code": "84",
+      "bank_branch_name": "AMRAVATI CAMP",
+      "entity_code": "1824",
+      "bank_branch_code": "15345"
+    }, {
+      "ifsc_code": "ALLA0210796",
+      "bank_code": "84",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "15354"
+    }, {
+      "ifsc_code": "ALLA0213204",
+      "bank_code": "84",
+      "bank_branch_name": "WASHIM ",
+      "entity_code": "18",
+      "bank_branch_code": "136834"
+    }, {
+      "ifsc_code": "ALLA0213444",
+      "bank_code": "84",
+      "bank_branch_name": "CHAWANHIPPARGA ",
+      "entity_code": "18",
+      "bank_branch_code": "137100"
+    }, {
+      "ifsc_code": "ALLA0213155",
+      "bank_code": "84",
+      "bank_branch_name": "SHAHAPUR ",
+      "entity_code": "18",
+      "bank_branch_code": "136315"
+    }, {
+      "ifsc_code": "ALLA0210193",
+      "bank_code": "84",
+      "bank_branch_name": "NARKHED ",
+      "entity_code": "18",
+      "bank_branch_code": "136505"
+    }, {
+      "ifsc_code": "ALLA0211461",
+      "bank_code": "84",
+      "bank_branch_name": "PAILIBHATADI ",
+      "entity_code": "18",
+      "bank_branch_code": "138116"
+    }, {
+      "ifsc_code": "ALLA0211230",
+      "bank_code": "84",
+      "bank_branch_name": "RAMNAGAR ",
+      "entity_code": "18",
+      "bank_branch_code": "138501"
+    }],
+    "bank_code": "84",
+    "entity_code": "0",
+    "bank_name": "ALLAHABAD BANK",
+    "A/c_length": "11",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "ESFB0009010",
+      "bank_code": "1387",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "165882"
+    }],
+    "bank_code": "1387",
+    "entity_code": "0",
+    "bank_name": "EQUITAS SMALL FINANCE BANK LIMITED",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "INDB0000584",
+      "bank_code": "11",
+      "bank_branch_name": "AMRAVATI",
+      "entity_code": "1824",
+      "bank_branch_code": "177934"
+    }],
+    "bank_code": "11",
+    "entity_code": "0",
+    "bank_name": "INDUSIND BANK LIMITED",
+    "A/c_length": "12",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "KARB0000627",
+      "bank_code": "56",
+      "bank_branch_name": "PALGHAR",
+      "entity_code": "18",
+      "bank_branch_code": "134199"
+    }],
+    "bank_code": "56",
+    "entity_code": "0",
+    "bank_name": "KARNATAKA BANK",
+    "A/c_length": "16",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "AUBL0002366",
+      "bank_code": "1376",
+      "bank_branch_name": "AMRAVATI RAJAPETH CHOWK",
+      "entity_code": "1824",
+      "bank_branch_code": "162044"
+    }],
+    "bank_code": "1376",
+    "entity_code": "0",
+    "bank_name": "AU Small Finance Bank Limited",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "1"
+  }, {
+    "bank_branch_detail": [{
+      "ifsc_code": "BMBL0000042",
+      "bank_code": "1090",
+      "bank_branch_name": "GHATKOPAR  MUMBAI CENTRAL",
+      "entity_code": "18",
+      "bank_branch_code": "118536"
+    }, {
+      "ifsc_code": "BMBL0009001",
+      "bank_code": "1090",
+      "bank_branch_name": "MUMBAI",
+      "entity_code": "18",
+      "bank_branch_code": "118537"
+    }],
+    "bank_code": "1090",
+    "entity_code": "0",
+    "bank_name": "BHARATIYA MAHILA BANK",
+    "A/c_length": "Bank A/c length N/A !!!",
+    "banklevel_code": "1"
+  }]
+}]

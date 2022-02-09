@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Extended Profile</string>
+    <!--do not change these strings used in programing conditions-->
+
+    <string name="server_error_invalid_userId">અમાન્ય યુઝરનેમ!!!</string>
+    <!--{"status":"Invalid Username!!!"}-->
+    <string name="android_api_version">અમાન્ય એન્ડ્રોઇડ એપીઆય (api) ની આવૃત્તિ!!!</string>
+    <!--{"status":"Invalid android_api_version!!!"}-->
+    <string name="server_error_invalid_userId_and_password" translatable="false">Invalid User Id or Password!!!</string>
+    <!--{"status":"Invalid Username or Password!!!"}-->
+    <string name="server_error_invalid_AppVersion">અમાન્ય ઍપ (app) ની આવૃત્તિ!!!</string>
+    <string name="server_error__AppVersion">ઍપ (app) ની આવૃત્તિ!</string>
+    <string name="update">અપડેટ</string>
+    <string name="block_not_assigned">Block is not assigned on this ID.</string>
+
+    <!-- created by lincon -->
+
+    <string name="openDrawer">ડ્રૉવર ખુલ્લો છે</string>
+    <string name="scan_aadharh">Scan Aadhar Card</string>
+    <string name="scan_bank">Bank Details</string>
+    <string name="closeDrawer">ડ્રૉવર બંધ છે</string>
+    <string name="selectGramPanchyt">ગ્રામપંચાયતનું ચયન કરો</string>
+    <string name="kyc_doc_type">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) ના પ્રકારનું ચયન કરો</string>
+    <string name="selectVillage">ગામ ચયન કરો</string>
+    <string name="blockName">તાલુકાનું નામ:</string>
+    <string name="enterAadharMsg">તમારા આધારની વિગતો દાખલ કરો</string>
+    <string name="uploade_msg">Upload filled consent form (Only PDF)</string>
+    <string name="loading">લોડ થઈ રહ્યું છે...</string>
+    <string name="scan_brcd">બારકોડ સ્કૅન કરો</string>
+    <string name="gpsMsg">જીપીએસ (GPS) ચાલુ નથી. સેટિંગ્સ મેનૂ પર જાઓ?</string>
+    <string name="gotoSetting">સેટિંગ પર જાઓ</string>
+    <string name="enterValidAccMsg">માન્ય ખાતા સંખ્યા દાખલ કરો </string>
+    <string name="enter">દાખલ કરો</string>
+    <string name="enterDigitMsg">અંકોવાળી ખાતા સંખ્યા</string>
+    <string name="error_acc_length">Account Number length is too short.</string>
+    <string name="accountNoIsWrong"> ખાતા સંખ્યા મેળ નથ ખાતી! કૃપા તપાસો અને ફરીથી દાખલ કરો</string>
+    <string name="scanBarCode">બારકોડ સ્કૅન કરો, ટૉર્ચ માટે વૉલ્યુમ-અપ બટન દબાવો</string>
+    <string name="fillAddharDetail">સૌપ્રથમ આધાર સંખ્યા ભરો!!!</string>
+    <string name="fillAccountDetail">સૌપ્રથમ ખાતા સંખ્યા ભરો!!!</string>
+    <string name="error_uploade_concent">Please uploade filled consent form!!!</string>
+    <string name="error_file_size">Please uploade concent form file with size upto 115KB!</string>
+    <string name="enterValidMobile">Enter Valid Mobile Number!!!</string>
+    <string name="enter_postalcode">પિન કોડ દાખલ કરો</string>
+    <string name="enterErongAadhar">દાખલ કરેલ યુઆઈડી (UID - આધાર સંખ્યા) ખોટી  છે.</string>
+    <string name="takePassbookPhoto">સૌપ્રથમ પાસબુકનો ફોટો લો!!!</string>
+    <string name="SERVER_ERROR_MESSAGE">આંતરિક સર્વર ત્રુટિ.</string>
+
+    <!--created by lincon for add member layout-->
+    <string name="aadhar_seeded_acc">આધાર સીડેડ ખાતું</string>
+    <string name="insurance_coverage_pmjjy">પીએમજેજેવાય (PMJJBY) માં નોંધાયેલ છે </string>
+    <string name="insurance_coverage_pmsby">પીએમએસબીવાય (PMSBY) માં નોંધાયેલ છે </string>
+    <string name="insurance_coverage_life">જીવન વીમામાં નોંધાયેલ છે</string>
+    <string name="insurance_coverage_pension">નિવૃત્તિવેતન યોજનામાં (એપીવાય / APY) માં નોંધાયેલ છે</string>
+    <string name="date_of_joining">જોડાવાની તારીખ<font color='#FFFF1100'>*</font><i><font color='#FFFF1100' size='10'> (dd-mm-yyy)</font></i> </string>
+
+    <!--created by lincon NIC tag layout-->
+    <string name="personal_detail">અંગત વિગતો</string>
+    <string name="bank_detail_member">બેંકની વિગત</string>
+    <string name="insurance_coverage">વીમા સંરક્ષણ</string>
+    <string name="bottom_text">એનઆઈસી (NIC) દ્વારા ડિઝાઇન, હોસ્ટ, અને જાળવવામાં આવેલ  છે, એમઓઆરડી (MoRD) દ્વારા સામગ્રી પ્રદાન કરવામા આવેલ છે.</string>
+
+    <!--added by Abdul-->
+    <string name="user_id">યુઝર આઈડી</string>
+    <string name="kyc_doc_id">દસ્તાવેજ આઈડી દાખલ કરો</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="login">લૉગઇન</string>
+    <string name="logout">લૉગઆઉટ</string>
+    <string name="server_error_dialog">સર્વર ત્રુટિ!</string>
+    <string name="NO_INTERNET_TITLE">ઇન્ટરનેટ નથી!</string>
+    <string name="SERVER_ERROR_TITLE">સર્વર ત્રુટિ!</string>
+    <string name="INTERNET_MESSAGE">કૃપા કરીને, તમારું ઇન્ટરનેટ કનેક્શન ખોલો.</string>
+    <string name="server_error_msg">Server Error!!!</string>
+    <string name="slow_internet">ઇન્ટરનેટ ધીમો છે!!!</string>
+    <string name="no_internet_dialog">ઇન્ટરનેટ નથી!</string>
+    <string name="goto_internet_setting">સેટિંગ</string>
+    <string name="aadhar_link_status">આધાર જોડાયેલ (લિંક્ડ) છે.</string>
+    <string name="kyc_heading">Upgrade SHG profile</string>
+    <string name="status">સ્થિતિ</string>
+    <string name="change_status">સ્થિતિ બદલો</string>
+    <string name="status_active">સક્રિય</string>
+    <string name="status_inactive">નિષ્ક્રિય</string>
+    <string name="member_form">સ્વ-સહાય જૂથના સભ્યોનું ફોર્મ</string>
+    <string name="KYC_Verified">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) ચકાસાયેલ છે </string>
+    <string name="member_Verified">સભ્યને ઉમેર્યું</string>
+    <!--Text messages-->
+
+    <string name="unsync_details">UnSync Details:</string>
+    <string name="sync_data">ડેટા સુમેળ (સિંક) કરો</string>
+    <string name="unsync_aadhar">આધાર</string>
+    <string name="unsync_bankAcc">બેંક ખાતાઓ</string>
+    <string name="unsync_add_member">ઉમેરાયેલા સભ્યો</string>
+    <string name="unsync_kyc_doc">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) </string>
+    <string name="unsynced_modified_member">ફેરફાર કરેલ સભ્યો</string>
+    <string name="unsynced_modified_shg">ફેરફાર કરેલ સ્વ-સહાય જૂથ</string>
+    <string name="bank_details">બેંક ખાતું</string>
+    <string name="unsync_aadhar_count">unsync_account_count</string>
+    <string name="unsync_account_count">unsync_account_count</string>
+    <string name="unsync_member_count">""</string>
+    <string name="unsync_kycdoc_count">""</string>
+    <string name="unsyncedMembers">""</string>
+    <string name="unsyncedshgs">""</string>  <!--Unsync-->
+
+    <string name="title">આધાર સ્કૅનરના કાર્યો</string>
+    <string name="contact_us">અમારો સંપર્ક સાધો</string>
+    <string name="save">સેવ</string>
+    <string name="back">Back</string>
+    <string name="data_save_msg">ડેટા સેવ સફળતાપૂર્વક થયું.</string>
+    <string name="data_sync_msg">ડેટા સિંક સફળતાપૂર્વક થયું.</string>
+    <string name="syncing_data">ડેટા સિંક થઇ રહ્યું છે...</string>
+    <string name="bank_acc_link_status">બેંક ખાતાની વિગતો લેવામાં આવેલ છે.</string>
+    <string name="info">માહિતી</string>
+    <string name="shg_is">પુષ્ટીકરણ</string>
+    <string name="member_is">પુષ્ટીકરણ</string>
+    <string name="shg_inactive_msg">છે અને નથનારા કોઈ પણ કર્યો કરી શકાતા નથી.</string>
+    <string name="login_attempts_msgS">તમારી પાસે ફક્ત</string>
+    <string name="login_attempts_msgE">લૉગઇન પ્રયાસ / પ્રયાસો બાકી છે.</string>
+    <string name="pending_status">નિષ્ક્રિય તરીકે અંકિત કર્યું છે</string>
+    <string name="rejected_status">Rejected</string>
+    <string name="accepted">Accepted</string>
+    <string name="no_data_found">કોઈ ડેટા મળ્યા નથી!!!</string>
+    <string name="communicate_to_server">સૌપ્રથમ ઑનલાઇન મોડમાં સર્વરથી ડેટા મેળવો.</string>
+
+
+    <!--error messages-->
+    <string name="error_status">સભ્ય નિષ્ક્રિય છે.</string>
+    <string name="error_userId">અમાન્ય યુઝર આડી!</string>
+    <string name="error_password">અમાન્ય પાસવર્ડ!</string>
+    <string name="error_name">Invalid entered name!</string>
+    <string name="error_Fname">Invalid entered father name!</string>
+    <string name="error_yob">જન્મ તારીખ દાખલ કરો!</string>
+    <string name="error_address">તમારા આધારનું સરનામું દાખલ કરો!</string>
+    <string name="error_doc_id">અમાન્ય દસ્તાવેજ આઈડી!</string>
+    <string name="error_bank_branch">Select bank branch</string>
+    <string name="error_aadhar_details_wrong">Entered aadhar details are wrong. </string>
+    <string name="error_uidai_id">યુઆઇડીએઆઇ (UIADI) સંખ્યા દાખલ કરો</string>
+    <string name="error_mobile">કૃપા કરી, માન્ય મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="error_gender">Enter only M->Male or F->Female or T->Transgender</string>
+    <string name="error_other_edu">કૃપા કરીને અન્ય શિક્ષણનું ઉલ્લેખ કરો </string>
+    <string name="server_error_device_info">મોબાઈલ ત્રુટિ</string>
+    <string name="error_secc_no">સૌપ્રથમ એસઇસીસી (SECC) સંખ્યાનું ચયન કરો.</string>
+    <string name="server_error_device_info_massege">તમે તમારા મોબાઇલ ને બદલી અથવા અપડેટ કર્યું છે</string>
+    <string name="server_error_invalid_id_or_password_massege">અમાન્ય યુઝર આઈડી અને પાસવર્ડ!</string>
+    <string name="AADHAR_API_VOLLEY_ERROR">આધાર સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="BANK_ACC_API_VOLLEY_ERROR">ખાતા સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="ADD_MEMBER_API_VOLLEY_ERROR">સભ્યો ઉમેરો નો સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="KYC_DOC_API_VOLLEY_ERROR">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) નો સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="KYC_DOC_sync">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) સિંક!</string>
+    <string name="SHG_INACTIVE_API_VOLLEY_ERROR">સ્વ-સહાય જૂથ નિષ્ક્રિય સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="Member_INACTIVE_API_VOLLEY_ERROR">સભ્ય નિષ્ક્રિય સિંક ડેટા નિષ્ફળ રહ્યુ, ફરીથી પ્રયાસ કરો!</string>
+    <string name="sync_data_failed">ડેટા સિંક નિષ્ફળ રહ્યુ, કૃપા કરીને ફરીથી પ્રયાસ કરો!</string>
+    <string name="error_cridential_block">તમારું ઓળખપત્રો જ્યાં સુધી અનાવરોધિત થાય ત્યાં સુધી કૃપા કરીને રાહ જુઓ.</string>
+    <string name="error_add_member_limit_exceed">SHG add member limit exceeded, You can not add more member </string>
+
+
+    <!--Toast messages-->
+    <string name="toast_exit_app">બહાર નીકળવા માટે ફરી એકવાર ટેપ કરો.</string>
+    <string name="toast_aadhar_bank_marked">આધાર અને બેંક બન્ને ચકાસેલા છે એમ અંકિત થયેલ છે</string>
+    <string name="toast_aadhar_bank_linked">આધાર અને બેંક આ બન્ને વિગતો જોડાયેલી (લિંક્ડ) છે</string>
+    <string name="toast_vill_not_assigned">ગામો સોંપાયેલ નથી.</string>
+    <string name="toast_gp_not_assigned">ગ્રામપંચાયતો સોંપાયેલ નથી.</string>
+    <string name="toast_block_not_assigned">તાલુકાઓ સોંપાયેલ નથી.</string>
+    <string name="toast_error_member_photo">સૌપ્રથમ સભ્યનો ફોટો લો!!!</string>
+    <string name="toast_error_passbook_photo">સૌપ્રથમ બેંક પાસબુકનો ફોટો લો!!!</string>
+    <string name="toast_error_front_photo">સામનેની છબીનું પરિણામ રદ કરવામાં આવ્યું છે, ફરીથી પ્રયાસ કરો!</string>
+    <string name="toast_error_back_photo">પાછળની છબીનું પરિણામ રદ કરવામાં આવ્યું છે, ફરીથી પ્રયાસ કરો!</string>
+    <string name="toast_document_exists">દસ્તાવેજ અગાઉથી અસ્તિત્વમાં છે.</string>
+    <string name="toast_take_front_image">Please add document image.</string>
+    <string name="toast_take_back_image">Please add document back side image.</string>
+    <string name="no_village">No village assinged under</string>
+    <string name="gp">ગ્રામપંચાયત હેઠળ</string>
+    <string name="valid">માન્ય</string>
+    <string name="not_valid">માન્ય નથી</string>
+    <string name="toast_uploade_file">Upload the PDF file first. </string>
+
+    <string name="invalid_acc_no">કૃપા કરી, માન્ય ખાતા સંખ્યા દાખલ કરો.</string>
+    <string name="aadhar_exists">આધાર કાર્ડ અગાઉથી અસ્તિત્વમાં છે.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">હેલ્લો કોરો ટુકડો</string>
+
+
+    <!--added by Manish-->
+    <string name="enter_mpin">તમારું એમ-પીન દાખલ કરો</string>
+    <string name="confirm_mpin">તમારા એમ-પીનની પુષ્ટિ કરો</string>
+    <string name="create_mpin">Create 4 Digit Mpin</string>
+    <string name="forgotpin">એમ-પીન ભૂલી ગયા છો</string>
+    <string name="Proceed">આગળ વધો</string>
+    <string name="toast_FAIL">નિષ્ફળ</string>
+    <string name="unlock_first">કૃપા કરીને સૌપ્રથમ ખોલો (અનલૉક કરો)</string>
+    <string name="faild_code">"ખોટો એમ-પીન, ફરી પ્રયાસ કરો!"</string>
+    <string name="Mpin_ceated_successfully">એમ-પીન સફળતાપૂર્વક તૈયાર થયેલ છે.</string>
+    <string name="chnage_language">ભાષા બદલો</string>
+    <string name="Enter_aadhar_number">૧૨ અંકોવાળી આધાર સંખ્યા દાખલ કરો</string>
+    <string name="other_education">મહેરબાની કરી સ્પષ્ટ કરો</string>
+    <string name="name_as_per_aadhar">આધાર મુજબ નામ</string>
+    <string name="gender">લિંગ (મ / પુ / અ)</string>
+    <string name="father_name">પિતાનું નામ</string>
+    <string name="year_of_birth">જન્મ તારીખ / વર્ષ</string>
+    <string name="postel_code">પિન કોડ</string>
+    <string name="Address">સરનામું</string>
+    <string name="submit_aadhar_details">આધારની વિગતો આપો</string>
+    <string name="block_gp_name">તાલુકાનું નામ >> ગ્રામપંચાયતનું નામ >> ગામનું નામ</string>
+    <string name="shg_name">સ્વ-સહાય જૂથનું નામ: -</string>
+    <string name="member_name">સભ્યનું નામ: -</string>
+    <string name="shg_member_photo">સ્વ-સહાય જૂથના સભ્યનો ફોટો</string>
+    <string name="member_photo">સભ્યનો ફોટો</string>
+
+    <string name="enter_your_bank_account_details">તમારા બેંક ખાતાની વિગતો દાખલ કરો</string>
+    <string name="select_bank_type">બેંક પ્રકારનો ચયન કરો </string>
+    <string name="select_bank">બેંકનો ચયન કરો  </string>
+    <string name="select_bank_branch">બેંક શાખાનો ચયન કરો </string>
+    <string name="ifsc_code">આઈએફએસસી (IFSC) કોડ</string>
+    <string name="account_number">ખાતા સંખ્યા </string>
+    <string name="confirm_account_number">ખાતા સંખ્યાની પુષ્ટિ કરો</string>
+    <string name="Take_passbook_photo">પાસબુકનો ફોટો લો</string>
+    <string name="passbook_photo">પાસબુક ફોટો: -</string>
+    <string name="doc_image_title">દસ્તાવેજની છબી</string>
+    <string name="doc_image_front_title">સામેની છબી </string>
+    <string name="doc_image_back_title">પાછળની છબી</string>
+    <string name="Take_again">ફરીથી લો</string>
+    <string name="submitDetails">વિગતો આપો</string>
+    <string name="add_photo">ફોટો ઉમેરો</string>
+    <string name="submit_account_details">ખાતાની વિગતો આપો</string>
+
+    <string name="select_location">સ્થાનનું ચયન કરો</string>
+    <string name="national_livelihood_mission">રાષ્ટ્રીય ગ્રામીણ આજીવિકા અભિયાન</string>
+    <string name="hotel_address">૬ઠ્ઠો માળો, હોટલ સમ્રાટ, ચાણક્યપુરી \n નવી દિલ્હી -૧૧૦૦૨૧ \n દુરધ્વની ક્રમાંક: ૦૧૧ ૨૪૧૨૨૯૪૭</string>
+    <string name="name_abc">નામ અબક</string>
+    <string name="go_to_aadhar_details">આધાર વિગતો પર જાઓ</string>
+    <string name="go_to_account_details">ખાતા વિગતો પર જાઓ</string>
+    <string name="cancel">રદ</string>
+    <string name="qr_code_scanner">ક્યૂઆર કોડ (QR Code) સકૅનર</string>
+    <string name="ok">ઠીક (ઓકે)</string>
+    <string name="logedin_already">પહેલાથીજ લૉગ્ડઈન છો</string>
+    <string name="loading_heavy">કૃપા કરીને રાહ જુઓ, ભારી ડેટા લોડ થઈ રહ્યું છે</string>
+    <string name="title_name">નામ</string>
+    <string name="total_shgs_members">સ્વ-સહાય જૂથના કુલ સભ્યો</string>
+    <string name="shg_member_name">સ્વ-સહાય જૂથના સભ્યનું નામ</string>
+    <string name="aadhar_card_linked">આધાર કાર્ડ</string>
+    <string name="aadhar_card_exist">આધાર કાર્ડ પહેલાથીજ અસ્તિત્વમાં છે.</string>
+
+    <string name="bank_account_linked">બેંક ખાતું</string>
+    <string name="kyc">ઓળખપત્ર (કેવાયસી દસ્તાવેજ) </string>
+    <string name="digits_address">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="digits_name">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="pending">નિષ્ક્રિય એમ અંકિત કર્યું છે</string>
+    <string name="marked_as_verified">ચકાસાયેલ એમ અંકિત કર્યું છે</string>
+    <string name="verified">ચકાસણી થયેલ </string>
+    <string name="unverified">ચકાસ્યાં વિનાનું</string>
+    <string name="kyc_completed">Completed</string>
+    <string name="kyc_not_completed">Not Completed</string>
+    <string name="please_update_your_aadhar_bank">કૃપા કરીને તમારા આધાર / બેંક ને અપડેટ કરો</string>
+
+    <string name="duplicate_title">ડુપ્લિકેટ ડેટા</string>
+    <string name="duplicate_msg">ડેટા આવતા લોગઇન પર આપમેળે કાઢી નાખવામાં આવશે</string>
+    <string name="duplicate_aadhar">આધાર </string>
+
+
+    <string name="this_is_not_uidai_compliance_qr">આયુઆઈડીએઆઇ (UIDAI) માન્ય ક્યૂઆર કોડ (QR Code) નથી</string>
+
+    <string name="fill_your_aadhar_and_bank_account">તમારા આધાર અને બેંક ખાતાની વિગતો ભરો</string>
+    <string name="do_you_want_to_change_the_language">શું તમે ભાષા બદલવા માંગો છો?</string>
+    <string name="save_data_confirmation">શું તમે ડેટા સેવ કરવા માંગો છો?</string>
+    <string name="go_to_shg_list">સ્વ-સહાય જૂથની સૂચિ પર જાઓ</string>
+    <string name="scan_aadhar">આધાર સ્કૅન કરો</string>
+    <string name="home">હોમ </string>
+    <string name="change_language">ભાષા બદલો</string>
+    <string name="details_on_this_selected_location">આ પસંદ કરેલા સ્થાન પરની વિગતો</string>
+    <string name="Number_of_total_shg">સ્વ-સહાય જૂથની કુલ સંખ્યા</string>
+    <string name="total_number_of_shg_member">સ્વ-સહાય જૂથના સભ્યોની કુલ સંખ્યા</string>
+    <string name="total_number_of_member_linked_aadhar_card">સભ્યો સાથે જોડેલા (મેમ્બર-લિંક્ડ) આધાર કાર્ડની કુલ સંખ્યા</string>
+    <string name="total_number_of_member_pending_for_aadhar_linked">આધાર સાથે જોડવા (લિંક) માટે બાકી રહેલા સભ્યોની કુલ સંખ્યા</string>
+    <string name="total_number_of_pending_bank_account_linked">બેંક ખાતા સાથે જોડવા (લિંક) માટે બાકી રહેલા સભ્યોની કુલ સંખ્યા </string>
+    <string name="submit">જમા કરો</string>
+    <string name="invalid_user">અમાન્ય યુઝર આઈડી અને પાસવર્ડ</string>
+    <string name="wait_for_adding_location">સ્થાન મેળવવા માટે રાહ જુઓ!!!</string>
+    <string name="take_member_photo">સૌપ્રથમ સભ્યનો ફોટો લો!!!</string>
+    <string name="getting_location">સ્થાન મેળવી રહ્યા છીએં કૃપયા પ્રતીક્ષા કરો!!!</string>
+    <string name="canceld">રદ કર્યું</string>
+    <string name="not_scaned">સ્કૅન થયું નથી</string>
+    <string name="enter_education">અન્ય શિક્ષણ દાખલ કરો</string>
+    <string name="select_pension">નિવૃત્તિ-વેતન ચયન કરો હા/ના!!</string>
+    <string name="select_life_insurance">જીવન વીમો ચયન કરો હા/ના!!</string>
+    <string name="select_pmsby">પીએમએસબીવાય (PMSBY) ચયન કરો હા/નાં!!</string>
+    <string name="select_pmjjy">પીએમજેજેવાય (PMJJBY) ચયન કરો હા/ના!!</string>
+    <string name="select_dateofbirth">જન્મ તારીખ ચયન કરો!</string>
+
+    <string name="select_bank_name">સૌપ્રથમ બેંકનું નામ ચયન કરો</string>
+
+    <string name="education">શિક્ષણ</string>
+    <string name="leader">હોદ્દો ચયન કરો</string>
+    <string name="pip">પીઆઇપી (PIP)</string>
+    <string name="religion">ધર્મ</string>
+    <string name="disablity">દિવ્યાંગતા</string>
+    <string name="select_social_category">સામાજિક વર્ગનું ચયન કરો</string>
+    <string name="enter_mobile_number">મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="error_pvgt">પીવીજીટી (PVGT) ચયન કરો</string>
+    <string name="fill_account_number">ખાતા સંખિયા ભરો!!</string>
+
+    <string name="please_confirm_account_number">કૃપા કરીને ખાતા સંખિયાની પુષ્ટિ કરો!!</string>
+    <string name="select_aadhar_seeded">આધાર સીડડ ખાતું ચયન કરવું કે નહીં!!</string>
+    <string name="mpin_creation">એમ-પીન તૈયાર કરવું નિષ્ફળ થયું</string>
+    <string name="please_allow_permission">કૃપા કરીને પરવાનગીને મંજૂરી આપો</string>
+    <string name="done">થઈ ગયું</string>
+    <string name="enter_aadhar_card_number_is_wrong">દાખલ કરેલ આધાર કાર્ડનું ક્રમાંક ખોટું છે</string>
+    <string name="please_select_the_location_first">કૃપા કરીને સૌપ્રથમ સ્થાનનું ચયન કરો</string>
+    <string name="do_you_want_to_inactivate_the_member">શું તમે સભ્યને નિષ્ક્રિય કરવા ઈચ્છો છો</string>
+    <string name="gram_panchayat">ગ્રામપંચાયત</string>
+    <string name="village">ગામ</string>
+
+    <string name="shg_code">સ્વ-સહાય જૂથનું કોડ</string>
+    <string name="mobile_number">મોબાઇલ નંબર</string>
+    <string name="social_category">સામાજિક વર્ગ</string>
+    <string name="pvgt_status">પીવીટીજી (PVTG)</string>
+
+
+    <string name="pip_category">પીઆઇપી (PIP) વર્ગ</string>
+    <string name="education_standered">શૈક્ષણિક સ્તર  </string>
+    <string name="is_she_book_keeper">શું એ વહીખાતું લખનાર (બુકકિપર) છે </string>
+    <string name="select_member_name_from_secc">એસઈસીસી (SECC) યાદી માંથી સભ્યનું નામ ચયન કરો</string>
+    <string name="data_saved_successfully">ડેટા સફળતાપૂર્વક સેવ કરવામાં આવ્યું છે</string>
+    <string name="forgot_password">પાસવર્ડ ભૂલી ગયા છો</string>
+    <string name="otp_creation">ઓટીપી (OTP) બનાવવું </string>
+    <string name="enter_mobile">તમારો મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="send_otp">ઓટીપી (OTP) મોકલો</string>
+    <string name="enter_valid_mobile_number">કૃપા કરીને માન્ય મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="no_internet_connection">ઇન્ટરનેટ કનેક્શન નથી"</string>
+    <string name="please_open_your_internet_connection">કૃપા કરીને તમારું ઇન્ટરનેટ કનેક્શન ખોલો</string>
+
+    <string name="otp_massage">આ વિસ્તૃત પ્રોફાઇલ એપ્લિકેશન માટે વન ટાઇમ પાસવર્ડ (ઓટીપી / OTP) છે. તેને કોઈની સાથે વાટસો (શેર કરશો) નહીં.</string>
+    <string name="reset_pass_TV">પાસવર્ડ ફરીથી સેટ કરો</string>
+    <string name="enter_otp">ઓટીપી (OTP) દાખલ કરો</string>
+    <string name="error_otp">દાખલ કરેલ ઓટીપી (OTP) ખોટો છે</string>
+    <string name="enter_pass">નવો પાસવર્ડ</string>
+    <string name="confirm_pass">નવા પાસવર્ડની પુષ્ટી કરો</string>
+    <string name="error_confirm_password">પુષ્ટિ કરેલ પાસવર્ડની લંબાઈ ૬ અક્ષરોં કરતા ઓછી હોઈ શકતી નથી.</string>
+    <string name="toast_otp_wrong">દાખલ કરેલો ઓટીપી (OTP) ખોટો છે.</string>
+    <string name="error_confirm_password_not_matched">પુષ્ટિ કરેલ પાસવર્ડ મેળ ખાતો નથી.</string>
+    <string name="error_invalid_aadhar">Invalid aadhar, do not use space</string>
+    <string name="error_invalid_pan">Invalid pan card</string>
+    <string name="error_invalid_dl">Invalid driving liecence, do not use hiphen(-) or space</string>
+    <string name="error_invalid_passport">Invalid passport,do not use space</string>
+    <string name="error_invalid_aadhar_enrollment">Invalid aadhar enrollment number</string>
+    =========================================================================================================================
+    <!--newly added string labels-->
+    <string name="toast_file_upload_error">Error in file, upload another. </string>
+    <string name="error_in_update_pass_response">Please try again with another userId and mobile number </string>
+    <string name="error_in_fill_mpin">Lock code is empty!</string>
+    <string name="KYC_complt">KYC is completed.</string>
+    <string name="no_shg">Shg Not Found !!!</string>
+    <string name="no_ops">You can not perform any operation on it.</string>
+
+    <string name="designation">Designation</string>
+    <string name="change_designation">Change Designation</string>
+    <string name="designation_current_status">Current Status</string>
+    <string name="changed">Updated</string>
+    <string name="requested">Requested</string>
+    <string name="max_update_done">All designation updated</string>
+    <string name="error_designation">(Designation) is already updated.So please select another designation.</string>
+    <string name="Member_UPDATE_API_VOLLEY_ERROR">Update designation sync data  failed, try again!</string>
+    <string name="Member_updated_msg">Updating designation is a one time process,means you can not assign this designation to other.</string>
+    <string name="invalid_reuest_msg">is invalid request.</string>
+    <string name="error_leadership">is already exist in the group.Please select another designation!</string>
+
+
+    <!--   newly added 26_10_21  -->
+    <string name="toast_face_msg">More than 1 face found.</string>
+    <string name="toast_no_face_msg">No face found.</string>
+    <string name="toast_images_msg">Uploaded images are wrong, Please upload another image</string>
+    <string name="error_in_image">Error in image.</string>
+</resources>

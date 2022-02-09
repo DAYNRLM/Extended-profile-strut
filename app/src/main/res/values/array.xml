@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--arrays created by lincon-->
+<resources>
+    <string-array name="socialCatagory">
+        <item>SC</item>
+        <item>ST</item>
+        <item>OBC</item>
+        <item>OTHER</item>
+    </string-array>
+
+    <string-array name="disablity">
+        <item>No</item>
+        <item>SELF</item>
+        <item>FAMILY MEMBER</item>
+    </string-array>
+
+    <string-array name="religion">
+        <item>Buddhist</item>
+        <item>Christian</item>
+        <item>Hindu</item>
+        <item>Jain</item>
+        <item>Muslim</item>
+        <item>Parsis</item>
+        <item>Sikh</item>
+        <item>Other</item>
+    </string-array>
+    
+
+    <string-array name="pipCatagory">
+        <item>POP</item>
+        <item>Poor</item>
+        <item>Non-Poor</item>
+    </string-array>
+
+    <string-array name="leaderArray">
+        <item>Member</item>
+        <item>President</item>
+        <item>Treasurer</item>
+        <item>Secretary</item>
+    </string-array>
+
+    <string-array name="educationStandard">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>GRADUATE</item>
+        <item>POST GRADUATE</item>
+        <item>OTHER</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>FEMALE</item>
+        <item>TRANSGENDER</item>
+    </string-array>
+
+    <string-array name="commanArray">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="statusArray">
+        <item>Inactive</item>
+    </string-array>
+
+    <string-array name="kycDocArray">
+        <item>Aadhar</item>
+        <item>Pan Card</item>
+        <item>Passport</item>
+    </string-array>
+</resources>
